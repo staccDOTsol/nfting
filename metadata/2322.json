@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9284",
+  "description": "A noble elf wearing an illustrious minimalist bone crown, standing in a ocean, illustration style, highly detailed, perfect lighting",
+  "image": "image_9284.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8632",
+  "description": "A ethereal centaur wearing an illustrious cyberpunk ruby crown, standing in a battlefield, pixel art style, highly detailed, perfect lighting",
+  "image": "image_8632.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9084",
+  "description": "A serene sorcerer wearing an illustrious elegant floral crown, standing in a enchanted forest, watercolor style, highly detailed, perfect lighting",
+  "image": "image_9084.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

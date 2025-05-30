@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3204",
+  "description": "A regal mermaid wearing an illustrious baroque silver crown, standing in a desert, concept art style, highly detailed, perfect lighting",
+  "image": "image_3204.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

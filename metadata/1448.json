@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5788",
+  "description": "A fearsome ranger wearing an illustrious minimalist crystal crown, standing in a ocean, watercolor style, highly detailed, perfect lighting",
+  "image": "image_5788.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1752",
+  "description": "A ancient king wearing an illustrious medieval bronze crown, standing in a meadow, digital art style, highly detailed, perfect lighting",
+  "image": "image_1752.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

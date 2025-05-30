@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2716",
+  "description": "A regal mermaid wearing an illustrious renaissance crystal crown, standing in a enchanted forest, illustration style, highly detailed, perfect lighting",
+  "image": "image_2716.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

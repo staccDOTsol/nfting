@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #880",
+  "description": "A elegant samurai wearing an illustrious medieval sapphire crown, standing in a meadow, digital art style, highly detailed, perfect lighting",
+  "image": "image_880.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

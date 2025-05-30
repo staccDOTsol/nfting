@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1888",
+  "description": "A noble werewolf wearing an illustrious steampunk emerald crown, standing in a castle, digital art style, highly detailed, perfect lighting",
+  "image": "image_1888.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

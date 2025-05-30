@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9404",
+  "description": "A serene centaur wearing an illustrious ornate golden crown, standing in a celestial realm, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_9404.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

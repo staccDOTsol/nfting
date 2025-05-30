@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4752",
+  "description": "A fearsome minotaur wearing an illustrious futuristic sapphire crown, standing in a hellscape, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_4752.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

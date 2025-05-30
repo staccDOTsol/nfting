@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2088",
+  "description": "A graceful wizard wearing an illustrious elegant platinum crown, standing in a mountain peak, watercolor style, highly detailed, perfect lighting",
+  "image": "image_2088.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5352",
+  "description": "A powerful dwarf wearing an illustrious elegant wooden crown, standing in a enchanted forest, concept art style, highly detailed, perfect lighting",
+  "image": "image_5352.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9020",
+  "description": "A mysterious dwarf wearing an illustrious cyberpunk iron crown, standing in a cosmic space, 3D render style, highly detailed, perfect lighting",
+  "image": "image_9020.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

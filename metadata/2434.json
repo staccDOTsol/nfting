@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9732",
+  "description": "A noble elf wearing an illustrious cyberpunk emerald crown, standing in a mountain peak, illustration style, highly detailed, perfect lighting",
+  "image": "image_9732.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

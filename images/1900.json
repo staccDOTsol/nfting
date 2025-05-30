@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7596",
+  "description": "A majestic witch wearing an illustrious steampunk wooden crown, standing in a hellscape, pixel art style, highly detailed, perfect lighting",
+  "image": "image_7596.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

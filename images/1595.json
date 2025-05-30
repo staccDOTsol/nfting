@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6376",
+  "description": "A cunning ninja wearing an illustrious steampunk golden crown, standing in a cosmic space, oil painting style, highly detailed, perfect lighting",
+  "image": "image_6376.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

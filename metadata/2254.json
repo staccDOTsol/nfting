@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9012",
+  "description": "A cunning dwarf wearing an illustrious cyberpunk bronze crown, standing in a meadow, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_9012.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

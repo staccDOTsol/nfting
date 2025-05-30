@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1868",
+  "description": "A majestic samurai wearing an illustrious spiky silver crown, standing in a enchanted forest, watercolor style, highly detailed, perfect lighting",
+  "image": "image_1868.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

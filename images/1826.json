@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7300",
+  "description": "A cunning ninja wearing an illustrious steampunk obsidian crown, standing in a hellscape, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_7300.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

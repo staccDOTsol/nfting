@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5144",
+  "description": "A regal knight wearing an illustrious gothic diamond crown, standing in a dungeon, oil painting style, highly detailed, perfect lighting",
+  "image": "image_5144.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

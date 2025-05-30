@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6828",
+  "description": "A cunning dragon wearing an illustrious simple copper crown, standing in a enchanted forest, oil painting style, highly detailed, perfect lighting",
+  "image": "image_6828.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

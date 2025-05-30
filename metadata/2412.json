@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9644",
+  "description": "A majestic dragon wearing an illustrious futuristic wooden crown, standing in a dungeon, comic book style, highly detailed, perfect lighting",
+  "image": "image_9644.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

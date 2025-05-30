@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3372",
+  "description": "A noble king wearing an illustrious ornate iron crown, standing in a cosmic space, manga style, highly detailed, perfect lighting",
+  "image": "image_3372.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

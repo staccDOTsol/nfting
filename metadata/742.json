@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2964",
+  "description": "A cunning dwarf wearing an illustrious simple emerald crown, standing in a desert, concept art style, highly detailed, perfect lighting",
+  "image": "image_2964.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #748",
+  "description": "A ancient werewolf wearing an illustrious ornate silver crown, standing in a battlefield, comic book style, highly detailed, perfect lighting",
+  "image": "image_748.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

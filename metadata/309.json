@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1232",
+  "description": "A majestic ninja wearing an illustrious simple diamond crown, standing in a cosmic space, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_1232.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

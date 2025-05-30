@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8048",
+  "description": "A graceful witch wearing an illustrious delicate obsidian crown, standing in a desert, illustration style, highly detailed, perfect lighting",
+  "image": "image_8048.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1520",
+  "description": "A serene ranger wearing an illustrious elegant golden crown, standing in a dungeon, concept art style, highly detailed, perfect lighting",
+  "image": "image_1520.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

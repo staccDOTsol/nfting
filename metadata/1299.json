@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5192",
+  "description": "A regal centaur wearing an illustrious medieval bronze crown, standing in a battlefield, illustration style, highly detailed, perfect lighting",
+  "image": "image_5192.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

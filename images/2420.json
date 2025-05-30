@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9676",
+  "description": "A noble fairy wearing an illustrious intricate obsidian crown, standing in a dungeon, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_9676.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

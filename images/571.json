@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2280",
+  "description": "A powerful werewolf wearing an illustrious delicate silver crown, standing in a void, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2280.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

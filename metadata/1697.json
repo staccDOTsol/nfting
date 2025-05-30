@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6784",
+  "description": "A powerful elf wearing an illustrious ornate floral crown, standing in a throne room, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_6784.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

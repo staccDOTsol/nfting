@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9352",
+  "description": "A ethereal assassin wearing an illustrious ornate diamond crown, standing in a throne room, concept art style, highly detailed, perfect lighting",
+  "image": "image_9352.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

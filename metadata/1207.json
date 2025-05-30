@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4824",
+  "description": "A fearsome king wearing an illustrious futuristic silver crown, standing in a dungeon, oil painting style, highly detailed, perfect lighting",
+  "image": "image_4824.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

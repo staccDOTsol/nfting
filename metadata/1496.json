@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5980",
+  "description": "A cunning king wearing an illustrious renaissance sapphire crown, standing in a cosmic space, concept art style, highly detailed, perfect lighting",
+  "image": "image_5980.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

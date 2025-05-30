@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7820",
+  "description": "A ethereal witch wearing an illustrious elegant thorny crown, standing in a enchanted forest, digital art style, highly detailed, perfect lighting",
+  "image": "image_7820.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

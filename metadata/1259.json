@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5032",
+  "description": "A graceful king wearing an illustrious delicate wooden crown, standing in a void, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_5032.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

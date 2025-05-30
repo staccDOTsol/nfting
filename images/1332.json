@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5324",
+  "description": "A imposing wizard wearing an illustrious steampunk diamond crown, standing in a ocean, digital art style, highly detailed, perfect lighting",
+  "image": "image_5324.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

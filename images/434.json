@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1732",
+  "description": "A elegant dwarf wearing an illustrious spiky wooden crown, standing in a dungeon, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_1732.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

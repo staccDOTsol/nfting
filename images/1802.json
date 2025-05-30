@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7204",
+  "description": "A ethereal centaur wearing an illustrious medieval platinum crown, standing in a void, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_7204.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

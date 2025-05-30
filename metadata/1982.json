@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7924",
+  "description": "A noble samurai wearing an illustrious steampunk floral crown, standing in a dungeon, illustration style, highly detailed, perfect lighting",
+  "image": "image_7924.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

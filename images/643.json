@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2568",
+  "description": "A mysterious ninja wearing an illustrious steampunk ruby crown, standing in a dungeon, anime style, highly detailed, perfect lighting",
+  "image": "image_2568.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2072",
+  "description": "A imposing vampire wearing an illustrious renaissance sapphire crown, standing in a cosmic space, anime style, highly detailed, perfect lighting",
+  "image": "image_2072.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

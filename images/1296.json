@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5180",
+  "description": "A cunning dwarf wearing an illustrious gothic ruby crown, standing in a enchanted forest, digital art style, highly detailed, perfect lighting",
+  "image": "image_5180.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

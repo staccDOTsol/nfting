@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7672",
+  "description": "A ancient minotaur wearing an illustrious ornate wooden crown, standing in a desert, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_7672.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

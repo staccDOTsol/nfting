@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #192",
+  "description": "A majestic centaur wearing an illustrious cyberpunk bronze crown, standing in a celestial realm, illustration style, highly detailed, perfect lighting",
+  "image": "image_192.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1880",
+  "description": "A cunning ninja wearing an illustrious cyberpunk sapphire crown, standing in a ocean, watercolor style, highly detailed, perfect lighting",
+  "image": "image_1880.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

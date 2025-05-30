@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1072",
+  "description": "A majestic dwarf wearing an illustrious massive emerald crown, standing in a desert, digital art style, highly detailed, perfect lighting",
+  "image": "image_1072.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

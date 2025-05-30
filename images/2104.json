@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8412",
+  "description": "A mysterious ninja wearing an illustrious renaissance diamond crown, standing in a castle, watercolor style, highly detailed, perfect lighting",
+  "image": "image_8412.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5536",
+  "description": "A serene wizard wearing an illustrious cyberpunk obsidian crown, standing in a void, pixel art style, highly detailed, perfect lighting",
+  "image": "image_5536.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

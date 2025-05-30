@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6852",
+  "description": "A elegant elf wearing an illustrious gothic diamond crown, standing in a meadow, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_6852.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

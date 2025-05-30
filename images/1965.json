@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7856",
+  "description": "A graceful assassin wearing an illustrious baroque wooden crown, standing in a mountain peak, manga style, highly detailed, perfect lighting",
+  "image": "image_7856.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

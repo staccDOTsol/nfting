@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2348",
+  "description": "A cunning ninja wearing an illustrious steampunk emerald crown, standing in a dungeon, pixel art style, highly detailed, perfect lighting",
+  "image": "image_2348.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3932",
+  "description": "A mysterious knight wearing an illustrious gothic obsidian crown, standing in a mountain peak, digital art style, highly detailed, perfect lighting",
+  "image": "image_3932.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

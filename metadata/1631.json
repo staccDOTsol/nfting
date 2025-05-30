@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6520",
+  "description": "A regal dwarf wearing an illustrious medieval wooden crown, standing in a mountain peak, concept art style, highly detailed, perfect lighting",
+  "image": "image_6520.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

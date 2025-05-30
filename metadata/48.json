@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #188",
+  "description": "A fearsome paladin wearing an illustrious medieval thorny crown, standing in a enchanted forest, concept art style, highly detailed, perfect lighting",
+  "image": "image_188.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

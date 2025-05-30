@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7352",
+  "description": "A graceful sorcerer wearing an illustrious massive emerald crown, standing in a meadow, illustration style, highly detailed, perfect lighting",
+  "image": "image_7352.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

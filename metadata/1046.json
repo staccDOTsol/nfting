@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4180",
+  "description": "A majestic elf wearing an illustrious medieval wooden crown, standing in a cosmic space, manga style, highly detailed, perfect lighting",
+  "image": "image_4180.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4876",
+  "description": "A cunning queen wearing an illustrious elegant bone crown, standing in a desert, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_4876.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

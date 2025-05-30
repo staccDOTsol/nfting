@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4324",
+  "description": "A majestic ninja wearing an illustrious delicate ruby crown, standing in a enchanted forest, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_4324.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

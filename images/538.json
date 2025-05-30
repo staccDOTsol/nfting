@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2148",
+  "description": "A ancient ninja wearing an illustrious medieval copper crown, standing in a enchanted forest, comic book style, highly detailed, perfect lighting",
+  "image": "image_2148.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

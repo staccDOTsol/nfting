@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2132",
+  "description": "A mysterious dwarf wearing an illustrious cyberpunk platinum crown, standing in a cosmic space, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_2132.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

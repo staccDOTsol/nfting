@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1700",
+  "description": "A powerful warrior wearing an illustrious steampunk ruby crown, standing in a dungeon, comic book style, highly detailed, perfect lighting",
+  "image": "image_1700.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

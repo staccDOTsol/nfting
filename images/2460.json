@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9836",
+  "description": "A graceful dwarf wearing an illustrious steampunk sapphire crown, standing in a enchanted forest, manga style, highly detailed, perfect lighting",
+  "image": "image_9836.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

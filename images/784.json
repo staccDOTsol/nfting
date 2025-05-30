@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3132",
+  "description": "A cunning ranger wearing an illustrious gothic bronze crown, standing in a meadow, digital art style, highly detailed, perfect lighting",
+  "image": "image_3132.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

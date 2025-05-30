@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9212",
+  "description": "A elegant elf wearing an illustrious minimalist diamond crown, standing in a enchanted forest, concept art style, highly detailed, perfect lighting",
+  "image": "image_9212.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

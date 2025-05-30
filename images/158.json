@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #628",
+  "description": "A ancient wizard wearing an illustrious delicate thorny crown, standing in a ocean, anime style, highly detailed, perfect lighting",
+  "image": "image_628.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

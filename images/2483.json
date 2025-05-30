@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9928",
+  "description": "A powerful knight wearing an illustrious gothic golden crown, standing in a battlefield, oil painting style, highly detailed, perfect lighting",
+  "image": "image_9928.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

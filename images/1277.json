@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5104",
+  "description": "A fearsome dragon wearing an illustrious elegant sapphire crown, standing in a hellscape, watercolor style, highly detailed, perfect lighting",
+  "image": "image_5104.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

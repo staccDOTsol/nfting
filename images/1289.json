@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5152",
+  "description": "A cunning prince wearing an illustrious renaissance platinum crown, standing in a battlefield, illustration style, highly detailed, perfect lighting",
+  "image": "image_5152.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

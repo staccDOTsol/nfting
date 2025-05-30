@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #120",
+  "description": "A regal werewolf wearing an illustrious cyberpunk ruby crown, standing in a castle, watercolor style, highly detailed, perfect lighting",
+  "image": "image_120.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

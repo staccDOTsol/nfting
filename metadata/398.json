@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1588",
+  "description": "A ancient ninja wearing an illustrious steampunk emerald crown, standing in a desert, manga style, highly detailed, perfect lighting",
+  "image": "image_1588.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5440",
+  "description": "A cunning sorcerer wearing an illustrious ornate golden crown, standing in a ocean, anime style, highly detailed, perfect lighting",
+  "image": "image_5440.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

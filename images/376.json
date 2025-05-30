@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1500",
+  "description": "A majestic knight wearing an illustrious ornate golden crown, standing in a battlefield, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_1500.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

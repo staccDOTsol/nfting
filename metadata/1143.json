@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4568",
+  "description": "A graceful werewolf wearing an illustrious elegant crystal crown, standing in a ocean, anime style, highly detailed, perfect lighting",
+  "image": "image_4568.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

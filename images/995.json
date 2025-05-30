@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3976",
+  "description": "A regal dragon wearing an illustrious cyberpunk platinum crown, standing in a void, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_3976.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

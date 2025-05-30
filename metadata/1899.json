@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7592",
+  "description": "A majestic king wearing an illustrious spiky thorny crown, standing in a throne room, anime style, highly detailed, perfect lighting",
+  "image": "image_7592.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

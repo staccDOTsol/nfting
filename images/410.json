@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1636",
+  "description": "A ethereal prince wearing an illustrious ornate copper crown, standing in a ocean, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_1636.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

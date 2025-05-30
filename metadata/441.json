@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1760",
+  "description": "A elegant centaur wearing an illustrious futuristic floral crown, standing in a castle, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_1760.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

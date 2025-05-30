@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2432",
+  "description": "A regal ranger wearing an illustrious ornate iron crown, standing in a void, concept art style, highly detailed, perfect lighting",
+  "image": "image_2432.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

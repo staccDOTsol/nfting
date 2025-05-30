@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #944",
+  "description": "A ancient knight wearing an illustrious baroque thorny crown, standing in a celestial realm, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_944.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

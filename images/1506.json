@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6020",
+  "description": "A majestic minotaur wearing an illustrious futuristic bone crown, standing in a desert, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_6020.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

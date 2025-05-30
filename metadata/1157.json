@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4624",
+  "description": "A cunning prince wearing an illustrious baroque sapphire crown, standing in a cosmic space, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_4624.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

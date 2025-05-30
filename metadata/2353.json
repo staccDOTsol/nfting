@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9408",
+  "description": "A elegant witch wearing an illustrious simple golden crown, standing in a throne room, digital art style, highly detailed, perfect lighting",
+  "image": "image_9408.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

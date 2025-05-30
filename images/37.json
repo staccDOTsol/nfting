@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #144",
+  "description": "A fearsome knight wearing an illustrious delicate bone crown, standing in a hellscape, manga style, highly detailed, perfect lighting",
+  "image": "image_144.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

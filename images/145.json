@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #576",
+  "description": "A powerful wizard wearing an illustrious gothic thorny crown, standing in a battlefield, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_576.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #200",
+  "description": "A fearsome dwarf wearing an illustrious futuristic diamond crown, standing in a celestial realm, digital art style, highly detailed, perfect lighting",
+  "image": "image_200.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

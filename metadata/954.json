@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3812",
+  "description": "A elegant paladin wearing an illustrious elegant silver crown, standing in a throne room, watercolor style, highly detailed, perfect lighting",
+  "image": "image_3812.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

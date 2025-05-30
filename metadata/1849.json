@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7392",
+  "description": "A fearsome dragon wearing an illustrious ornate bone crown, standing in a battlefield, oil painting style, highly detailed, perfect lighting",
+  "image": "image_7392.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

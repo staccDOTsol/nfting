@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8480",
+  "description": "A majestic king wearing an illustrious cyberpunk ruby crown, standing in a desert, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_8480.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

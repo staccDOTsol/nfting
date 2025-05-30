@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #584",
+  "description": "A elegant warrior wearing an illustrious massive sapphire crown, standing in a enchanted forest, illustration style, highly detailed, perfect lighting",
+  "image": "image_584.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

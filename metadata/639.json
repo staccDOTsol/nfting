@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2552",
+  "description": "A noble assassin wearing an illustrious cyberpunk thorny crown, standing in a enchanted forest, comic book style, highly detailed, perfect lighting",
+  "image": "image_2552.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

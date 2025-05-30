@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8940",
+  "description": "A powerful ninja wearing an illustrious steampunk emerald crown, standing in a ocean, comic book style, highly detailed, perfect lighting",
+  "image": "image_8940.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

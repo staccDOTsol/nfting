@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6072",
+  "description": "A fearsome queen wearing an illustrious gothic copper crown, standing in a meadow, pixel art style, highly detailed, perfect lighting",
+  "image": "image_6072.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2648",
+  "description": "A imposing centaur wearing an illustrious delicate golden crown, standing in a desert, 3D render style, highly detailed, perfect lighting",
+  "image": "image_2648.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

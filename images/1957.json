@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7824",
+  "description": "A cunning queen wearing an illustrious gothic golden crown, standing in a cosmic space, 3D render style, highly detailed, perfect lighting",
+  "image": "image_7824.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

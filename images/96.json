@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #380",
+  "description": "A noble werewolf wearing an illustrious elegant sapphire crown, standing in a enchanted forest, illustration style, highly detailed, perfect lighting",
+  "image": "image_380.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

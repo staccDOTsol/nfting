@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7628",
+  "description": "A serene knight wearing an illustrious ornate platinum crown, standing in a meadow, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_7628.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

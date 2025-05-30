@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #104",
+  "description": "A serene paladin wearing an illustrious ornate iron crown, standing in a battlefield, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_104.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

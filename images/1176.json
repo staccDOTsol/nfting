@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4700",
+  "description": "A elegant mermaid wearing an illustrious ornate ruby crown, standing in a cosmic space, digital art style, highly detailed, perfect lighting",
+  "image": "image_4700.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

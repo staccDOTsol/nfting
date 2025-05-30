@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3356",
+  "description": "A regal paladin wearing an illustrious minimalist golden crown, standing in a throne room, concept art style, highly detailed, perfect lighting",
+  "image": "image_3356.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

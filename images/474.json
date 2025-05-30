@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1892",
+  "description": "A graceful samurai wearing an illustrious renaissance golden crown, standing in a cosmic space, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_1892.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

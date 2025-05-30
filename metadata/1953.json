@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7808",
+  "description": "A noble king wearing an illustrious steampunk copper crown, standing in a cosmic space, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_7808.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

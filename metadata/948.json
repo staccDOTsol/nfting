@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3788",
+  "description": "A majestic queen wearing an illustrious futuristic diamond crown, standing in a enchanted forest, anime style, highly detailed, perfect lighting",
+  "image": "image_3788.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

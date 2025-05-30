@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2996",
+  "description": "A serene sorcerer wearing an illustrious cyberpunk golden crown, standing in a castle, oil painting style, highly detailed, perfect lighting",
+  "image": "image_2996.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

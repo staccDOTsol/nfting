@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9128",
+  "description": "A graceful fairy wearing an illustrious cyberpunk platinum crown, standing in a mountain peak, comic book style, highly detailed, perfect lighting",
+  "image": "image_9128.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

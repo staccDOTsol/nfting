@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1196",
+  "description": "A imposing sorcerer wearing an illustrious elegant sapphire crown, standing in a enchanted forest, comic book style, highly detailed, perfect lighting",
+  "image": "image_1196.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

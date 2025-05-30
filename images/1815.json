@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7256",
+  "description": "A imposing princess wearing an illustrious delicate bone crown, standing in a cosmic space, watercolor style, highly detailed, perfect lighting",
+  "image": "image_7256.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

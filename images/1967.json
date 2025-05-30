@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7864",
+  "description": "A fearsome wizard wearing an illustrious elegant golden crown, standing in a castle, pixel art style, highly detailed, perfect lighting",
+  "image": "image_7864.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

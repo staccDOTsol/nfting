@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #876",
+  "description": "A regal king wearing an illustrious minimalist obsidian crown, standing in a dungeon, oil painting style, highly detailed, perfect lighting",
+  "image": "image_876.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

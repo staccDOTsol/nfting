@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #752",
+  "description": "A fearsome elf wearing an illustrious spiky crystal crown, standing in a celestial realm, concept art style, highly detailed, perfect lighting",
+  "image": "image_752.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

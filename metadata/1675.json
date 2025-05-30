@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6696",
+  "description": "A serene minotaur wearing an illustrious simple iron crown, standing in a desert, watercolor style, highly detailed, perfect lighting",
+  "image": "image_6696.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

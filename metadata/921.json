@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3680",
+  "description": "A graceful dragon wearing an illustrious futuristic copper crown, standing in a void, concept art style, highly detailed, perfect lighting",
+  "image": "image_3680.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

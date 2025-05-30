@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1924",
+  "description": "A ethereal dwarf wearing an illustrious simple copper crown, standing in a desert, watercolor style, highly detailed, perfect lighting",
+  "image": "image_1924.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

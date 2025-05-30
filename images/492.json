@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1964",
+  "description": "A elegant minotaur wearing an illustrious renaissance bronze crown, standing in a dungeon, pixel art style, highly detailed, perfect lighting",
+  "image": "image_1964.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

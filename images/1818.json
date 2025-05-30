@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7268",
+  "description": "A ancient prince wearing an illustrious spiky copper crown, standing in a enchanted forest, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_7268.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

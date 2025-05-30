@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1140",
+  "description": "A ancient elf wearing an illustrious spiky emerald crown, standing in a meadow, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_1140.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

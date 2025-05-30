@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3816",
+  "description": "A regal elf wearing an illustrious cyberpunk bone crown, standing in a void, comic book style, highly detailed, perfect lighting",
+  "image": "image_3816.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

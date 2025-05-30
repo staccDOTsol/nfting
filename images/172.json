@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #684",
+  "description": "A majestic assassin wearing an illustrious medieval iron crown, standing in a mountain peak, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_684.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

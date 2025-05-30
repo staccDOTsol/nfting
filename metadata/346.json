@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1380",
+  "description": "A cunning wizard wearing an illustrious gothic diamond crown, standing in a enchanted forest, manga style, highly detailed, perfect lighting",
+  "image": "image_1380.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

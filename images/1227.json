@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4904",
+  "description": "A graceful assassin wearing an illustrious intricate emerald crown, standing in a battlefield, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_4904.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9356",
+  "description": "A elegant werewolf wearing an illustrious massive obsidian crown, standing in a battlefield, anime style, highly detailed, perfect lighting",
+  "image": "image_9356.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

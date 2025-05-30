@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5828",
+  "description": "A noble paladin wearing an illustrious renaissance platinum crown, standing in a castle, illustration style, highly detailed, perfect lighting",
+  "image": "image_5828.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

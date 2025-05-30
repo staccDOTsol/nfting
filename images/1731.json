@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6920",
+  "description": "A powerful ranger wearing an illustrious minimalist wooden crown, standing in a celestial realm, pixel art style, highly detailed, perfect lighting",
+  "image": "image_6920.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

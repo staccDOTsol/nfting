@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8824",
+  "description": "A cunning minotaur wearing an illustrious steampunk golden crown, standing in a mountain peak, illustration style, highly detailed, perfect lighting",
+  "image": "image_8824.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

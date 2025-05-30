@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1132",
+  "description": "A graceful ninja wearing an illustrious massive bone crown, standing in a battlefield, 3D render style, highly detailed, perfect lighting",
+  "image": "image_1132.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

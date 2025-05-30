@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7788",
+  "description": "A graceful elf wearing an illustrious gothic floral crown, standing in a celestial realm, watercolor style, highly detailed, perfect lighting",
+  "image": "image_7788.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

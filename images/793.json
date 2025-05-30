@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3168",
+  "description": "A majestic warrior wearing an illustrious futuristic floral crown, standing in a dungeon, anime style, highly detailed, perfect lighting",
+  "image": "image_3168.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

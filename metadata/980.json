@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3916",
+  "description": "A powerful warrior wearing an illustrious futuristic floral crown, standing in a void, oil painting style, highly detailed, perfect lighting",
+  "image": "image_3916.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

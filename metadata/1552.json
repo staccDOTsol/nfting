@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6204",
+  "description": "A noble dragon wearing an illustrious intricate thorny crown, standing in a void, illustration style, highly detailed, perfect lighting",
+  "image": "image_6204.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

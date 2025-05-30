@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3764",
+  "description": "A majestic queen wearing an illustrious elegant golden crown, standing in a dungeon, watercolor style, highly detailed, perfect lighting",
+  "image": "image_3764.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

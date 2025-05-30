@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1272",
+  "description": "A graceful samurai wearing an illustrious gothic obsidian crown, standing in a dungeon, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_1272.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

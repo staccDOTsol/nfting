@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3024",
+  "description": "A fearsome witch wearing an illustrious futuristic floral crown, standing in a ocean, illustration style, highly detailed, perfect lighting",
+  "image": "image_3024.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

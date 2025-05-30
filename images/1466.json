@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5860",
+  "description": "A regal mermaid wearing an illustrious minimalist ruby crown, standing in a enchanted forest, comic book style, highly detailed, perfect lighting",
+  "image": "image_5860.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

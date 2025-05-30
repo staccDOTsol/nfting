@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9856",
+  "description": "A ethereal vampire wearing an illustrious steampunk bronze crown, standing in a cosmic space, anime style, highly detailed, perfect lighting",
+  "image": "image_9856.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

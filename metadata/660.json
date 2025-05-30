@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2636",
+  "description": "A graceful fairy wearing an illustrious medieval sapphire crown, standing in a mountain peak, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_2636.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

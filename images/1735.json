@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6936",
+  "description": "A ethereal paladin wearing an illustrious cyberpunk sapphire crown, standing in a mountain peak, watercolor style, highly detailed, perfect lighting",
+  "image": "image_6936.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

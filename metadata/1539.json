@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6152",
+  "description": "A noble witch wearing an illustrious gothic bone crown, standing in a battlefield, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_6152.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

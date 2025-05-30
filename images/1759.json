@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7032",
+  "description": "A fearsome samurai wearing an illustrious medieval golden crown, standing in a hellscape, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_7032.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9796",
+  "description": "A serene centaur wearing an illustrious elegant silver crown, standing in a cosmic space, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_9796.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

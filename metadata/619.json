@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2472",
+  "description": "A graceful wizard wearing an illustrious delicate ruby crown, standing in a ocean, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_2472.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

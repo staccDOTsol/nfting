@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7936",
+  "description": "A noble wizard wearing an illustrious delicate platinum crown, standing in a enchanted forest, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_7936.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

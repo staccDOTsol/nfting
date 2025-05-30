@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5572",
+  "description": "A ancient elf wearing an illustrious elegant silver crown, standing in a cosmic space, concept art style, highly detailed, perfect lighting",
+  "image": "image_5572.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

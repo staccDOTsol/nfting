@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #256",
+  "description": "A majestic werewolf wearing an illustrious simple emerald crown, standing in a void, oil painting style, highly detailed, perfect lighting",
+  "image": "image_256.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

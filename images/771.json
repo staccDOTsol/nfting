@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3080",
+  "description": "A ancient vampire wearing an illustrious renaissance diamond crown, standing in a ocean, oil painting style, highly detailed, perfect lighting",
+  "image": "image_3080.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

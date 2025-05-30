@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3200",
+  "description": "A ethereal samurai wearing an illustrious baroque diamond crown, standing in a cosmic space, digital art style, highly detailed, perfect lighting",
+  "image": "image_3200.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

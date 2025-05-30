@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7700",
+  "description": "A serene ninja wearing an illustrious simple bronze crown, standing in a hellscape, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_7700.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

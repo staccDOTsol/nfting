@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3236",
+  "description": "A noble dragon wearing an illustrious massive golden crown, standing in a desert, watercolor style, highly detailed, perfect lighting",
+  "image": "image_3236.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

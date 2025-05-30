@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2504",
+  "description": "A imposing sorcerer wearing an illustrious renaissance thorny crown, standing in a void, concept art style, highly detailed, perfect lighting",
+  "image": "image_2504.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

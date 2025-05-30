@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7004",
+  "description": "A ancient dwarf wearing an illustrious spiky diamond crown, standing in a ocean, illustration style, highly detailed, perfect lighting",
+  "image": "image_7004.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

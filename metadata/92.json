@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #364",
+  "description": "A noble elf wearing an illustrious cyberpunk platinum crown, standing in a enchanted forest, pixel art style, highly detailed, perfect lighting",
+  "image": "image_364.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8816",
+  "description": "A mysterious queen wearing an illustrious delicate iron crown, standing in a dungeon, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_8816.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

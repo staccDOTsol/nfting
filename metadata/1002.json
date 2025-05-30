@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4004",
+  "description": "A ancient minotaur wearing an illustrious baroque obsidian crown, standing in a throne room, concept art style, highly detailed, perfect lighting",
+  "image": "image_4004.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

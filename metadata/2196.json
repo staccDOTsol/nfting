@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8780",
+  "description": "A powerful wizard wearing an illustrious intricate copper crown, standing in a throne room, watercolor style, highly detailed, perfect lighting",
+  "image": "image_8780.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

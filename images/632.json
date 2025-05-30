@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2524",
+  "description": "A graceful elf wearing an illustrious elegant ruby crown, standing in a celestial realm, oil painting style, highly detailed, perfect lighting",
+  "image": "image_2524.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

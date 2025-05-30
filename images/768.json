@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3068",
+  "description": "A elegant vampire wearing an illustrious medieval platinum crown, standing in a battlefield, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_3068.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

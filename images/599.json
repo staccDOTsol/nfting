@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2392",
+  "description": "A cunning dwarf wearing an illustrious massive diamond crown, standing in a throne room, anime style, highly detailed, perfect lighting",
+  "image": "image_2392.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

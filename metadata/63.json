@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #248",
+  "description": "A mysterious knight wearing an illustrious renaissance golden crown, standing in a desert, anime style, highly detailed, perfect lighting",
+  "image": "image_248.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

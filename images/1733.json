@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6928",
+  "description": "A noble fairy wearing an illustrious delicate floral crown, standing in a celestial realm, 3D render style, highly detailed, perfect lighting",
+  "image": "image_6928.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

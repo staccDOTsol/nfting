@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9076",
+  "description": "A powerful wizard wearing an illustrious futuristic emerald crown, standing in a hellscape, concept art style, highly detailed, perfect lighting",
+  "image": "image_9076.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

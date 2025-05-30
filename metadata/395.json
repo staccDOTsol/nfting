@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1576",
+  "description": "A noble paladin wearing an illustrious delicate ruby crown, standing in a mountain peak, digital art style, highly detailed, perfect lighting",
+  "image": "image_1576.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8444",
+  "description": "A ancient knight wearing an illustrious medieval sapphire crown, standing in a desert, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_8444.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

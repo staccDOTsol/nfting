@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6168",
+  "description": "A imposing vampire wearing an illustrious delicate platinum crown, standing in a celestial realm, pixel art style, highly detailed, perfect lighting",
+  "image": "image_6168.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

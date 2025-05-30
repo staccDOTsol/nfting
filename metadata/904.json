@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3612",
+  "description": "A ethereal warrior wearing an illustrious elegant platinum crown, standing in a ocean, watercolor style, highly detailed, perfect lighting",
+  "image": "image_3612.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6548",
+  "description": "A ancient vampire wearing an illustrious futuristic wooden crown, standing in a dungeon, oil painting style, highly detailed, perfect lighting",
+  "image": "image_6548.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

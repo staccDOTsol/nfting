@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6356",
+  "description": "A regal assassin wearing an illustrious ornate wooden crown, standing in a desert, pixel art style, highly detailed, perfect lighting",
+  "image": "image_6356.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

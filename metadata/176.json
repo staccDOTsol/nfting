@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #700",
+  "description": "A ethereal dwarf wearing an illustrious futuristic wooden crown, standing in a cosmic space, anime style, highly detailed, perfect lighting",
+  "image": "image_700.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

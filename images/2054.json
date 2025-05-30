@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8212",
+  "description": "A serene witch wearing an illustrious intricate obsidian crown, standing in a void, comic book style, highly detailed, perfect lighting",
+  "image": "image_8212.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

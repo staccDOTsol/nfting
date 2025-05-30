@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9224",
+  "description": "A regal sorcerer wearing an illustrious delicate sapphire crown, standing in a castle, 3D render style, highly detailed, perfect lighting",
+  "image": "image_9224.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

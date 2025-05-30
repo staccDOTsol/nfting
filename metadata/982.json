@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3924",
+  "description": "A serene king wearing an illustrious delicate ruby crown, standing in a mountain peak, anime style, highly detailed, perfect lighting",
+  "image": "image_3924.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

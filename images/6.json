@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #20",
+  "description": "A ancient samurai wearing an illustrious medieval copper crown, standing in a ocean, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_20.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

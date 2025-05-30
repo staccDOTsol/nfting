@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6824",
+  "description": "A mysterious mermaid wearing an illustrious ornate sapphire crown, standing in a desert, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_6824.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

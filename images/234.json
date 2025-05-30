@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #932",
+  "description": "A ancient sorcerer wearing an illustrious spiky bone crown, standing in a meadow, 3D render style, highly detailed, perfect lighting",
+  "image": "image_932.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #416",
+  "description": "A regal werewolf wearing an illustrious baroque ruby crown, standing in a ocean, watercolor style, highly detailed, perfect lighting",
+  "image": "image_416.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

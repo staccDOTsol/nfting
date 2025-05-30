@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5476",
+  "description": "A ethereal knight wearing an illustrious steampunk iron crown, standing in a enchanted forest, comic book style, highly detailed, perfect lighting",
+  "image": "image_5476.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4080",
+  "description": "A imposing assassin wearing an illustrious futuristic silver crown, standing in a enchanted forest, oil painting style, highly detailed, perfect lighting",
+  "image": "image_4080.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

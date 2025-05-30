@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4984",
+  "description": "A powerful warrior wearing an illustrious delicate copper crown, standing in a castle, pixel art style, highly detailed, perfect lighting",
+  "image": "image_4984.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

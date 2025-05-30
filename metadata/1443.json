@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5768",
+  "description": "A powerful witch wearing an illustrious elegant emerald crown, standing in a battlefield, 3D render style, highly detailed, perfect lighting",
+  "image": "image_5768.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

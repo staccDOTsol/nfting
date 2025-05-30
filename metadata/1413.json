@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5648",
+  "description": "A noble prince wearing an illustrious baroque copper crown, standing in a enchanted forest, oil painting style, highly detailed, perfect lighting",
+  "image": "image_5648.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

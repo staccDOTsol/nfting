@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5436",
+  "description": "A regal ninja wearing an illustrious minimalist copper crown, standing in a throne room, digital art style, highly detailed, perfect lighting",
+  "image": "image_5436.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

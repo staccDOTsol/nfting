@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5496",
+  "description": "A fearsome samurai wearing an illustrious spiky sapphire crown, standing in a mountain peak, oil painting style, highly detailed, perfect lighting",
+  "image": "image_5496.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

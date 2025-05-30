@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2292",
+  "description": "A mysterious ninja wearing an illustrious ornate obsidian crown, standing in a void, concept art style, highly detailed, perfect lighting",
+  "image": "image_2292.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

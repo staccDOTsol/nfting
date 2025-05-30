@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4508",
+  "description": "A elegant fairy wearing an illustrious delicate obsidian crown, standing in a cosmic space, illustration style, highly detailed, perfect lighting",
+  "image": "image_4508.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

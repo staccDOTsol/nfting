@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8932",
+  "description": "A regal minotaur wearing an illustrious cyberpunk platinum crown, standing in a battlefield, comic book style, highly detailed, perfect lighting",
+  "image": "image_8932.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

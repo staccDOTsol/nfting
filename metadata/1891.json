@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7560",
+  "description": "A fearsome vampire wearing an illustrious renaissance platinum crown, standing in a void, pixel art style, highly detailed, perfect lighting",
+  "image": "image_7560.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

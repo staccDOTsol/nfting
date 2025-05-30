@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3876",
+  "description": "A majestic dragon wearing an illustrious massive floral crown, standing in a hellscape, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_3876.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7320",
+  "description": "A majestic witch wearing an illustrious simple sapphire crown, standing in a enchanted forest, concept art style, highly detailed, perfect lighting",
+  "image": "image_7320.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

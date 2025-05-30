@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5156",
+  "description": "A ethereal dwarf wearing an illustrious renaissance bronze crown, standing in a cosmic space, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_5156.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6196",
+  "description": "A fearsome paladin wearing an illustrious delicate diamond crown, standing in a cosmic space, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_6196.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

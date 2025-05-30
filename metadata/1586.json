@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6340",
+  "description": "A cunning queen wearing an illustrious renaissance copper crown, standing in a celestial realm, oil painting style, highly detailed, perfect lighting",
+  "image": "image_6340.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

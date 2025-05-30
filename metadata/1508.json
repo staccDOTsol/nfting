@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6028",
+  "description": "A imposing knight wearing an illustrious elegant floral crown, standing in a throne room, digital art style, highly detailed, perfect lighting",
+  "image": "image_6028.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6524",
+  "description": "A fearsome dwarf wearing an illustrious baroque sapphire crown, standing in a dungeon, anime style, highly detailed, perfect lighting",
+  "image": "image_6524.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

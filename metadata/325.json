@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1296",
+  "description": "A ancient minotaur wearing an illustrious steampunk floral crown, standing in a throne room, digital art style, highly detailed, perfect lighting",
+  "image": "image_1296.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

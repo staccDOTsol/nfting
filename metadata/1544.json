@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6172",
+  "description": "A serene dwarf wearing an illustrious simple sapphire crown, standing in a hellscape, concept art style, highly detailed, perfect lighting",
+  "image": "image_6172.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

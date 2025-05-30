@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5944",
+  "description": "A noble minotaur wearing an illustrious futuristic emerald crown, standing in a mountain peak, oil painting style, highly detailed, perfect lighting",
+  "image": "image_5944.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

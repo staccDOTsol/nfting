@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #244",
+  "description": "A graceful prince wearing an illustrious baroque floral crown, standing in a cosmic space, anime style, highly detailed, perfect lighting",
+  "image": "image_244.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

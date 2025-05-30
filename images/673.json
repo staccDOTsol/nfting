@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2688",
+  "description": "A majestic minotaur wearing an illustrious spiky platinum crown, standing in a desert, concept art style, highly detailed, perfect lighting",
+  "image": "image_2688.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

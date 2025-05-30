@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6568",
+  "description": "A fearsome witch wearing an illustrious renaissance bone crown, standing in a cosmic space, watercolor style, highly detailed, perfect lighting",
+  "image": "image_6568.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

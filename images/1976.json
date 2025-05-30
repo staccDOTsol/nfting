@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7900",
+  "description": "A powerful centaur wearing an illustrious massive emerald crown, standing in a void, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_7900.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

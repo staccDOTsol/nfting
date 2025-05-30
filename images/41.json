@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #160",
+  "description": "A powerful prince wearing an illustrious medieval wooden crown, standing in a void, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_160.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

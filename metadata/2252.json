@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9004",
+  "description": "A regal centaur wearing an illustrious minimalist wooden crown, standing in a enchanted forest, 3D render style, highly detailed, perfect lighting",
+  "image": "image_9004.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

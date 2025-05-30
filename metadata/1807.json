@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7224",
+  "description": "A cunning sorcerer wearing an illustrious simple floral crown, standing in a castle, manga style, highly detailed, perfect lighting",
+  "image": "image_7224.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2200",
+  "description": "A imposing paladin wearing an illustrious minimalist thorny crown, standing in a cosmic space, comic book style, highly detailed, perfect lighting",
+  "image": "image_2200.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

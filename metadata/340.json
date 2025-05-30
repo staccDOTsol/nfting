@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1356",
+  "description": "A majestic dwarf wearing an illustrious medieval thorny crown, standing in a desert, pixel art style, highly detailed, perfect lighting",
+  "image": "image_1356.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8732",
+  "description": "A fearsome ninja wearing an illustrious intricate floral crown, standing in a meadow, comic book style, highly detailed, perfect lighting",
+  "image": "image_8732.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

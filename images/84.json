@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #332",
+  "description": "A graceful mermaid wearing an illustrious gothic floral crown, standing in a ocean, concept art style, highly detailed, perfect lighting",
+  "image": "image_332.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

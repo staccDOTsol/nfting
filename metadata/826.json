@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3300",
+  "description": "A elegant dragon wearing an illustrious minimalist thorny crown, standing in a meadow, oil painting style, highly detailed, perfect lighting",
+  "image": "image_3300.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

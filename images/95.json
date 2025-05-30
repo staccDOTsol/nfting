@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #376",
+  "description": "A noble ranger wearing an illustrious simple floral crown, standing in a castle, pixel art style, highly detailed, perfect lighting",
+  "image": "image_376.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

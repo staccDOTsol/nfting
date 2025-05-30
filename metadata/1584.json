@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6332",
+  "description": "A mysterious queen wearing an illustrious intricate golden crown, standing in a cosmic space, watercolor style, highly detailed, perfect lighting",
+  "image": "image_6332.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6488",
+  "description": "A imposing minotaur wearing an illustrious simple sapphire crown, standing in a mountain peak, comic book style, highly detailed, perfect lighting",
+  "image": "image_6488.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

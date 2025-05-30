@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9768",
+  "description": "A cunning warrior wearing an illustrious cyberpunk bronze crown, standing in a meadow, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_9768.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

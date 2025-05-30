@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2084",
+  "description": "A fearsome elf wearing an illustrious spiky bone crown, standing in a castle, comic book style, highly detailed, perfect lighting",
+  "image": "image_2084.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

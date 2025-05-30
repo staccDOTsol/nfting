@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4168",
+  "description": "A cunning assassin wearing an illustrious minimalist bronze crown, standing in a celestial realm, illustration style, highly detailed, perfect lighting",
+  "image": "image_4168.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

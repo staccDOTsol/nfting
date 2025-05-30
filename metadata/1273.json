@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5088",
+  "description": "A powerful samurai wearing an illustrious intricate crystal crown, standing in a dungeon, pixel art style, highly detailed, perfect lighting",
+  "image": "image_5088.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

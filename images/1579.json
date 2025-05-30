@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6312",
+  "description": "A fearsome king wearing an illustrious massive obsidian crown, standing in a battlefield, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_6312.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

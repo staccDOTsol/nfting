@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #736",
+  "description": "A imposing prince wearing an illustrious cyberpunk bone crown, standing in a mountain peak, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_736.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

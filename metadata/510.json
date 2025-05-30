@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2036",
+  "description": "A noble samurai wearing an illustrious cyberpunk silver crown, standing in a meadow, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2036.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

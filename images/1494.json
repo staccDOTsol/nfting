@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5972",
+  "description": "A graceful vampire wearing an illustrious delicate crystal crown, standing in a meadow, digital art style, highly detailed, perfect lighting",
+  "image": "image_5972.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1264",
+  "description": "A powerful centaur wearing an illustrious spiky wooden crown, standing in a cosmic space, pixel art style, highly detailed, perfect lighting",
+  "image": "image_1264.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

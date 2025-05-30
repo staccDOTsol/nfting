@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5840",
+  "description": "A ancient queen wearing an illustrious renaissance emerald crown, standing in a enchanted forest, watercolor style, highly detailed, perfect lighting",
+  "image": "image_5840.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #252",
+  "description": "A regal dwarf wearing an illustrious cyberpunk sapphire crown, standing in a throne room, illustration style, highly detailed, perfect lighting",
+  "image": "image_252.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7764",
+  "description": "A ancient paladin wearing an illustrious baroque platinum crown, standing in a battlefield, digital art style, highly detailed, perfect lighting",
+  "image": "image_7764.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

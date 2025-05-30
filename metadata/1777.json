@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7104",
+  "description": "A cunning vampire wearing an illustrious steampunk crystal crown, standing in a throne room, pixel art style, highly detailed, perfect lighting",
+  "image": "image_7104.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5876",
+  "description": "A fearsome samurai wearing an illustrious medieval diamond crown, standing in a dungeon, illustration style, highly detailed, perfect lighting",
+  "image": "image_5876.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7060",
+  "description": "A imposing elf wearing an illustrious minimalist bone crown, standing in a desert, anime style, highly detailed, perfect lighting",
+  "image": "image_7060.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

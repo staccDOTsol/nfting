@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2592",
+  "description": "A majestic mermaid wearing an illustrious renaissance bone crown, standing in a castle, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_2592.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

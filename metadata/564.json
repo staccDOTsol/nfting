@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2252",
+  "description": "A powerful prince wearing an illustrious ornate thorny crown, standing in a hellscape, illustration style, highly detailed, perfect lighting",
+  "image": "image_2252.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

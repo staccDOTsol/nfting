@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8492",
+  "description": "A mysterious king wearing an illustrious spiky diamond crown, standing in a enchanted forest, pixel art style, highly detailed, perfect lighting",
+  "image": "image_8492.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

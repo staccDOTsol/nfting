@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8008",
+  "description": "A mysterious minotaur wearing an illustrious elegant golden crown, standing in a celestial realm, concept art style, highly detailed, perfect lighting",
+  "image": "image_8008.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

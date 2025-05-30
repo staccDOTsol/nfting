@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8904",
+  "description": "A mysterious queen wearing an illustrious massive silver crown, standing in a desert, oil painting style, highly detailed, perfect lighting",
+  "image": "image_8904.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

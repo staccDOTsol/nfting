@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4088",
+  "description": "A regal wizard wearing an illustrious baroque platinum crown, standing in a hellscape, concept art style, highly detailed, perfect lighting",
+  "image": "image_4088.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

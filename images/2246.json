@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8980",
+  "description": "A regal witch wearing an illustrious cyberpunk thorny crown, standing in a cosmic space, illustration style, highly detailed, perfect lighting",
+  "image": "image_8980.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

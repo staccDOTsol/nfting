@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2668",
+  "description": "A serene sorcerer wearing an illustrious ornate floral crown, standing in a void, manga style, highly detailed, perfect lighting",
+  "image": "image_2668.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9440",
+  "description": "A ethereal dwarf wearing an illustrious intricate floral crown, standing in a throne room, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_9440.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

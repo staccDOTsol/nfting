@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2804",
+  "description": "A regal prince wearing an illustrious minimalist sapphire crown, standing in a celestial realm, digital art style, highly detailed, perfect lighting",
+  "image": "image_2804.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

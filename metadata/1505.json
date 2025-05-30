@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6016",
+  "description": "A powerful dragon wearing an illustrious elegant golden crown, standing in a castle, comic book style, highly detailed, perfect lighting",
+  "image": "image_6016.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

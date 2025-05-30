@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7712",
+  "description": "A graceful dwarf wearing an illustrious ornate sapphire crown, standing in a void, digital art style, highly detailed, perfect lighting",
+  "image": "image_7712.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

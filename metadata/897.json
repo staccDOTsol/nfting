@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3584",
+  "description": "A powerful wizard wearing an illustrious spiky wooden crown, standing in a throne room, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_3584.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

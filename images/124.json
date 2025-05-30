@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #492",
+  "description": "A noble wizard wearing an illustrious baroque crystal crown, standing in a celestial realm, anime style, highly detailed, perfect lighting",
+  "image": "image_492.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

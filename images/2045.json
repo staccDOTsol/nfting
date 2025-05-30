@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8176",
+  "description": "A ethereal assassin wearing an illustrious baroque obsidian crown, standing in a castle, manga style, highly detailed, perfect lighting",
+  "image": "image_8176.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

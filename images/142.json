@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #564",
+  "description": "A graceful king wearing an illustrious elegant iron crown, standing in a dungeon, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_564.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

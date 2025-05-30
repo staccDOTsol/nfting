@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4112",
+  "description": "A mysterious ninja wearing an illustrious steampunk obsidian crown, standing in a void, watercolor style, highly detailed, perfect lighting",
+  "image": "image_4112.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

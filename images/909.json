@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3632",
+  "description": "A cunning elf wearing an illustrious delicate iron crown, standing in a ocean, digital art style, highly detailed, perfect lighting",
+  "image": "image_3632.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

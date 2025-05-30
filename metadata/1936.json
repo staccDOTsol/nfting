@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7740",
+  "description": "A elegant king wearing an illustrious renaissance obsidian crown, standing in a throne room, anime style, highly detailed, perfect lighting",
+  "image": "image_7740.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

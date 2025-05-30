@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9700",
+  "description": "A fearsome prince wearing an illustrious simple golden crown, standing in a mountain peak, pixel art style, highly detailed, perfect lighting",
+  "image": "image_9700.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

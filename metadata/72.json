@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #284",
+  "description": "A fearsome king wearing an illustrious baroque bronze crown, standing in a throne room, watercolor style, highly detailed, perfect lighting",
+  "image": "image_284.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

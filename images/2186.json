@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8740",
+  "description": "A elegant assassin wearing an illustrious baroque emerald crown, standing in a meadow, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_8740.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7664",
+  "description": "A ethereal queen wearing an illustrious ornate crystal crown, standing in a hellscape, anime style, highly detailed, perfect lighting",
+  "image": "image_7664.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

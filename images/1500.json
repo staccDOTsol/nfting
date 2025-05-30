@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5996",
+  "description": "A regal assassin wearing an illustrious futuristic thorny crown, standing in a mountain peak, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_5996.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

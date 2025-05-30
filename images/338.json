@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1348",
+  "description": "A ethereal werewolf wearing an illustrious gothic sapphire crown, standing in a hellscape, pixel art style, highly detailed, perfect lighting",
+  "image": "image_1348.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

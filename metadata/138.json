@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #548",
+  "description": "A ancient centaur wearing an illustrious renaissance bone crown, standing in a ocean, oil painting style, highly detailed, perfect lighting",
+  "image": "image_548.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

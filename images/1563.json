@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6248",
+  "description": "A ethereal knight wearing an illustrious simple bone crown, standing in a ocean, 3D render style, highly detailed, perfect lighting",
+  "image": "image_6248.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

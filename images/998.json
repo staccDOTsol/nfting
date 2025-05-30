@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3988",
+  "description": "A ancient samurai wearing an illustrious renaissance iron crown, standing in a castle, illustration style, highly detailed, perfect lighting",
+  "image": "image_3988.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

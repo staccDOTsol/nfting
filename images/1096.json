@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4380",
+  "description": "A mysterious vampire wearing an illustrious baroque thorny crown, standing in a castle, digital art style, highly detailed, perfect lighting",
+  "image": "image_4380.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

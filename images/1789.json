@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7152",
+  "description": "A powerful paladin wearing an illustrious massive ruby crown, standing in a cosmic space, concept art style, highly detailed, perfect lighting",
+  "image": "image_7152.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

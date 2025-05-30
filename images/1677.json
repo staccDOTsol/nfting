@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6704",
+  "description": "A majestic centaur wearing an illustrious ornate obsidian crown, standing in a mountain peak, watercolor style, highly detailed, perfect lighting",
+  "image": "image_6704.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

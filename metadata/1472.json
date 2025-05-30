@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5884",
+  "description": "A powerful queen wearing an illustrious minimalist emerald crown, standing in a ocean, 3D render style, highly detailed, perfect lighting",
+  "image": "image_5884.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

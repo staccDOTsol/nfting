@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #904",
+  "description": "A graceful king wearing an illustrious minimalist copper crown, standing in a void, manga style, highly detailed, perfect lighting",
+  "image": "image_904.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

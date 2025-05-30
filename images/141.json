@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #560",
+  "description": "A regal dwarf wearing an illustrious delicate golden crown, standing in a mountain peak, digital art style, highly detailed, perfect lighting",
+  "image": "image_560.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1064",
+  "description": "A elegant elf wearing an illustrious intricate ruby crown, standing in a celestial realm, watercolor style, highly detailed, perfect lighting",
+  "image": "image_1064.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2492",
+  "description": "A imposing fairy wearing an illustrious steampunk diamond crown, standing in a celestial realm, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2492.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

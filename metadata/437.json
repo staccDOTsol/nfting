@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1744",
+  "description": "A powerful centaur wearing an illustrious spiky bronze crown, standing in a enchanted forest, watercolor style, highly detailed, perfect lighting",
+  "image": "image_1744.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

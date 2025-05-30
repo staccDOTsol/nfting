@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4884",
+  "description": "A cunning fairy wearing an illustrious simple golden crown, standing in a celestial realm, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_4884.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

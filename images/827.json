@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3304",
+  "description": "A graceful sorcerer wearing an illustrious intricate wooden crown, standing in a dungeon, illustration style, highly detailed, perfect lighting",
+  "image": "image_3304.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

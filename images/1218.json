@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4868",
+  "description": "A imposing assassin wearing an illustrious minimalist golden crown, standing in a mountain peak, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_4868.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

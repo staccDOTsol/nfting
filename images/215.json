@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #856",
+  "description": "A elegant queen wearing an illustrious ornate golden crown, standing in a dungeon, anime style, highly detailed, perfect lighting",
+  "image": "image_856.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4912",
+  "description": "A fearsome centaur wearing an illustrious intricate sapphire crown, standing in a cosmic space, digital art style, highly detailed, perfect lighting",
+  "image": "image_4912.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

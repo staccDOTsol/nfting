@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6260",
+  "description": "A regal wizard wearing an illustrious minimalist thorny crown, standing in a mountain peak, pixel art style, highly detailed, perfect lighting",
+  "image": "image_6260.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

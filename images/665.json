@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2656",
+  "description": "A regal vampire wearing an illustrious steampunk silver crown, standing in a cosmic space, 3D render style, highly detailed, perfect lighting",
+  "image": "image_2656.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

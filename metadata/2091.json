@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8360",
+  "description": "A fearsome knight wearing an illustrious simple floral crown, standing in a mountain peak, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_8360.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

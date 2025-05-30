@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2396",
+  "description": "A graceful minotaur wearing an illustrious minimalist iron crown, standing in a enchanted forest, anime style, highly detailed, perfect lighting",
+  "image": "image_2396.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

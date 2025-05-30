@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4408",
+  "description": "A mysterious warrior wearing an illustrious elegant diamond crown, standing in a celestial realm, illustration style, highly detailed, perfect lighting",
+  "image": "image_4408.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

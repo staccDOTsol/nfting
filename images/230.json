@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #916",
+  "description": "A elegant sorcerer wearing an illustrious gothic silver crown, standing in a battlefield, illustration style, highly detailed, perfect lighting",
+  "image": "image_916.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

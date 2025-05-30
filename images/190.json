@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #756",
+  "description": "A majestic vampire wearing an illustrious intricate silver crown, standing in a battlefield, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_756.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1332",
+  "description": "A majestic dragon wearing an illustrious spiky platinum crown, standing in a castle, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_1332.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

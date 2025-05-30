@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2332",
+  "description": "A imposing sorcerer wearing an illustrious spiky ruby crown, standing in a battlefield, 3D render style, highly detailed, perfect lighting",
+  "image": "image_2332.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4500",
+  "description": "A mysterious samurai wearing an illustrious ornate ruby crown, standing in a cosmic space, 3D render style, highly detailed, perfect lighting",
+  "image": "image_4500.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

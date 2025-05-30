@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6316",
+  "description": "A elegant fairy wearing an illustrious minimalist sapphire crown, standing in a throne room, comic book style, highly detailed, perfect lighting",
+  "image": "image_6316.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

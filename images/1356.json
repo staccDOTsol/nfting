@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5420",
+  "description": "A elegant sorcerer wearing an illustrious steampunk sapphire crown, standing in a cosmic space, pixel art style, highly detailed, perfect lighting",
+  "image": "image_5420.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

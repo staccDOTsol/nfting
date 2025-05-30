@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4048",
+  "description": "A elegant minotaur wearing an illustrious medieval bronze crown, standing in a castle, comic book style, highly detailed, perfect lighting",
+  "image": "image_4048.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

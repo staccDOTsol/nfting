@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3400",
+  "description": "A graceful wizard wearing an illustrious intricate floral crown, standing in a enchanted forest, digital art style, highly detailed, perfect lighting",
+  "image": "image_3400.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

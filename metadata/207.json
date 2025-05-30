@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #824",
+  "description": "A elegant samurai wearing an illustrious cyberpunk silver crown, standing in a dungeon, anime style, highly detailed, perfect lighting",
+  "image": "image_824.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

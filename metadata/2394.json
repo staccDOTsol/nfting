@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9572",
+  "description": "A regal vampire wearing an illustrious massive platinum crown, standing in a enchanted forest, manga style, highly detailed, perfect lighting",
+  "image": "image_9572.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

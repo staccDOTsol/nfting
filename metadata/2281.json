@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9120",
+  "description": "A graceful elf wearing an illustrious massive wooden crown, standing in a hellscape, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_9120.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

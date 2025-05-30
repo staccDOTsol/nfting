@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1616",
+  "description": "A powerful dwarf wearing an illustrious steampunk bronze crown, standing in a ocean, illustration style, highly detailed, perfect lighting",
+  "image": "image_1616.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

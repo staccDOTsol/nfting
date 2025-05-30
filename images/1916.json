@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7660",
+  "description": "A cunning queen wearing an illustrious steampunk platinum crown, standing in a hellscape, concept art style, highly detailed, perfect lighting",
+  "image": "image_7660.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

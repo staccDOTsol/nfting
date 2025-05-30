@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5168",
+  "description": "A majestic prince wearing an illustrious minimalist wooden crown, standing in a hellscape, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_5168.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

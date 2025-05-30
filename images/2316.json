@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9260",
+  "description": "A graceful ranger wearing an illustrious intricate crystal crown, standing in a battlefield, watercolor style, highly detailed, perfect lighting",
+  "image": "image_9260.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

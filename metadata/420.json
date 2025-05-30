@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1676",
+  "description": "A serene assassin wearing an illustrious baroque wooden crown, standing in a desert, anime style, highly detailed, perfect lighting",
+  "image": "image_1676.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

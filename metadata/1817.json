@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7264",
+  "description": "A elegant prince wearing an illustrious delicate thorny crown, standing in a enchanted forest, illustration style, highly detailed, perfect lighting",
+  "image": "image_7264.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

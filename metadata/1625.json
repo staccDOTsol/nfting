@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6496",
+  "description": "A elegant paladin wearing an illustrious baroque sapphire crown, standing in a void, digital art style, highly detailed, perfect lighting",
+  "image": "image_6496.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

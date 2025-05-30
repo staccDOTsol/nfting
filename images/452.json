@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1804",
+  "description": "A serene princess wearing an illustrious intricate golden crown, standing in a battlefield, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_1804.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

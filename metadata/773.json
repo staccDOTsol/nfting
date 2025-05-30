@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3088",
+  "description": "A imposing fairy wearing an illustrious baroque ruby crown, standing in a cosmic space, comic book style, highly detailed, perfect lighting",
+  "image": "image_3088.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

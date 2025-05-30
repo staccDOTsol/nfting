@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4564",
+  "description": "A graceful paladin wearing an illustrious baroque ruby crown, standing in a ocean, digital art style, highly detailed, perfect lighting",
+  "image": "image_4564.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

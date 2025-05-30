@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1024",
+  "description": "A ancient elf wearing an illustrious medieval golden crown, standing in a dungeon, 3D render style, highly detailed, perfect lighting",
+  "image": "image_1024.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

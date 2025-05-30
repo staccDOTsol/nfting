@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4036",
+  "description": "A elegant paladin wearing an illustrious massive golden crown, standing in a dungeon, pixel art style, highly detailed, perfect lighting",
+  "image": "image_4036.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

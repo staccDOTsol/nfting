@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9552",
+  "description": "A serene ninja wearing an illustrious delicate emerald crown, standing in a meadow, anime style, highly detailed, perfect lighting",
+  "image": "image_9552.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

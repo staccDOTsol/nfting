@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1144",
+  "description": "A graceful fairy wearing an illustrious spiky obsidian crown, standing in a meadow, oil painting style, highly detailed, perfect lighting",
+  "image": "image_1144.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

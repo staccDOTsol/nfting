@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2204",
+  "description": "A ancient ninja wearing an illustrious medieval diamond crown, standing in a enchanted forest, digital art style, highly detailed, perfect lighting",
+  "image": "image_2204.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

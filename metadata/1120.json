@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4476",
+  "description": "A majestic queen wearing an illustrious delicate sapphire crown, standing in a castle, pixel art style, highly detailed, perfect lighting",
+  "image": "image_4476.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

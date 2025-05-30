@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #704",
+  "description": "A ethereal dwarf wearing an illustrious cyberpunk silver crown, standing in a void, digital art style, highly detailed, perfect lighting",
+  "image": "image_704.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

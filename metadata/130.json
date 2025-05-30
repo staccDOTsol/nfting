@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #516",
+  "description": "A mysterious witch wearing an illustrious ornate floral crown, standing in a enchanted forest, concept art style, highly detailed, perfect lighting",
+  "image": "image_516.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

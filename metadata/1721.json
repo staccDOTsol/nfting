@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6880",
+  "description": "A regal assassin wearing an illustrious baroque iron crown, standing in a desert, comic book style, highly detailed, perfect lighting",
+  "image": "image_6880.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

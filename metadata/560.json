@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2236",
+  "description": "A mysterious princess wearing an illustrious cyberpunk sapphire crown, standing in a meadow, oil painting style, highly detailed, perfect lighting",
+  "image": "image_2236.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

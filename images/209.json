@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #832",
+  "description": "A majestic witch wearing an illustrious ornate golden crown, standing in a celestial realm, watercolor style, highly detailed, perfect lighting",
+  "image": "image_832.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

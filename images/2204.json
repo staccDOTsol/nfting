@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8812",
+  "description": "A majestic knight wearing an illustrious intricate thorny crown, standing in a ocean, concept art style, highly detailed, perfect lighting",
+  "image": "image_8812.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

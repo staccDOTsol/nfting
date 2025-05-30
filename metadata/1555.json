@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6216",
+  "description": "A graceful ninja wearing an illustrious spiky wooden crown, standing in a void, 3D render style, highly detailed, perfect lighting",
+  "image": "image_6216.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

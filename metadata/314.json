@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1252",
+  "description": "A serene werewolf wearing an illustrious medieval platinum crown, standing in a meadow, digital art style, highly detailed, perfect lighting",
+  "image": "image_1252.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

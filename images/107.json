@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #424",
+  "description": "A ancient assassin wearing an illustrious steampunk silver crown, standing in a ocean, concept art style, highly detailed, perfect lighting",
+  "image": "image_424.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

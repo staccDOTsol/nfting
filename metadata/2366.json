@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9460",
+  "description": "A powerful king wearing an illustrious futuristic silver crown, standing in a enchanted forest, illustration style, highly detailed, perfect lighting",
+  "image": "image_9460.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

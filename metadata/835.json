@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3336",
+  "description": "A mysterious princess wearing an illustrious spiky golden crown, standing in a void, 3D render style, highly detailed, perfect lighting",
+  "image": "image_3336.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3652",
+  "description": "A elegant paladin wearing an illustrious steampunk ruby crown, standing in a throne room, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_3652.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

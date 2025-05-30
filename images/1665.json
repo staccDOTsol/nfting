@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6656",
+  "description": "A graceful paladin wearing an illustrious massive bronze crown, standing in a dungeon, digital art style, highly detailed, perfect lighting",
+  "image": "image_6656.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

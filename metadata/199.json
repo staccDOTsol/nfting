@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #792",
+  "description": "A mysterious warrior wearing an illustrious ornate obsidian crown, standing in a meadow, watercolor style, highly detailed, perfect lighting",
+  "image": "image_792.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

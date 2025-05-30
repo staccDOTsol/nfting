@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2712",
+  "description": "A powerful minotaur wearing an illustrious cyberpunk obsidian crown, standing in a battlefield, 3D render style, highly detailed, perfect lighting",
+  "image": "image_2712.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

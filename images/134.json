@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #532",
+  "description": "A noble mermaid wearing an illustrious renaissance golden crown, standing in a mountain peak, illustration style, highly detailed, perfect lighting",
+  "image": "image_532.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

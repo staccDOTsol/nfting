@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2732",
+  "description": "A elegant knight wearing an illustrious minimalist iron crown, standing in a cosmic space, digital art style, highly detailed, perfect lighting",
+  "image": "image_2732.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

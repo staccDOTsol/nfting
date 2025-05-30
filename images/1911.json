@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7640",
+  "description": "A elegant ranger wearing an illustrious futuristic crystal crown, standing in a desert, oil painting style, highly detailed, perfect lighting",
+  "image": "image_7640.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9244",
+  "description": "A regal king wearing an illustrious delicate bone crown, standing in a battlefield, watercolor style, highly detailed, perfect lighting",
+  "image": "image_9244.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

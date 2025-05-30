@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5344",
+  "description": "A majestic ranger wearing an illustrious minimalist ruby crown, standing in a hellscape, concept art style, highly detailed, perfect lighting",
+  "image": "image_5344.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

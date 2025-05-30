@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8532",
+  "description": "A regal dwarf wearing an illustrious simple platinum crown, standing in a battlefield, comic book style, highly detailed, perfect lighting",
+  "image": "image_8532.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

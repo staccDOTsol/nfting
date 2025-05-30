@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6416",
+  "description": "A imposing king wearing an illustrious simple sapphire crown, standing in a meadow, manga style, highly detailed, perfect lighting",
+  "image": "image_6416.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

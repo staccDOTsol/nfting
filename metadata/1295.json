@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5176",
+  "description": "A noble witch wearing an illustrious steampunk sapphire crown, standing in a ocean, digital art style, highly detailed, perfect lighting",
+  "image": "image_5176.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1164",
+  "description": "A ethereal dragon wearing an illustrious steampunk golden crown, standing in a battlefield, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_1164.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

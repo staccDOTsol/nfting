@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5460",
+  "description": "A majestic mermaid wearing an illustrious minimalist iron crown, standing in a ocean, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_5460.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3852",
+  "description": "A regal knight wearing an illustrious ornate copper crown, standing in a mountain peak, concept art style, highly detailed, perfect lighting",
+  "image": "image_3852.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

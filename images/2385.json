@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9536",
+  "description": "A imposing vampire wearing an illustrious cyberpunk silver crown, standing in a ocean, concept art style, highly detailed, perfect lighting",
+  "image": "image_9536.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

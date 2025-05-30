@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6464",
+  "description": "A powerful king wearing an illustrious spiky bronze crown, standing in a battlefield, concept art style, highly detailed, perfect lighting",
+  "image": "image_6464.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

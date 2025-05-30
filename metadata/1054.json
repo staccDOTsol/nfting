@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4212",
+  "description": "A cunning king wearing an illustrious ornate diamond crown, standing in a desert, illustration style, highly detailed, perfect lighting",
+  "image": "image_4212.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

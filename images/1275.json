@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5096",
+  "description": "A ancient mermaid wearing an illustrious elegant thorny crown, standing in a desert, concept art style, highly detailed, perfect lighting",
+  "image": "image_5096.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

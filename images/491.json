@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1960",
+  "description": "A graceful samurai wearing an illustrious cyberpunk sapphire crown, standing in a battlefield, watercolor style, highly detailed, perfect lighting",
+  "image": "image_1960.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

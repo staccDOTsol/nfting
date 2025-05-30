@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9904",
+  "description": "A ancient wizard wearing an illustrious gothic obsidian crown, standing in a cosmic space, watercolor style, highly detailed, perfect lighting",
+  "image": "image_9904.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

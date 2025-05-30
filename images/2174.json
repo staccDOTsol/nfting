@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8692",
+  "description": "A mysterious mermaid wearing an illustrious baroque bronze crown, standing in a cosmic space, 3D render style, highly detailed, perfect lighting",
+  "image": "image_8692.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

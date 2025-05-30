@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2344",
+  "description": "A powerful fairy wearing an illustrious intricate copper crown, standing in a cosmic space, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2344.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

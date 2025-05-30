@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6080",
+  "description": "A ethereal vampire wearing an illustrious simple silver crown, standing in a throne room, pixel art style, highly detailed, perfect lighting",
+  "image": "image_6080.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

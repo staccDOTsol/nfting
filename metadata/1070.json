@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4276",
+  "description": "A imposing fairy wearing an illustrious minimalist bone crown, standing in a dungeon, comic book style, highly detailed, perfect lighting",
+  "image": "image_4276.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

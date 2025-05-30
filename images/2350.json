@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9396",
+  "description": "A majestic dragon wearing an illustrious intricate thorny crown, standing in a dungeon, watercolor style, highly detailed, perfect lighting",
+  "image": "image_9396.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

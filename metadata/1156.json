@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4620",
+  "description": "A serene king wearing an illustrious medieval sapphire crown, standing in a enchanted forest, concept art style, highly detailed, perfect lighting",
+  "image": "image_4620.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

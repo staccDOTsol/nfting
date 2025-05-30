@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2228",
+  "description": "A regal centaur wearing an illustrious delicate thorny crown, standing in a celestial realm, comic book style, highly detailed, perfect lighting",
+  "image": "image_2228.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

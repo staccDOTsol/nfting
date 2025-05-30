@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2272",
+  "description": "A graceful assassin wearing an illustrious medieval platinum crown, standing in a mountain peak, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2272.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

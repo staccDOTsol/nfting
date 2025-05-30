@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5076",
+  "description": "A graceful vampire wearing an illustrious baroque golden crown, standing in a cosmic space, 3D render style, highly detailed, perfect lighting",
+  "image": "image_5076.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

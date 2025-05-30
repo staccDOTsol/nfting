@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9712",
+  "description": "A ethereal king wearing an illustrious intricate silver crown, standing in a castle, comic book style, highly detailed, perfect lighting",
+  "image": "image_9712.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

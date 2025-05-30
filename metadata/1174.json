@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4692",
+  "description": "A ethereal samurai wearing an illustrious medieval floral crown, standing in a mountain peak, watercolor style, highly detailed, perfect lighting",
+  "image": "image_4692.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

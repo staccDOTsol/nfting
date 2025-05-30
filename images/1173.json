@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4688",
+  "description": "A regal knight wearing an illustrious steampunk golden crown, standing in a enchanted forest, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_4688.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

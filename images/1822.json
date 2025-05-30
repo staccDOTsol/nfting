@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7284",
+  "description": "A mysterious vampire wearing an illustrious medieval crystal crown, standing in a enchanted forest, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_7284.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

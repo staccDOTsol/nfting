@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #660",
+  "description": "A ancient dwarf wearing an illustrious minimalist bone crown, standing in a desert, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_660.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

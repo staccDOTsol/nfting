@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6304",
+  "description": "A fearsome elf wearing an illustrious elegant sapphire crown, standing in a cosmic space, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_6304.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

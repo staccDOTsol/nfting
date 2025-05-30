@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6352",
+  "description": "A graceful ranger wearing an illustrious minimalist obsidian crown, standing in a cosmic space, watercolor style, highly detailed, perfect lighting",
+  "image": "image_6352.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

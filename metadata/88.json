@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #348",
+  "description": "A ancient werewolf wearing an illustrious intricate bone crown, standing in a celestial realm, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_348.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

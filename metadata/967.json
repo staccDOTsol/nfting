@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3864",
+  "description": "A elegant sorcerer wearing an illustrious simple floral crown, standing in a castle, 3D render style, highly detailed, perfect lighting",
+  "image": "image_3864.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

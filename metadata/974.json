@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3892",
+  "description": "A powerful sorcerer wearing an illustrious simple floral crown, standing in a celestial realm, concept art style, highly detailed, perfect lighting",
+  "image": "image_3892.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

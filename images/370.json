@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1476",
+  "description": "A ethereal ranger wearing an illustrious baroque crystal crown, standing in a hellscape, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_1476.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

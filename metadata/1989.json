@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7952",
+  "description": "A ancient paladin wearing an illustrious steampunk bone crown, standing in a meadow, watercolor style, highly detailed, perfect lighting",
+  "image": "image_7952.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

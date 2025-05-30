@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6432",
+  "description": "A elegant assassin wearing an illustrious renaissance bronze crown, standing in a cosmic space, comic book style, highly detailed, perfect lighting",
+  "image": "image_6432.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

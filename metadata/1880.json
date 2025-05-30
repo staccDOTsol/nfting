@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7516",
+  "description": "A noble dragon wearing an illustrious spiky silver crown, standing in a battlefield, illustration style, highly detailed, perfect lighting",
+  "image": "image_7516.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1716",
+  "description": "A majestic paladin wearing an illustrious futuristic obsidian crown, standing in a celestial realm, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_1716.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

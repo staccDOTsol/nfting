@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6888",
+  "description": "A fearsome princess wearing an illustrious elegant sapphire crown, standing in a hellscape, manga style, highly detailed, perfect lighting",
+  "image": "image_6888.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7556",
+  "description": "A cunning king wearing an illustrious minimalist ruby crown, standing in a enchanted forest, manga style, highly detailed, perfect lighting",
+  "image": "image_7556.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2184",
+  "description": "A majestic warrior wearing an illustrious futuristic crystal crown, standing in a battlefield, anime style, highly detailed, perfect lighting",
+  "image": "image_2184.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

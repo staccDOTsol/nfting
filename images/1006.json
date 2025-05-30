@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4020",
+  "description": "A ethereal queen wearing an illustrious elegant iron crown, standing in a cosmic space, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_4020.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

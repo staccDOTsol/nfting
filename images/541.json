@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2160",
+  "description": "A elegant warrior wearing an illustrious renaissance platinum crown, standing in a enchanted forest, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_2160.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4224",
+  "description": "A cunning witch wearing an illustrious delicate ruby crown, standing in a cosmic space, manga style, highly detailed, perfect lighting",
+  "image": "image_4224.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

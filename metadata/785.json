@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3136",
+  "description": "A ethereal dragon wearing an illustrious minimalist emerald crown, standing in a ocean, illustration style, highly detailed, perfect lighting",
+  "image": "image_3136.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

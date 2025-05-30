@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4684",
+  "description": "A cunning sorcerer wearing an illustrious massive golden crown, standing in a battlefield, oil painting style, highly detailed, perfect lighting",
+  "image": "image_4684.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4252",
+  "description": "A powerful elf wearing an illustrious massive platinum crown, standing in a celestial realm, anime style, highly detailed, perfect lighting",
+  "image": "image_4252.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

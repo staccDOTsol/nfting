@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3376",
+  "description": "A fearsome warrior wearing an illustrious steampunk thorny crown, standing in a battlefield, digital art style, highly detailed, perfect lighting",
+  "image": "image_3376.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

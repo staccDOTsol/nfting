@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3432",
+  "description": "A fearsome witch wearing an illustrious futuristic crystal crown, standing in a battlefield, watercolor style, highly detailed, perfect lighting",
+  "image": "image_3432.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

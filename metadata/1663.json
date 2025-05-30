@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6648",
+  "description": "A mysterious fairy wearing an illustrious ornate floral crown, standing in a mountain peak, watercolor style, highly detailed, perfect lighting",
+  "image": "image_6648.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

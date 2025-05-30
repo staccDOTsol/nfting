@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3252",
+  "description": "A elegant queen wearing an illustrious delicate wooden crown, standing in a celestial realm, 3D render style, highly detailed, perfect lighting",
+  "image": "image_3252.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

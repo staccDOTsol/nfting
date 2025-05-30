@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3064",
+  "description": "A powerful minotaur wearing an illustrious elegant bone crown, standing in a desert, digital art style, highly detailed, perfect lighting",
+  "image": "image_3064.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

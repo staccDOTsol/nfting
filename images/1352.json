@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5404",
+  "description": "A ancient warrior wearing an illustrious ornate bronze crown, standing in a mountain peak, watercolor style, highly detailed, perfect lighting",
+  "image": "image_5404.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6904",
+  "description": "A imposing centaur wearing an illustrious baroque obsidian crown, standing in a battlefield, watercolor style, highly detailed, perfect lighting",
+  "image": "image_6904.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

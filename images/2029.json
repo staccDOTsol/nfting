@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8112",
+  "description": "A mysterious princess wearing an illustrious minimalist emerald crown, standing in a dungeon, digital art style, highly detailed, perfect lighting",
+  "image": "image_8112.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

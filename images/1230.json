@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4916",
+  "description": "A imposing wizard wearing an illustrious steampunk golden crown, standing in a castle, digital art style, highly detailed, perfect lighting",
+  "image": "image_4916.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8844",
+  "description": "A regal assassin wearing an illustrious steampunk ruby crown, standing in a desert, manga style, highly detailed, perfect lighting",
+  "image": "image_8844.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

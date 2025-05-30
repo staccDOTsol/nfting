@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #204",
+  "description": "A regal prince wearing an illustrious spiky silver crown, standing in a hellscape, comic book style, highly detailed, perfect lighting",
+  "image": "image_204.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

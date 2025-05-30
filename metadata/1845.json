@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7376",
+  "description": "A cunning vampire wearing an illustrious simple thorny crown, standing in a void, comic book style, highly detailed, perfect lighting",
+  "image": "image_7376.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

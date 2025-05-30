@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6996",
+  "description": "A imposing samurai wearing an illustrious ornate obsidian crown, standing in a mountain peak, illustration style, highly detailed, perfect lighting",
+  "image": "image_6996.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

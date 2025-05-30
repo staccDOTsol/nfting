@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9108",
+  "description": "A ancient queen wearing an illustrious spiky copper crown, standing in a battlefield, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_9108.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #304",
+  "description": "A powerful dragon wearing an illustrious cyberpunk wooden crown, standing in a mountain peak, watercolor style, highly detailed, perfect lighting",
+  "image": "image_304.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

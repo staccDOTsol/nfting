@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4668",
+  "description": "A graceful witch wearing an illustrious massive golden crown, standing in a battlefield, manga style, highly detailed, perfect lighting",
+  "image": "image_4668.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

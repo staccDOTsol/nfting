@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5312",
+  "description": "A serene dragon wearing an illustrious medieval bronze crown, standing in a cosmic space, concept art style, highly detailed, perfect lighting",
+  "image": "image_5312.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

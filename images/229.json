@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #912",
+  "description": "A cunning king wearing an illustrious spiky bone crown, standing in a cosmic space, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_912.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

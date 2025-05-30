@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9340",
+  "description": "A ancient queen wearing an illustrious massive silver crown, standing in a hellscape, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_9340.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

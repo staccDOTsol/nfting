@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4648",
+  "description": "A fearsome assassin wearing an illustrious gothic emerald crown, standing in a hellscape, concept art style, highly detailed, perfect lighting",
+  "image": "image_4648.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

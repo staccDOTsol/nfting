@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8380",
+  "description": "A cunning elf wearing an illustrious intricate golden crown, standing in a throne room, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_8380.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

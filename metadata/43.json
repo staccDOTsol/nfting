@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #168",
+  "description": "A serene sorcerer wearing an illustrious cyberpunk bone crown, standing in a void, illustration style, highly detailed, perfect lighting",
+  "image": "image_168.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

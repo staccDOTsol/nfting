@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2464",
+  "description": "A serene centaur wearing an illustrious steampunk copper crown, standing in a mountain peak, comic book style, highly detailed, perfect lighting",
+  "image": "image_2464.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

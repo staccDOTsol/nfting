@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8404",
+  "description": "A elegant minotaur wearing an illustrious simple floral crown, standing in a desert, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_8404.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

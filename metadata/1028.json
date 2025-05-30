@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4108",
+  "description": "A majestic elf wearing an illustrious minimalist silver crown, standing in a dungeon, oil painting style, highly detailed, perfect lighting",
+  "image": "image_4108.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

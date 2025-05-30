@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5668",
+  "description": "A ancient fairy wearing an illustrious elegant wooden crown, standing in a mountain peak, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_5668.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

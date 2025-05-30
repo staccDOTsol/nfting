@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1848",
+  "description": "A ancient werewolf wearing an illustrious delicate bone crown, standing in a throne room, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_1848.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

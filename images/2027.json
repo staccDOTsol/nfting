@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8104",
+  "description": "A powerful wizard wearing an illustrious elegant iron crown, standing in a ocean, 3D render style, highly detailed, perfect lighting",
+  "image": "image_8104.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

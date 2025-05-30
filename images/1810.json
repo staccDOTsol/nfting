@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7236",
+  "description": "A serene king wearing an illustrious futuristic thorny crown, standing in a meadow, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_7236.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

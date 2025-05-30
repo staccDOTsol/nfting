@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9708",
+  "description": "A serene vampire wearing an illustrious ornate silver crown, standing in a ocean, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_9708.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

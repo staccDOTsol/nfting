@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2284",
+  "description": "A majestic minotaur wearing an illustrious minimalist emerald crown, standing in a dungeon, digital art style, highly detailed, perfect lighting",
+  "image": "image_2284.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

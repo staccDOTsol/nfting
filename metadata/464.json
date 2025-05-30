@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1852",
+  "description": "A powerful sorcerer wearing an illustrious simple emerald crown, standing in a hellscape, anime style, highly detailed, perfect lighting",
+  "image": "image_1852.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

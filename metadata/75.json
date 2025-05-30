@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #296",
+  "description": "A serene assassin wearing an illustrious elegant platinum crown, standing in a cosmic space, comic book style, highly detailed, perfect lighting",
+  "image": "image_296.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

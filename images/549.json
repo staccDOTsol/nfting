@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2192",
+  "description": "A ancient ranger wearing an illustrious simple diamond crown, standing in a mountain peak, pixel art style, highly detailed, perfect lighting",
+  "image": "image_2192.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

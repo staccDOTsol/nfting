@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2208",
+  "description": "A imposing samurai wearing an illustrious cyberpunk ruby crown, standing in a meadow, pixel art style, highly detailed, perfect lighting",
+  "image": "image_2208.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

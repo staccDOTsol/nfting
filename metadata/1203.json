@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4808",
+  "description": "A graceful king wearing an illustrious renaissance diamond crown, standing in a dungeon, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_4808.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

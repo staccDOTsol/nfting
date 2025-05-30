@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8120",
+  "description": "A majestic centaur wearing an illustrious gothic silver crown, standing in a mountain peak, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_8120.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

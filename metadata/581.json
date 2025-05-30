@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2320",
+  "description": "A serene samurai wearing an illustrious elegant emerald crown, standing in a ocean, digital art style, highly detailed, perfect lighting",
+  "image": "image_2320.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

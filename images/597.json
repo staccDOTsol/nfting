@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2384",
+  "description": "A noble warrior wearing an illustrious ornate ruby crown, standing in a battlefield, digital art style, highly detailed, perfect lighting",
+  "image": "image_2384.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

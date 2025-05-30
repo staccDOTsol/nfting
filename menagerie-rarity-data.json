@@ -1,0 +1,596 @@
+{
+  "lastUpdated": "2025-03-19T12:43:51.858Z",
+  "totalNFTs": 10,
+  "rarityScores": [
+    {
+      "index": 2,
+      "score": 100,
+      "metadata": {
+        "name": "NFT #notbuy0",
+        "symbol": "notbuy",
+        "description": "NFT #notbuy0 - donotbuythese",
+        "seller_fee_basis_points": 250,
+        "image": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/2",
+        "external_url": "",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Left Eye",
+            "value": "X Purple"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Round Orange"
+          },
+          {
+            "trait_type": "Right Eye",
+            "value": "Swirl Green"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Grin Blue"
+          },
+          {
+            "trait_type": "Accessory",
+            "value": "Horns Green"
+          },
+          {
+            "trait_type": "Rarity Rank",
+            "value": 3,
+            "display_type": "number",
+            "max_value": 10
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/2",
+              "type": "image/jpeg"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "address": "BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 3,
+      "score": 100,
+      "metadata": {
+        "name": "NFT #notbuy6",
+        "symbol": "notbuy",
+        "description": "NFT #notbuy6 - donotbuythese",
+        "seller_fee_basis_points": 250,
+        "image": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/3",
+        "external_url": "",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Left Eye",
+            "value": "Swirl Pink"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Round Purple"
+          },
+          {
+            "trait_type": "Right Eye",
+            "value": "X Aqua"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Grin Purple"
+          },
+          {
+            "trait_type": "Accessory",
+            "value": "Tear Tattoo Red"
+          },
+          {
+            "trait_type": "Rarity Rank",
+            "value": 2,
+            "display_type": "number",
+            "max_value": 10
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/3",
+              "type": "image/jpeg"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "address": "BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 9,
+      "score": 100,
+      "metadata": {
+        "name": "NFT #notbuy3",
+        "symbol": "notbuy",
+        "description": "NFT #notbuy3 - donotbuythese",
+        "seller_fee_basis_points": 250,
+        "image": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/9",
+        "external_url": "",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Left Eye",
+            "value": "Swirl Orange"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Round Blue"
+          },
+          {
+            "trait_type": "Right Eye",
+            "value": "Swirl Yellow"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Grin Aqua"
+          },
+          {
+            "trait_type": "Accessory",
+            "value": "Horns Blue"
+          },
+          {
+            "trait_type": "Rarity Rank",
+            "value": 1,
+            "display_type": "number",
+            "max_value": 10
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/9",
+              "type": "image/jpeg"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "address": "BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 1,
+      "score": 92,
+      "metadata": {
+        "name": "NFT #notbuy1",
+        "symbol": "notbuy",
+        "description": "NFT #notbuy1 - donotbuythese",
+        "seller_fee_basis_points": 250,
+        "image": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/1",
+        "external_url": "",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Left Eye",
+            "value": "X Blue"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Round Orange"
+          },
+          {
+            "trait_type": "Right Eye",
+            "value": "Swirl Aqua"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Grin Orange"
+          },
+          {
+            "trait_type": "Accessory",
+            "value": "Tear Tattoo Orange"
+          },
+          {
+            "trait_type": "Rarity Rank",
+            "value": 4,
+            "display_type": "number",
+            "max_value": 10
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/1",
+              "type": "image/jpeg"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "address": "BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 0,
+      "score": 67,
+      "metadata": {
+        "name": "NFT #notbuy2",
+        "symbol": "notbuy",
+        "description": "NFT #notbuy2 - donotbuythese",
+        "seller_fee_basis_points": 250,
+        "image": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/0",
+        "external_url": "",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Left Eye",
+            "value": "Swirl Green"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Round Pink"
+          },
+          {
+            "trait_type": "Right Eye",
+            "value": "Swirl Red"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Grin Aqua"
+          },
+          {
+            "trait_type": "Accessory",
+            "value": "Tear Tattoo Yellow"
+          },
+          {
+            "trait_type": "Rarity Rank",
+            "value": 5,
+            "display_type": "number",
+            "max_value": 10
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/0",
+              "type": "image/jpeg"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "address": "BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 5,
+      "score": 58,
+      "metadata": {
+        "name": "NFT #notbuy8",
+        "symbol": "notbuy",
+        "description": "NFT #notbuy8 - donotbuythese",
+        "seller_fee_basis_points": 250,
+        "image": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/5",
+        "external_url": "",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Left Eye",
+            "value": "X Aqua"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Round Aqua"
+          },
+          {
+            "trait_type": "Right Eye",
+            "value": "X Red"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Grin Yellow"
+          },
+          {
+            "trait_type": "Accessory",
+            "value": "Horns Purple"
+          },
+          {
+            "trait_type": "Rarity Rank",
+            "value": 7,
+            "display_type": "number",
+            "max_value": 10
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/5",
+              "type": "image/jpeg"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "address": "BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 7,
+      "score": 58,
+      "metadata": {
+        "name": "NFT #notbuy7",
+        "symbol": "notbuy",
+        "description": "NFT #notbuy7 - donotbuythese",
+        "seller_fee_basis_points": 250,
+        "image": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/7",
+        "external_url": "",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Left Eye",
+            "value": "X Green"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Round Green"
+          },
+          {
+            "trait_type": "Right Eye",
+            "value": "X Purple"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Grin Orange"
+          },
+          {
+            "trait_type": "Accessory",
+            "value": "Tear Tattoo Yellow"
+          },
+          {
+            "trait_type": "Rarity Rank",
+            "value": 6,
+            "display_type": "number",
+            "max_value": 10
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/7",
+              "type": "image/jpeg"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "address": "BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 6,
+      "score": 42,
+      "metadata": {
+        "name": "NFT #notbuy5",
+        "symbol": "notbuy",
+        "description": "NFT #notbuy5 - donotbuythese",
+        "seller_fee_basis_points": 250,
+        "image": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/6",
+        "external_url": "",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Left Eye",
+            "value": "X Aqua"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Round Pink"
+          },
+          {
+            "trait_type": "Right Eye",
+            "value": "X Pink"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Grin Purple"
+          },
+          {
+            "trait_type": "Accessory",
+            "value": "Tear Tattoo Yellow"
+          },
+          {
+            "trait_type": "Rarity Rank",
+            "value": 8,
+            "display_type": "number",
+            "max_value": 10
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/6",
+              "type": "image/jpeg"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "address": "BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 8,
+      "score": 33,
+      "metadata": {
+        "name": "NFT #notbuy9",
+        "symbol": "notbuy",
+        "description": "NFT #notbuy9 - donotbuythese",
+        "seller_fee_basis_points": 250,
+        "image": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/8",
+        "external_url": "",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Left Eye",
+            "value": "X Green"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Round Aqua"
+          },
+          {
+            "trait_type": "Right Eye",
+            "value": "Swirl Green"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Grin Red"
+          },
+          {
+            "trait_type": "Accessory",
+            "value": "Horns Purple"
+          },
+          {
+            "trait_type": "Rarity Rank",
+            "value": 9,
+            "display_type": "number",
+            "max_value": 10
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/8",
+              "type": "image/jpeg"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "address": "BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw",
+              "share": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 4,
+      "score": 0,
+      "metadata": {
+        "name": "NFT #notbuy4",
+        "symbol": "notbuy",
+        "description": "NFT #notbuy4 - donotbuythese",
+        "seller_fee_basis_points": 250,
+        "image": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/4",
+        "external_url": "",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Left Eye",
+            "value": "Swirl Orange"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Round Aqua"
+          },
+          {
+            "trait_type": "Right Eye",
+            "value": "X Aqua"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Grin Orange"
+          },
+          {
+            "trait_type": "Accessory",
+            "value": "Horns Purple"
+          },
+          {
+            "trait_type": "Rarity Rank",
+            "value": 10,
+            "display_type": "number",
+            "max_value": 10
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://we-assets.pinit.io/BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw/f730be26-a924-4dbf-b93f-a91524b7a838/4",
+              "type": "image/jpeg"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "address": "BYhzyAdSwF9Zg14t91gzAMtvHXewHVYpNeWXTDB9Cgqw",
+              "share": 100
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

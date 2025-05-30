@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9964",
+  "description": "A serene king wearing an illustrious futuristic bronze crown, standing in a enchanted forest, illustration style, highly detailed, perfect lighting",
+  "image": "image_9964.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5872",
+  "description": "A fearsome sorcerer wearing an illustrious baroque silver crown, standing in a desert, concept art style, highly detailed, perfect lighting",
+  "image": "image_5872.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

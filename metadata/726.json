@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2900",
+  "description": "A regal witch wearing an illustrious minimalist bone crown, standing in a enchanted forest, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2900.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

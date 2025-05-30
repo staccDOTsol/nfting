@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3160",
+  "description": "A ancient king wearing an illustrious cyberpunk iron crown, standing in a mountain peak, pixel art style, highly detailed, perfect lighting",
+  "image": "image_3160.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

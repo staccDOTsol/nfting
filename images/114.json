@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #452",
+  "description": "A elegant witch wearing an illustrious spiky obsidian crown, standing in a celestial realm, pixel art style, highly detailed, perfect lighting",
+  "image": "image_452.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

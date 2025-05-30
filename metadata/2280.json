@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9116",
+  "description": "A graceful warrior wearing an illustrious gothic crystal crown, standing in a battlefield, manga style, highly detailed, perfect lighting",
+  "image": "image_9116.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

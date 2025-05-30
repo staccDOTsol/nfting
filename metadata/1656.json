@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6620",
+  "description": "A graceful paladin wearing an illustrious delicate diamond crown, standing in a cosmic space, digital art style, highly detailed, perfect lighting",
+  "image": "image_6620.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

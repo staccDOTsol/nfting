@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7028",
+  "description": "A serene ninja wearing an illustrious baroque wooden crown, standing in a castle, concept art style, highly detailed, perfect lighting",
+  "image": "image_7028.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

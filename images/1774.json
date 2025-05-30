@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7092",
+  "description": "A ethereal mermaid wearing an illustrious steampunk crystal crown, standing in a enchanted forest, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_7092.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

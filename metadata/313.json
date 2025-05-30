@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1248",
+  "description": "A mysterious sorcerer wearing an illustrious massive ruby crown, standing in a dungeon, watercolor style, highly detailed, perfect lighting",
+  "image": "image_1248.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

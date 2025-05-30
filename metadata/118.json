@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #468",
+  "description": "A majestic fairy wearing an illustrious elegant sapphire crown, standing in a dungeon, manga style, highly detailed, perfect lighting",
+  "image": "image_468.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

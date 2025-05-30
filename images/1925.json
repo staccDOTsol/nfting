@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7696",
+  "description": "A graceful elf wearing an illustrious baroque ruby crown, standing in a mountain peak, oil painting style, highly detailed, perfect lighting",
+  "image": "image_7696.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

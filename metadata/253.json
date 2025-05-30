@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1008",
+  "description": "A noble minotaur wearing an illustrious elegant crystal crown, standing in a meadow, 3D render style, highly detailed, perfect lighting",
+  "image": "image_1008.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

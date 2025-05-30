@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7680",
+  "description": "A mysterious dragon wearing an illustrious spiky floral crown, standing in a dungeon, concept art style, highly detailed, perfect lighting",
+  "image": "image_7680.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

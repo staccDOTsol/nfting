@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7156",
+  "description": "A majestic paladin wearing an illustrious futuristic silver crown, standing in a celestial realm, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_7156.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

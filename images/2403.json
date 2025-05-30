@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9608",
+  "description": "A mysterious vampire wearing an illustrious minimalist floral crown, standing in a void, anime style, highly detailed, perfect lighting",
+  "image": "image_9608.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

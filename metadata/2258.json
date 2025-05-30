@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9028",
+  "description": "A regal king wearing an illustrious renaissance floral crown, standing in a battlefield, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_9028.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4024",
+  "description": "A majestic princess wearing an illustrious delicate diamond crown, standing in a hellscape, oil painting style, highly detailed, perfect lighting",
+  "image": "image_4024.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #340",
+  "description": "A powerful assassin wearing an illustrious ornate sapphire crown, standing in a ocean, watercolor style, highly detailed, perfect lighting",
+  "image": "image_340.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

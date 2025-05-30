@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1472",
+  "description": "A ancient centaur wearing an illustrious gothic golden crown, standing in a hellscape, digital art style, highly detailed, perfect lighting",
+  "image": "image_1472.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

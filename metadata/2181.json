@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8720",
+  "description": "A mysterious minotaur wearing an illustrious medieval bronze crown, standing in a desert, watercolor style, highly detailed, perfect lighting",
+  "image": "image_8720.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2984",
+  "description": "A graceful queen wearing an illustrious massive diamond crown, standing in a castle, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2984.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

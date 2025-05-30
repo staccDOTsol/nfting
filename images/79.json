@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #312",
+  "description": "A fearsome prince wearing an illustrious futuristic iron crown, standing in a cosmic space, pixel art style, highly detailed, perfect lighting",
+  "image": "image_312.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

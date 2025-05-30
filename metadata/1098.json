@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4388",
+  "description": "A elegant king wearing an illustrious futuristic floral crown, standing in a castle, 3D render style, highly detailed, perfect lighting",
+  "image": "image_4388.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

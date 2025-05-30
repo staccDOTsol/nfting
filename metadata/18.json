@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #68",
+  "description": "A imposing paladin wearing an illustrious minimalist diamond crown, standing in a castle, digital art style, highly detailed, perfect lighting",
+  "image": "image_68.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

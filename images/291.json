@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1160",
+  "description": "A ancient knight wearing an illustrious massive obsidian crown, standing in a battlefield, watercolor style, highly detailed, perfect lighting",
+  "image": "image_1160.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

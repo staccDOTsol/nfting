@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7188",
+  "description": "A powerful werewolf wearing an illustrious baroque iron crown, standing in a dungeon, manga style, highly detailed, perfect lighting",
+  "image": "image_7188.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

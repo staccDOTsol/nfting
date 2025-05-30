@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7408",
+  "description": "A ancient prince wearing an illustrious medieval platinum crown, standing in a mountain peak, concept art style, highly detailed, perfect lighting",
+  "image": "image_7408.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

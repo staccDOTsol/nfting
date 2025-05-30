@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2976",
+  "description": "A majestic vampire wearing an illustrious massive sapphire crown, standing in a void, concept art style, highly detailed, perfect lighting",
+  "image": "image_2976.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

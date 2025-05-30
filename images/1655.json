@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6616",
+  "description": "A powerful queen wearing an illustrious massive floral crown, standing in a castle, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_6616.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5204",
+  "description": "A ethereal centaur wearing an illustrious intricate thorny crown, standing in a battlefield, oil painting style, highly detailed, perfect lighting",
+  "image": "image_5204.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8100",
+  "description": "A noble dragon wearing an illustrious ornate ruby crown, standing in a throne room, anime style, highly detailed, perfect lighting",
+  "image": "image_8100.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

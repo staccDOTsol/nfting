@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5024",
+  "description": "A serene wizard wearing an illustrious ornate platinum crown, standing in a desert, digital art style, highly detailed, perfect lighting",
+  "image": "image_5024.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

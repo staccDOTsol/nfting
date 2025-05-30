@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7972",
+  "description": "A cunning centaur wearing an illustrious massive emerald crown, standing in a meadow, digital art style, highly detailed, perfect lighting",
+  "image": "image_7972.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

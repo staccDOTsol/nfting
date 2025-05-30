@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3344",
+  "description": "A imposing fairy wearing an illustrious massive wooden crown, standing in a meadow, anime style, highly detailed, perfect lighting",
+  "image": "image_3344.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1688",
+  "description": "A serene knight wearing an illustrious cyberpunk emerald crown, standing in a dungeon, watercolor style, highly detailed, perfect lighting",
+  "image": "image_1688.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

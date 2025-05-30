@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #784",
+  "description": "A fearsome centaur wearing an illustrious baroque bone crown, standing in a throne room, illustration style, highly detailed, perfect lighting",
+  "image": "image_784.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

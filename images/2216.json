@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8860",
+  "description": "A regal king wearing an illustrious massive sapphire crown, standing in a battlefield, digital art style, highly detailed, perfect lighting",
+  "image": "image_8860.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

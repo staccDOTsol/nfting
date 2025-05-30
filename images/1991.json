@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7960",
+  "description": "A majestic witch wearing an illustrious spiky bone crown, standing in a hellscape, anime style, highly detailed, perfect lighting",
+  "image": "image_7960.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

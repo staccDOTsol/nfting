@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #240",
+  "description": "A ancient samurai wearing an illustrious medieval wooden crown, standing in a celestial realm, anime style, highly detailed, perfect lighting",
+  "image": "image_240.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

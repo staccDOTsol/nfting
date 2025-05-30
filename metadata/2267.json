@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9064",
+  "description": "A elegant ninja wearing an illustrious medieval obsidian crown, standing in a throne room, pixel art style, highly detailed, perfect lighting",
+  "image": "image_9064.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

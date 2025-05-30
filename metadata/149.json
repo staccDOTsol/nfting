@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #592",
+  "description": "A mysterious fairy wearing an illustrious gothic wooden crown, standing in a celestial realm, oil painting style, highly detailed, perfect lighting",
+  "image": "image_592.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

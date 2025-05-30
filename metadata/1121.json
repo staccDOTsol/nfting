@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4480",
+  "description": "A mysterious dragon wearing an illustrious cyberpunk emerald crown, standing in a celestial realm, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_4480.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

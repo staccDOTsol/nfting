@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2400",
+  "description": "A ethereal witch wearing an illustrious simple iron crown, standing in a throne room, comic book style, highly detailed, perfect lighting",
+  "image": "image_2400.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

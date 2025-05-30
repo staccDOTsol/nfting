@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6624",
+  "description": "A imposing fairy wearing an illustrious renaissance iron crown, standing in a enchanted forest, illustration style, highly detailed, perfect lighting",
+  "image": "image_6624.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

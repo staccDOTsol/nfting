@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4208",
+  "description": "A serene werewolf wearing an illustrious medieval silver crown, standing in a castle, concept art style, highly detailed, perfect lighting",
+  "image": "image_4208.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

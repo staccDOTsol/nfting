@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6284",
+  "description": "A mysterious queen wearing an illustrious delicate floral crown, standing in a battlefield, illustration style, highly detailed, perfect lighting",
+  "image": "image_6284.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

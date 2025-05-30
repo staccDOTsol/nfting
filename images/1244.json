@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4972",
+  "description": "A serene minotaur wearing an illustrious renaissance platinum crown, standing in a dungeon, anime style, highly detailed, perfect lighting",
+  "image": "image_4972.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

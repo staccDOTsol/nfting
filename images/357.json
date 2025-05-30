@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1424",
+  "description": "A mysterious werewolf wearing an illustrious spiky bronze crown, standing in a desert, anime style, highly detailed, perfect lighting",
+  "image": "image_1424.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

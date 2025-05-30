@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4652",
+  "description": "A graceful witch wearing an illustrious delicate thorny crown, standing in a void, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_4652.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

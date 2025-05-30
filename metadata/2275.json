@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9096",
+  "description": "A serene samurai wearing an illustrious ornate bronze crown, standing in a ocean, digital art style, highly detailed, perfect lighting",
+  "image": "image_9096.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4136",
+  "description": "A imposing dwarf wearing an illustrious delicate golden crown, standing in a celestial realm, pixel art style, highly detailed, perfect lighting",
+  "image": "image_4136.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

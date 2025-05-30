@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6468",
+  "description": "A majestic werewolf wearing an illustrious minimalist thorny crown, standing in a meadow, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_6468.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

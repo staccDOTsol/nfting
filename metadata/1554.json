@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6212",
+  "description": "A graceful prince wearing an illustrious baroque bone crown, standing in a celestial realm, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_6212.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

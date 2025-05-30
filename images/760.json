@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3036",
+  "description": "A elegant knight wearing an illustrious minimalist platinum crown, standing in a desert, 3D render style, highly detailed, perfect lighting",
+  "image": "image_3036.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

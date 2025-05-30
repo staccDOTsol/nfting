@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #288",
+  "description": "A ethereal paladin wearing an illustrious renaissance bronze crown, standing in a meadow, comic book style, highly detailed, perfect lighting",
+  "image": "image_288.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

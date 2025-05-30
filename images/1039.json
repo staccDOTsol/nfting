@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4152",
+  "description": "A graceful ranger wearing an illustrious renaissance platinum crown, standing in a void, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_4152.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

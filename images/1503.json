@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6008",
+  "description": "A fearsome ninja wearing an illustrious spiky copper crown, standing in a battlefield, oil painting style, highly detailed, perfect lighting",
+  "image": "image_6008.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

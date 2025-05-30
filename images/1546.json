@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6180",
+  "description": "A imposing warrior wearing an illustrious baroque copper crown, standing in a meadow, anime style, highly detailed, perfect lighting",
+  "image": "image_6180.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

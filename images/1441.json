@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5760",
+  "description": "A regal warrior wearing an illustrious medieval ruby crown, standing in a battlefield, anime style, highly detailed, perfect lighting",
+  "image": "image_5760.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

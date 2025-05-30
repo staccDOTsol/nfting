@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8872",
+  "description": "A mysterious ranger wearing an illustrious elegant iron crown, standing in a ocean, anime style, highly detailed, perfect lighting",
+  "image": "image_8872.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

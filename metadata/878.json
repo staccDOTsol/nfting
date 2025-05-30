@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3508",
+  "description": "A noble knight wearing an illustrious delicate bronze crown, standing in a desert, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_3508.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

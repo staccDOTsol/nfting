@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1504",
+  "description": "A powerful prince wearing an illustrious steampunk golden crown, standing in a mountain peak, concept art style, highly detailed, perfect lighting",
+  "image": "image_1504.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

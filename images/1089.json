@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4352",
+  "description": "A graceful prince wearing an illustrious spiky bronze crown, standing in a enchanted forest, 3D render style, highly detailed, perfect lighting",
+  "image": "image_4352.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

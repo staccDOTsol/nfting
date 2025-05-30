@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1376",
+  "description": "A ethereal assassin wearing an illustrious delicate sapphire crown, standing in a hellscape, illustration style, highly detailed, perfect lighting",
+  "image": "image_1376.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

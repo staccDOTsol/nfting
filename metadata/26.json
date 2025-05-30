@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #100",
+  "description": "A ethereal king wearing an illustrious medieval obsidian crown, standing in a cosmic space, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_100.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6320",
+  "description": "A ancient warrior wearing an illustrious gothic emerald crown, standing in a enchanted forest, digital art style, highly detailed, perfect lighting",
+  "image": "image_6320.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

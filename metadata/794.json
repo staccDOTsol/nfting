@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3172",
+  "description": "A imposing dragon wearing an illustrious cyberpunk bone crown, standing in a meadow, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_3172.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

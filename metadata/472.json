@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1884",
+  "description": "A cunning paladin wearing an illustrious spiky sapphire crown, standing in a enchanted forest, anime style, highly detailed, perfect lighting",
+  "image": "image_1884.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

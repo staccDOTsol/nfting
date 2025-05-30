@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6360",
+  "description": "A majestic fairy wearing an illustrious simple thorny crown, standing in a desert, anime style, highly detailed, perfect lighting",
+  "image": "image_6360.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9568",
+  "description": "A powerful prince wearing an illustrious elegant sapphire crown, standing in a throne room, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_9568.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

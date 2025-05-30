@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5100",
+  "description": "A imposing king wearing an illustrious simple iron crown, standing in a cosmic space, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_5100.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

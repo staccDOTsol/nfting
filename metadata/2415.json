@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9656",
+  "description": "A powerful centaur wearing an illustrious spiky floral crown, standing in a void, digital art style, highly detailed, perfect lighting",
+  "image": "image_9656.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

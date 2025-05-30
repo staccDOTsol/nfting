@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #428",
+  "description": "A ethereal knight wearing an illustrious steampunk ruby crown, standing in a enchanted forest, watercolor style, highly detailed, perfect lighting",
+  "image": "image_428.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

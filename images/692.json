@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2764",
+  "description": "A serene witch wearing an illustrious steampunk obsidian crown, standing in a meadow, illustration style, highly detailed, perfect lighting",
+  "image": "image_2764.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

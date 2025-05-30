@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #892",
+  "description": "A elegant wizard wearing an illustrious elegant golden crown, standing in a cosmic space, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_892.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

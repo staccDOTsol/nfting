@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7716",
+  "description": "A noble werewolf wearing an illustrious baroque floral crown, standing in a void, digital art style, highly detailed, perfect lighting",
+  "image": "image_7716.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

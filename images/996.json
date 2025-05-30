@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3980",
+  "description": "A fearsome mermaid wearing an illustrious massive iron crown, standing in a enchanted forest, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_3980.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

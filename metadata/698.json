@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2788",
+  "description": "A ethereal mermaid wearing an illustrious steampunk emerald crown, standing in a celestial realm, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_2788.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

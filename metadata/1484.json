@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5932",
+  "description": "A noble princess wearing an illustrious baroque floral crown, standing in a celestial realm, illustration style, highly detailed, perfect lighting",
+  "image": "image_5932.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

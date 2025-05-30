@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1876",
+  "description": "A graceful fairy wearing an illustrious gothic bone crown, standing in a ocean, digital art style, highly detailed, perfect lighting",
+  "image": "image_1876.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

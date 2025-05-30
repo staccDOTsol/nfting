@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6472",
+  "description": "A cunning warrior wearing an illustrious ornate ruby crown, standing in a void, comic book style, highly detailed, perfect lighting",
+  "image": "image_6472.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

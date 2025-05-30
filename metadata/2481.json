@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9920",
+  "description": "A regal fairy wearing an illustrious minimalist wooden crown, standing in a desert, watercolor style, highly detailed, perfect lighting",
+  "image": "image_9920.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

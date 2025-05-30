@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3404",
+  "description": "A ancient werewolf wearing an illustrious renaissance ruby crown, standing in a void, comic book style, highly detailed, perfect lighting",
+  "image": "image_3404.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

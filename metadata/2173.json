@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8688",
+  "description": "A graceful prince wearing an illustrious simple bone crown, standing in a void, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_8688.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

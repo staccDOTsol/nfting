@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4728",
+  "description": "A fearsome assassin wearing an illustrious cyberpunk crystal crown, standing in a throne room, oil painting style, highly detailed, perfect lighting",
+  "image": "image_4728.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

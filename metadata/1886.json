@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7540",
+  "description": "A fearsome knight wearing an illustrious gothic floral crown, standing in a throne room, watercolor style, highly detailed, perfect lighting",
+  "image": "image_7540.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

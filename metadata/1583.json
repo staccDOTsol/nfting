@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6328",
+  "description": "A imposing knight wearing an illustrious intricate bronze crown, standing in a celestial realm, concept art style, highly detailed, perfect lighting",
+  "image": "image_6328.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

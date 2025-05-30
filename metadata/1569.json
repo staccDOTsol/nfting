@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6272",
+  "description": "A regal warrior wearing an illustrious futuristic obsidian crown, standing in a enchanted forest, manga style, highly detailed, perfect lighting",
+  "image": "image_6272.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

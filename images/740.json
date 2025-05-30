@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2956",
+  "description": "A fearsome minotaur wearing an illustrious elegant iron crown, standing in a meadow, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_2956.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

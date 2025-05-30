@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7860",
+  "description": "A majestic elf wearing an illustrious baroque sapphire crown, standing in a cosmic space, digital art style, highly detailed, perfect lighting",
+  "image": "image_7860.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

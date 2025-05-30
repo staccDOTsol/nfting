@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9088",
+  "description": "A imposing knight wearing an illustrious massive sapphire crown, standing in a dungeon, watercolor style, highly detailed, perfect lighting",
+  "image": "image_9088.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #680",
+  "description": "A ethereal ranger wearing an illustrious steampunk crystal crown, standing in a celestial realm, watercolor style, highly detailed, perfect lighting",
+  "image": "image_680.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

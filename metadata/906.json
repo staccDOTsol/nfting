@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3620",
+  "description": "A serene wizard wearing an illustrious ornate wooden crown, standing in a mountain peak, oil painting style, highly detailed, perfect lighting",
+  "image": "image_3620.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

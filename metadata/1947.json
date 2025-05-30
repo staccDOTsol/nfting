@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7784",
+  "description": "A fearsome mermaid wearing an illustrious minimalist wooden crown, standing in a mountain peak, anime style, highly detailed, perfect lighting",
+  "image": "image_7784.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

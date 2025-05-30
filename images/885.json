@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3536",
+  "description": "A elegant fairy wearing an illustrious cyberpunk iron crown, standing in a cosmic space, watercolor style, highly detailed, perfect lighting",
+  "image": "image_3536.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

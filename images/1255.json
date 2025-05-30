@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5016",
+  "description": "A graceful wizard wearing an illustrious futuristic copper crown, standing in a void, concept art style, highly detailed, perfect lighting",
+  "image": "image_5016.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

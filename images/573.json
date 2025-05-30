@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2288",
+  "description": "A elegant knight wearing an illustrious intricate bone crown, standing in a hellscape, comic book style, highly detailed, perfect lighting",
+  "image": "image_2288.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9992",
+  "description": "A elegant princess wearing an illustrious steampunk golden crown, standing in a castle, digital art style, highly detailed, perfect lighting",
+  "image": "image_9992.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

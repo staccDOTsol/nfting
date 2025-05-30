@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8736",
+  "description": "A powerful ranger wearing an illustrious delicate thorny crown, standing in a hellscape, illustration style, highly detailed, perfect lighting",
+  "image": "image_8736.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6444",
+  "description": "A noble princess wearing an illustrious medieval obsidian crown, standing in a enchanted forest, 3D render style, highly detailed, perfect lighting",
+  "image": "image_6444.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

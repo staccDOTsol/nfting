@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7648",
+  "description": "A powerful ranger wearing an illustrious intricate silver crown, standing in a void, illustration style, highly detailed, perfect lighting",
+  "image": "image_7648.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

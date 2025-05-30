@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7360",
+  "description": "A graceful king wearing an illustrious simple wooden crown, standing in a dungeon, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_7360.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6460",
+  "description": "A powerful minotaur wearing an illustrious futuristic bone crown, standing in a mountain peak, watercolor style, highly detailed, perfect lighting",
+  "image": "image_6460.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

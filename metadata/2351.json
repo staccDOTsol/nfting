@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9400",
+  "description": "A noble ranger wearing an illustrious simple diamond crown, standing in a ocean, concept art style, highly detailed, perfect lighting",
+  "image": "image_9400.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

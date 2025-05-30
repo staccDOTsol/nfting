@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8808",
+  "description": "A fearsome ninja wearing an illustrious minimalist ruby crown, standing in a void, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_8808.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

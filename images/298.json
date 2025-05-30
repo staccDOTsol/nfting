@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1188",
+  "description": "A ethereal assassin wearing an illustrious intricate thorny crown, standing in a desert, comic book style, highly detailed, perfect lighting",
+  "image": "image_1188.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9692",
+  "description": "A mysterious assassin wearing an illustrious simple platinum crown, standing in a ocean, concept art style, highly detailed, perfect lighting",
+  "image": "image_9692.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3148",
+  "description": "A serene ninja wearing an illustrious ornate platinum crown, standing in a castle, pixel art style, highly detailed, perfect lighting",
+  "image": "image_3148.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

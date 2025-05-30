@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5596",
+  "description": "A noble fairy wearing an illustrious massive floral crown, standing in a desert, illustration style, highly detailed, perfect lighting",
+  "image": "image_5596.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

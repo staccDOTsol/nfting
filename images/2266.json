@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9060",
+  "description": "A noble fairy wearing an illustrious minimalist golden crown, standing in a void, digital art style, highly detailed, perfect lighting",
+  "image": "image_9060.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

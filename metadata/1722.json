@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6884",
+  "description": "A noble warrior wearing an illustrious steampunk bronze crown, standing in a dungeon, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_6884.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

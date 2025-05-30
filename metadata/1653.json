@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6608",
+  "description": "A elegant fairy wearing an illustrious baroque bronze crown, standing in a ocean, illustration style, highly detailed, perfect lighting",
+  "image": "image_6608.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

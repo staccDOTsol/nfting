@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3120",
+  "description": "A graceful prince wearing an illustrious elegant sapphire crown, standing in a hellscape, anime style, highly detailed, perfect lighting",
+  "image": "image_3120.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

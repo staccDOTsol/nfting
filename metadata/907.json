@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3624",
+  "description": "A ancient princess wearing an illustrious minimalist silver crown, standing in a castle, manga style, highly detailed, perfect lighting",
+  "image": "image_3624.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

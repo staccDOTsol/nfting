@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7752",
+  "description": "A fearsome werewolf wearing an illustrious spiky iron crown, standing in a throne room, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_7752.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

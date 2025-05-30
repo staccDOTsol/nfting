@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3412",
+  "description": "A noble knight wearing an illustrious minimalist golden crown, standing in a hellscape, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_3412.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

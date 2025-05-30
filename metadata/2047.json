@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8184",
+  "description": "A majestic assassin wearing an illustrious steampunk ruby crown, standing in a dungeon, digital art style, highly detailed, perfect lighting",
+  "image": "image_8184.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #456",
+  "description": "A elegant fairy wearing an illustrious intricate obsidian crown, standing in a enchanted forest, pixel art style, highly detailed, perfect lighting",
+  "image": "image_456.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

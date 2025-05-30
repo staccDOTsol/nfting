@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6820",
+  "description": "A fearsome fairy wearing an illustrious massive bone crown, standing in a cosmic space, manga style, highly detailed, perfect lighting",
+  "image": "image_6820.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

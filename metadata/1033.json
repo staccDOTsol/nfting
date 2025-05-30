@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4128",
+  "description": "A serene princess wearing an illustrious ornate copper crown, standing in a meadow, pixel art style, highly detailed, perfect lighting",
+  "image": "image_4128.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9172",
+  "description": "A cunning king wearing an illustrious gothic thorny crown, standing in a throne room, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_9172.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

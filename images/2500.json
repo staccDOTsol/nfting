@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9996",
+  "description": "A serene ninja wearing an illustrious spiky diamond crown, standing in a enchanted forest, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_9996.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

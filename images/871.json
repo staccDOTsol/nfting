@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3480",
+  "description": "A cunning queen wearing an illustrious cyberpunk floral crown, standing in a meadow, anime style, highly detailed, perfect lighting",
+  "image": "image_3480.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

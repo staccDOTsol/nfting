@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1788",
+  "description": "A fearsome sorcerer wearing an illustrious gothic diamond crown, standing in a cosmic space, anime style, highly detailed, perfect lighting",
+  "image": "image_1788.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4864",
+  "description": "A powerful elf wearing an illustrious gothic wooden crown, standing in a void, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_4864.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

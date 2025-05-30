@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2528",
+  "description": "A regal knight wearing an illustrious renaissance diamond crown, standing in a cosmic space, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_2528.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

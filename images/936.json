@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3740",
+  "description": "A serene assassin wearing an illustrious steampunk floral crown, standing in a desert, comic book style, highly detailed, perfect lighting",
+  "image": "image_3740.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8936",
+  "description": "A powerful dragon wearing an illustrious delicate platinum crown, standing in a void, illustration style, highly detailed, perfect lighting",
+  "image": "image_8936.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

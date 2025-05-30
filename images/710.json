@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2836",
+  "description": "A graceful prince wearing an illustrious steampunk silver crown, standing in a desert, digital art style, highly detailed, perfect lighting",
+  "image": "image_2836.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

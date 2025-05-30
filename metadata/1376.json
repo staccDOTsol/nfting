@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5500",
+  "description": "A noble ranger wearing an illustrious massive copper crown, standing in a hellscape, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_5500.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

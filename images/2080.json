@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8316",
+  "description": "A ancient minotaur wearing an illustrious massive iron crown, standing in a hellscape, concept art style, highly detailed, perfect lighting",
+  "image": "image_8316.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

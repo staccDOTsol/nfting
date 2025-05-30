@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2864",
+  "description": "A ancient witch wearing an illustrious ornate platinum crown, standing in a castle, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2864.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

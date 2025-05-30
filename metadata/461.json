@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1840",
+  "description": "A ancient ranger wearing an illustrious simple platinum crown, standing in a celestial realm, 3D render style, highly detailed, perfect lighting",
+  "image": "image_1840.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

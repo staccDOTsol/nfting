@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5332",
+  "description": "A powerful sorcerer wearing an illustrious renaissance floral crown, standing in a cosmic space, oil painting style, highly detailed, perfect lighting",
+  "image": "image_5332.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

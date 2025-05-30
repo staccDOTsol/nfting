@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6388",
+  "description": "A majestic ninja wearing an illustrious gothic thorny crown, standing in a desert, 3D render style, highly detailed, perfect lighting",
+  "image": "image_6388.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

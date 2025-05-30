@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #796",
+  "description": "A fearsome assassin wearing an illustrious cyberpunk wooden crown, standing in a castle, oil painting style, highly detailed, perfect lighting",
+  "image": "image_796.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6540",
+  "description": "A mysterious dwarf wearing an illustrious medieval iron crown, standing in a battlefield, pixel art style, highly detailed, perfect lighting",
+  "image": "image_6540.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

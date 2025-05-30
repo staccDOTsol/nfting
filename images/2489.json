@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9952",
+  "description": "A majestic sorcerer wearing an illustrious steampunk golden crown, standing in a mountain peak, 3D render style, highly detailed, perfect lighting",
+  "image": "image_9952.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

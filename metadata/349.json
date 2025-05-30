@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1392",
+  "description": "A mysterious minotaur wearing an illustrious simple diamond crown, standing in a ocean, illustration style, highly detailed, perfect lighting",
+  "image": "image_1392.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

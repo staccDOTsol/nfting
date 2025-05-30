@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7160",
+  "description": "A ethereal mermaid wearing an illustrious futuristic golden crown, standing in a battlefield, 3D render style, highly detailed, perfect lighting",
+  "image": "image_7160.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

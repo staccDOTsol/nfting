@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #816",
+  "description": "A regal minotaur wearing an illustrious ornate iron crown, standing in a meadow, digital art style, highly detailed, perfect lighting",
+  "image": "image_816.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

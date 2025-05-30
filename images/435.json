@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1736",
+  "description": "A elegant fairy wearing an illustrious futuristic floral crown, standing in a throne room, pixel art style, highly detailed, perfect lighting",
+  "image": "image_1736.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

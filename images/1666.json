@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6660",
+  "description": "A mysterious vampire wearing an illustrious cyberpunk emerald crown, standing in a cosmic space, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_6660.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

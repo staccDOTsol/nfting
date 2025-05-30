@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7472",
+  "description": "A elegant sorcerer wearing an illustrious ornate copper crown, standing in a dungeon, comic book style, highly detailed, perfect lighting",
+  "image": "image_7472.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

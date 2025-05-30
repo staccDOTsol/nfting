@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4804",
+  "description": "A mysterious wizard wearing an illustrious baroque emerald crown, standing in a castle, digital art style, highly detailed, perfect lighting",
+  "image": "image_4804.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

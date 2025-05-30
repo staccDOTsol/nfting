@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2840",
+  "description": "A majestic centaur wearing an illustrious steampunk diamond crown, standing in a dungeon, manga style, highly detailed, perfect lighting",
+  "image": "image_2840.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

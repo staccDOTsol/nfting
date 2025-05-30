@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1492",
+  "description": "A graceful mermaid wearing an illustrious massive crystal crown, standing in a mountain peak, comic book style, highly detailed, perfect lighting",
+  "image": "image_1492.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

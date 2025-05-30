@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2604",
+  "description": "A mysterious prince wearing an illustrious delicate obsidian crown, standing in a battlefield, watercolor style, highly detailed, perfect lighting",
+  "image": "image_2604.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3000",
+  "description": "A fearsome paladin wearing an illustrious renaissance thorny crown, standing in a desert, manga style, highly detailed, perfect lighting",
+  "image": "image_3000.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

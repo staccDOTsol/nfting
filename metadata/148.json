@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #588",
+  "description": "A ethereal warrior wearing an illustrious elegant bone crown, standing in a battlefield, digital art style, highly detailed, perfect lighting",
+  "image": "image_588.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

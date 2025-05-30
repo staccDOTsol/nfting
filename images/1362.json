@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5444",
+  "description": "A powerful elf wearing an illustrious ornate diamond crown, standing in a castle, concept art style, highly detailed, perfect lighting",
+  "image": "image_5444.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

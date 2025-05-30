@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1524",
+  "description": "A regal centaur wearing an illustrious elegant diamond crown, standing in a throne room, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_1524.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

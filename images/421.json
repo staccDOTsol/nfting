@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1680",
+  "description": "A noble king wearing an illustrious gothic bone crown, standing in a meadow, illustration style, highly detailed, perfect lighting",
+  "image": "image_1680.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

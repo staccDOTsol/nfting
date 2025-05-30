@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3076",
+  "description": "A mysterious ranger wearing an illustrious steampunk bone crown, standing in a hellscape, pixel art style, highly detailed, perfect lighting",
+  "image": "image_3076.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

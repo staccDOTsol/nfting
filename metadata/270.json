@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1076",
+  "description": "A regal samurai wearing an illustrious baroque platinum crown, standing in a void, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_1076.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

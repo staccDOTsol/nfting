@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7584",
+  "description": "A fearsome ranger wearing an illustrious spiky sapphire crown, standing in a cosmic space, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_7584.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5240",
+  "description": "A graceful king wearing an illustrious steampunk copper crown, standing in a hellscape, oil painting style, highly detailed, perfect lighting",
+  "image": "image_5240.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

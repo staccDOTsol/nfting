@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4396",
+  "description": "A imposing dwarf wearing an illustrious futuristic copper crown, standing in a cosmic space, illustration style, highly detailed, perfect lighting",
+  "image": "image_4396.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

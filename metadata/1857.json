@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7424",
+  "description": "A noble warrior wearing an illustrious intricate bronze crown, standing in a hellscape, pixel art style, highly detailed, perfect lighting",
+  "image": "image_7424.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

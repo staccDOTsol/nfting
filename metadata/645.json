@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2576",
+  "description": "A serene paladin wearing an illustrious minimalist iron crown, standing in a mountain peak, anime style, highly detailed, perfect lighting",
+  "image": "image_2576.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

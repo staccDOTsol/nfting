@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1096",
+  "description": "A mysterious vampire wearing an illustrious minimalist floral crown, standing in a cosmic space, pixel art style, highly detailed, perfect lighting",
+  "image": "image_1096.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

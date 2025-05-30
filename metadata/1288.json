@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5148",
+  "description": "A imposing dragon wearing an illustrious cyberpunk bone crown, standing in a hellscape, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_5148.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

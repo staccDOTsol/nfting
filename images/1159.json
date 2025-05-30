@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4632",
+  "description": "A regal assassin wearing an illustrious futuristic copper crown, standing in a mountain peak, watercolor style, highly detailed, perfect lighting",
+  "image": "image_4632.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

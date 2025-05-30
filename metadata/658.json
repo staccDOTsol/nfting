@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2628",
+  "description": "A fearsome mermaid wearing an illustrious intricate thorny crown, standing in a enchanted forest, oil painting style, highly detailed, perfect lighting",
+  "image": "image_2628.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

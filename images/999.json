@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3992",
+  "description": "A noble prince wearing an illustrious massive diamond crown, standing in a mountain peak, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_3992.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

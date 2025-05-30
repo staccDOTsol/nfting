@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9140",
+  "description": "A noble wizard wearing an illustrious cyberpunk diamond crown, standing in a meadow, concept art style, highly detailed, perfect lighting",
+  "image": "image_9140.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

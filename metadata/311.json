@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1240",
+  "description": "A serene sorcerer wearing an illustrious spiky emerald crown, standing in a hellscape, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_1240.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

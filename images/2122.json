@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8484",
+  "description": "A serene werewolf wearing an illustrious medieval emerald crown, standing in a meadow, comic book style, highly detailed, perfect lighting",
+  "image": "image_8484.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

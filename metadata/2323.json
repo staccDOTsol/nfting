@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9288",
+  "description": "A serene warrior wearing an illustrious gothic ruby crown, standing in a void, anime style, highly detailed, perfect lighting",
+  "image": "image_9288.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

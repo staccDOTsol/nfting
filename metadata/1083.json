@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4328",
+  "description": "A graceful knight wearing an illustrious baroque copper crown, standing in a hellscape, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_4328.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

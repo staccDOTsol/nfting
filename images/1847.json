@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7384",
+  "description": "A graceful assassin wearing an illustrious minimalist iron crown, standing in a celestial realm, manga style, highly detailed, perfect lighting",
+  "image": "image_7384.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

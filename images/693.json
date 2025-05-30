@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2768",
+  "description": "A powerful werewolf wearing an illustrious minimalist ruby crown, standing in a void, digital art style, highly detailed, perfect lighting",
+  "image": "image_2768.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

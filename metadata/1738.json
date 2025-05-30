@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6948",
+  "description": "A majestic dwarf wearing an illustrious simple emerald crown, standing in a battlefield, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_6948.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

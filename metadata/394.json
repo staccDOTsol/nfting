@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1572",
+  "description": "A powerful dwarf wearing an illustrious renaissance golden crown, standing in a dungeon, concept art style, highly detailed, perfect lighting",
+  "image": "image_1572.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

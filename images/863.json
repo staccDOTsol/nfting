@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3448",
+  "description": "A ancient minotaur wearing an illustrious steampunk bronze crown, standing in a battlefield, 3D render style, highly detailed, perfect lighting",
+  "image": "image_3448.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

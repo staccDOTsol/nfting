@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4016",
+  "description": "A noble wizard wearing an illustrious steampunk crystal crown, standing in a desert, 3D render style, highly detailed, perfect lighting",
+  "image": "image_4016.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

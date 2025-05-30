@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5800",
+  "description": "A imposing sorcerer wearing an illustrious delicate floral crown, standing in a battlefield, pixel art style, highly detailed, perfect lighting",
+  "image": "image_5800.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

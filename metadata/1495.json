@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5976",
+  "description": "A mysterious centaur wearing an illustrious steampunk silver crown, standing in a meadow, digital art style, highly detailed, perfect lighting",
+  "image": "image_5976.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

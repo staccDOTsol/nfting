@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3244",
+  "description": "A regal vampire wearing an illustrious spiky iron crown, standing in a dungeon, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_3244.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1344",
+  "description": "A ancient princess wearing an illustrious baroque iron crown, standing in a ocean, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_1344.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

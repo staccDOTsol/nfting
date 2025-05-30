@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8768",
+  "description": "A graceful paladin wearing an illustrious delicate thorny crown, standing in a ocean, pixel art style, highly detailed, perfect lighting",
+  "image": "image_8768.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

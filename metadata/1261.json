@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5040",
+  "description": "A ancient king wearing an illustrious renaissance wooden crown, standing in a ocean, oil painting style, highly detailed, perfect lighting",
+  "image": "image_5040.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

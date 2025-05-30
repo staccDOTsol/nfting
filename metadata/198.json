@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #788",
+  "description": "A fearsome sorcerer wearing an illustrious baroque sapphire crown, standing in a celestial realm, digital art style, highly detailed, perfect lighting",
+  "image": "image_788.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

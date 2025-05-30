@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6144",
+  "description": "A ancient queen wearing an illustrious minimalist floral crown, standing in a cosmic space, oil painting style, highly detailed, perfect lighting",
+  "image": "image_6144.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

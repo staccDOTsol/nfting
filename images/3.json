@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #11",
+  "description": "A regal djinn wearing an illustrious infernal celestial crown, standing in a jungle, anime style, highly detailed, perfect lighting",
+  "image": "image_11.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "djinn"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "celestial"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "jungle"
+    }
+  ]
+}

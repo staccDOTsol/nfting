@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #176",
+  "description": "A majestic warrior wearing an illustrious intricate ruby crown, standing in a ocean, illustration style, highly detailed, perfect lighting",
+  "image": "image_176.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

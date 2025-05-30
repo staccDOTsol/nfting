@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5688",
+  "description": "A elegant werewolf wearing an illustrious baroque wooden crown, standing in a hellscape, concept art style, highly detailed, perfect lighting",
+  "image": "image_5688.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

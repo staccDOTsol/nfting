@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2048",
+  "description": "A imposing vampire wearing an illustrious delicate floral crown, standing in a throne room, manga style, highly detailed, perfect lighting",
+  "image": "image_2048.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

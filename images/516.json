@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2060",
+  "description": "A mysterious witch wearing an illustrious elegant sapphire crown, standing in a ocean, watercolor style, highly detailed, perfect lighting",
+  "image": "image_2060.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

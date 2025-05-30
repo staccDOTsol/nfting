@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5428",
+  "description": "A ethereal ranger wearing an illustrious simple diamond crown, standing in a enchanted forest, concept art style, highly detailed, perfect lighting",
+  "image": "image_5428.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

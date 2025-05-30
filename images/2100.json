@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8396",
+  "description": "A majestic fairy wearing an illustrious simple diamond crown, standing in a enchanted forest, comic book style, highly detailed, perfect lighting",
+  "image": "image_8396.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

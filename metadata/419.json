@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1672",
+  "description": "A powerful sorcerer wearing an illustrious elegant golden crown, standing in a mountain peak, illustration style, highly detailed, perfect lighting",
+  "image": "image_1672.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

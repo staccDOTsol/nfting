@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4288",
+  "description": "A regal dwarf wearing an illustrious minimalist thorny crown, standing in a void, pixel art style, highly detailed, perfect lighting",
+  "image": "image_4288.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

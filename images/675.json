@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2696",
+  "description": "A imposing queen wearing an illustrious renaissance wooden crown, standing in a ocean, comic book style, highly detailed, perfect lighting",
+  "image": "image_2696.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

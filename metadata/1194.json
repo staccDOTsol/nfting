@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4772",
+  "description": "A serene fairy wearing an illustrious spiky silver crown, standing in a meadow, concept art style, highly detailed, perfect lighting",
+  "image": "image_4772.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

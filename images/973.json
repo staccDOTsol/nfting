@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3888",
+  "description": "A regal warrior wearing an illustrious intricate floral crown, standing in a celestial realm, 3D render style, highly detailed, perfect lighting",
+  "image": "image_3888.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

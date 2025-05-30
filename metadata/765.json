@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3056",
+  "description": "A powerful dwarf wearing an illustrious simple wooden crown, standing in a mountain peak, 3D render style, highly detailed, perfect lighting",
+  "image": "image_3056.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

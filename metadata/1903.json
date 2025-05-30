@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7608",
+  "description": "A ancient samurai wearing an illustrious spiky crystal crown, standing in a throne room, oil painting style, highly detailed, perfect lighting",
+  "image": "image_7608.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

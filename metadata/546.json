@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2180",
+  "description": "A regal mermaid wearing an illustrious gothic platinum crown, standing in a enchanted forest, anime style, highly detailed, perfect lighting",
+  "image": "image_2180.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

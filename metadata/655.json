@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2616",
+  "description": "A imposing werewolf wearing an illustrious delicate diamond crown, standing in a celestial realm, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_2616.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #136",
+  "description": "A ethereal king wearing an illustrious gothic wooden crown, standing in a meadow, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_136.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7704",
+  "description": "A ancient samurai wearing an illustrious futuristic bone crown, standing in a enchanted forest, 3D render style, highly detailed, perfect lighting",
+  "image": "image_7704.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

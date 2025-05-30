@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9180",
+  "description": "A ancient queen wearing an illustrious baroque bronze crown, standing in a mountain peak, comic book style, highly detailed, perfect lighting",
+  "image": "image_9180.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

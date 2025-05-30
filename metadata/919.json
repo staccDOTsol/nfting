@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3672",
+  "description": "A ancient elf wearing an illustrious elegant ruby crown, standing in a mountain peak, anime style, highly detailed, perfect lighting",
+  "image": "image_3672.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

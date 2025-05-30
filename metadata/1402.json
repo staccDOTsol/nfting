@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5604",
+  "description": "A ethereal assassin wearing an illustrious spiky platinum crown, standing in a throne room, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_5604.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

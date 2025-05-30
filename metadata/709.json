@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2832",
+  "description": "A noble assassin wearing an illustrious baroque crystal crown, standing in a desert, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2832.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

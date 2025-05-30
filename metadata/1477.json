@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5904",
+  "description": "A regal ninja wearing an illustrious elegant wooden crown, standing in a hellscape, pixel art style, highly detailed, perfect lighting",
+  "image": "image_5904.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

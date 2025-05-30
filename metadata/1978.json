@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7908",
+  "description": "A cunning minotaur wearing an illustrious futuristic sapphire crown, standing in a battlefield, oil painting style, highly detailed, perfect lighting",
+  "image": "image_7908.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

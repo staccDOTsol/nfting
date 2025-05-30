@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5676",
+  "description": "A mysterious centaur wearing an illustrious futuristic ruby crown, standing in a meadow, 3D render style, highly detailed, perfect lighting",
+  "image": "image_5676.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2784",
+  "description": "A serene assassin wearing an illustrious cyberpunk diamond crown, standing in a dungeon, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2784.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

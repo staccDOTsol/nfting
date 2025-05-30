@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5708",
+  "description": "A regal prince wearing an illustrious minimalist crystal crown, standing in a battlefield, digital art style, highly detailed, perfect lighting",
+  "image": "image_5708.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9980",
+  "description": "A mysterious ranger wearing an illustrious steampunk crystal crown, standing in a throne room, illustration style, highly detailed, perfect lighting",
+  "image": "image_9980.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

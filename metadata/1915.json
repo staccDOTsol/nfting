@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7656",
+  "description": "A graceful paladin wearing an illustrious simple bronze crown, standing in a desert, comic book style, highly detailed, perfect lighting",
+  "image": "image_7656.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9068",
+  "description": "A majestic paladin wearing an illustrious delicate floral crown, standing in a battlefield, anime style, highly detailed, perfect lighting",
+  "image": "image_9068.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

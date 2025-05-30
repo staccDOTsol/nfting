@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1088",
+  "description": "A regal prince wearing an illustrious renaissance platinum crown, standing in a desert, oil painting style, highly detailed, perfect lighting",
+  "image": "image_1088.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

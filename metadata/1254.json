@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5012",
+  "description": "A ancient warrior wearing an illustrious baroque sapphire crown, standing in a ocean, anime style, highly detailed, perfect lighting",
+  "image": "image_5012.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

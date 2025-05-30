@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #676",
+  "description": "A ethereal elf wearing an illustrious renaissance copper crown, standing in a desert, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_676.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

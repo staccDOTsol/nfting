@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6956",
+  "description": "A ethereal centaur wearing an illustrious cyberpunk crystal crown, standing in a celestial realm, comic book style, highly detailed, perfect lighting",
+  "image": "image_6956.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

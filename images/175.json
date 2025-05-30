@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #696",
+  "description": "A elegant king wearing an illustrious elegant iron crown, standing in a enchanted forest, illustration style, highly detailed, perfect lighting",
+  "image": "image_696.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

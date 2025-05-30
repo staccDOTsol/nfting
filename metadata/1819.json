@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7272",
+  "description": "A ancient ninja wearing an illustrious simple emerald crown, standing in a throne room, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_7272.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

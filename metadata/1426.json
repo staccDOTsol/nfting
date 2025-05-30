@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5700",
+  "description": "A mysterious wizard wearing an illustrious simple thorny crown, standing in a castle, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_5700.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

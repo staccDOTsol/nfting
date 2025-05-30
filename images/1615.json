@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6456",
+  "description": "A elegant knight wearing an illustrious ornate sapphire crown, standing in a meadow, anime style, highly detailed, perfect lighting",
+  "image": "image_6456.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

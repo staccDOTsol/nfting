@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3280",
+  "description": "A mysterious minotaur wearing an illustrious spiky iron crown, standing in a castle, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_3280.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

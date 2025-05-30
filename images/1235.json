@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4936",
+  "description": "A fearsome ranger wearing an illustrious renaissance ruby crown, standing in a mountain peak, anime style, highly detailed, perfect lighting",
+  "image": "image_4936.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

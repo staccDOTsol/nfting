@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4068",
+  "description": "A noble minotaur wearing an illustrious delicate floral crown, standing in a hellscape, pixel art style, highly detailed, perfect lighting",
+  "image": "image_4068.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8088",
+  "description": "A cunning elf wearing an illustrious cyberpunk sapphire crown, standing in a mountain peak, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_8088.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

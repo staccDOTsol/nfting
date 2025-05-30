@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3044",
+  "description": "A cunning ninja wearing an illustrious medieval diamond crown, standing in a meadow, illustration style, highly detailed, perfect lighting",
+  "image": "image_3044.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

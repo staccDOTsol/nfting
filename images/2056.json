@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8220",
+  "description": "A fearsome king wearing an illustrious ornate sapphire crown, standing in a castle, manga style, highly detailed, perfect lighting",
+  "image": "image_8220.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

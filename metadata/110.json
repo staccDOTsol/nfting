@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #436",
+  "description": "A graceful witch wearing an illustrious delicate floral crown, standing in a mountain peak, manga style, highly detailed, perfect lighting",
+  "image": "image_436.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

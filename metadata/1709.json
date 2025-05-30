@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6832",
+  "description": "A powerful dragon wearing an illustrious steampunk obsidian crown, standing in a celestial realm, pixel art style, highly detailed, perfect lighting",
+  "image": "image_6832.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

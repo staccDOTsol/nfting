@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3804",
+  "description": "A ethereal centaur wearing an illustrious futuristic bronze crown, standing in a dungeon, 3D render style, highly detailed, perfect lighting",
+  "image": "image_3804.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

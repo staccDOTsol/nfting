@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9504",
+  "description": "A noble ranger wearing an illustrious medieval iron crown, standing in a throne room, comic book style, highly detailed, perfect lighting",
+  "image": "image_9504.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8556",
+  "description": "A graceful paladin wearing an illustrious intricate silver crown, standing in a meadow, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_8556.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5960",
+  "description": "A graceful mermaid wearing an illustrious gothic golden crown, standing in a celestial realm, watercolor style, highly detailed, perfect lighting",
+  "image": "image_5960.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

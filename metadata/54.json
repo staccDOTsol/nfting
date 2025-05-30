@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #212",
+  "description": "A regal princess wearing an illustrious ornate iron crown, standing in a hellscape, oil painting style, highly detailed, perfect lighting",
+  "image": "image_212.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

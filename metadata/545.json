@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2176",
+  "description": "A cunning paladin wearing an illustrious intricate silver crown, standing in a hellscape, comic book style, highly detailed, perfect lighting",
+  "image": "image_2176.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

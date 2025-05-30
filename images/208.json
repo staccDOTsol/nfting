@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #828",
+  "description": "A elegant werewolf wearing an illustrious minimalist floral crown, standing in a enchanted forest, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_828.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

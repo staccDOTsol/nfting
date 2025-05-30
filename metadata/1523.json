@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6088",
+  "description": "A noble assassin wearing an illustrious delicate sapphire crown, standing in a throne room, digital art style, highly detailed, perfect lighting",
+  "image": "image_6088.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

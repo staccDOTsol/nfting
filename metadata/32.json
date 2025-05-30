@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #124",
+  "description": "A imposing mermaid wearing an illustrious renaissance wooden crown, standing in a void, comic book style, highly detailed, perfect lighting",
+  "image": "image_124.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7164",
+  "description": "A powerful witch wearing an illustrious renaissance copper crown, standing in a meadow, oil painting style, highly detailed, perfect lighting",
+  "image": "image_7164.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

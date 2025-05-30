@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2584",
+  "description": "A ethereal queen wearing an illustrious spiky diamond crown, standing in a meadow, digital art style, highly detailed, perfect lighting",
+  "image": "image_2584.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

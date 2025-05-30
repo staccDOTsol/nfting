@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5988",
+  "description": "A graceful warrior wearing an illustrious massive wooden crown, standing in a enchanted forest, oil painting style, highly detailed, perfect lighting",
+  "image": "image_5988.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

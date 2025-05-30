@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3756",
+  "description": "A fearsome ninja wearing an illustrious simple ruby crown, standing in a castle, 3D render style, highly detailed, perfect lighting",
+  "image": "image_3756.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5364",
+  "description": "A elegant sorcerer wearing an illustrious simple iron crown, standing in a meadow, 3D render style, highly detailed, perfect lighting",
+  "image": "image_5364.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

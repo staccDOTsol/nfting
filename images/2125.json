@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8496",
+  "description": "A majestic vampire wearing an illustrious cyberpunk wooden crown, standing in a meadow, watercolor style, highly detailed, perfect lighting",
+  "image": "image_8496.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

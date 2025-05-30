@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7524",
+  "description": "A ethereal samurai wearing an illustrious renaissance thorny crown, standing in a desert, concept art style, highly detailed, perfect lighting",
+  "image": "image_7524.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

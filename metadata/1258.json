@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5028",
+  "description": "A imposing witch wearing an illustrious delicate bone crown, standing in a castle, manga style, highly detailed, perfect lighting",
+  "image": "image_5028.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

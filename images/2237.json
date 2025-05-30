@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8944",
+  "description": "A serene centaur wearing an illustrious gothic copper crown, standing in a mountain peak, 3D render style, highly detailed, perfect lighting",
+  "image": "image_8944.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

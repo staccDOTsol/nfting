@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7636",
+  "description": "A majestic sorcerer wearing an illustrious ornate copper crown, standing in a void, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_7636.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

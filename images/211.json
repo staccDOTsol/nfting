@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #840",
+  "description": "A elegant fairy wearing an illustrious steampunk sapphire crown, standing in a cosmic space, manga style, highly detailed, perfect lighting",
+  "image": "image_840.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

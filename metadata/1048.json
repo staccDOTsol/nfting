@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4188",
+  "description": "A noble warrior wearing an illustrious cyberpunk wooden crown, standing in a hellscape, pixel art style, highly detailed, perfect lighting",
+  "image": "image_4188.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

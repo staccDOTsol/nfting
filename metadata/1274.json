@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5092",
+  "description": "A regal centaur wearing an illustrious baroque emerald crown, standing in a ocean, manga style, highly detailed, perfect lighting",
+  "image": "image_5092.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

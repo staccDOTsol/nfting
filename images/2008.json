@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8028",
+  "description": "A serene wizard wearing an illustrious baroque iron crown, standing in a hellscape, digital art style, highly detailed, perfect lighting",
+  "image": "image_8028.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

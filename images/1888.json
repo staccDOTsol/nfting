@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7548",
+  "description": "A fearsome elf wearing an illustrious steampunk sapphire crown, standing in a desert, pixel art style, highly detailed, perfect lighting",
+  "image": "image_7548.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

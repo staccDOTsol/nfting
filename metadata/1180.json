@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4716",
+  "description": "A ethereal ranger wearing an illustrious gothic floral crown, standing in a celestial realm, manga style, highly detailed, perfect lighting",
+  "image": "image_4716.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

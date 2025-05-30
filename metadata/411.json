@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1640",
+  "description": "A cunning mermaid wearing an illustrious intricate diamond crown, standing in a throne room, comic book style, highly detailed, perfect lighting",
+  "image": "image_1640.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

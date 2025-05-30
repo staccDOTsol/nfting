@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4192",
+  "description": "A serene wizard wearing an illustrious cyberpunk sapphire crown, standing in a ocean, illustration style, highly detailed, perfect lighting",
+  "image": "image_4192.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

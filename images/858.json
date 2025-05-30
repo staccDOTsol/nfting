@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3428",
+  "description": "A ancient werewolf wearing an illustrious futuristic platinum crown, standing in a ocean, illustration style, highly detailed, perfect lighting",
+  "image": "image_3428.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

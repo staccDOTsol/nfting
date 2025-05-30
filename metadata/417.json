@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1664",
+  "description": "A cunning werewolf wearing an illustrious spiky obsidian crown, standing in a mountain peak, comic book style, highly detailed, perfect lighting",
+  "image": "image_1664.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

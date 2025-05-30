@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2424",
+  "description": "A ancient ranger wearing an illustrious delicate wooden crown, standing in a celestial realm, concept art style, highly detailed, perfect lighting",
+  "image": "image_2424.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

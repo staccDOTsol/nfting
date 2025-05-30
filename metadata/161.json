@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #640",
+  "description": "A regal knight wearing an illustrious gothic silver crown, standing in a throne room, anime style, highly detailed, perfect lighting",
+  "image": "image_640.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

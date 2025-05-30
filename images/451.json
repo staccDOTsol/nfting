@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1800",
+  "description": "A mysterious assassin wearing an illustrious steampunk iron crown, standing in a meadow, 3D render style, highly detailed, perfect lighting",
+  "image": "image_1800.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

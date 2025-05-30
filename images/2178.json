@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8708",
+  "description": "A graceful sorcerer wearing an illustrious ornate emerald crown, standing in a desert, concept art style, highly detailed, perfect lighting",
+  "image": "image_8708.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

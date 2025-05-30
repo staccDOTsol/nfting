@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2108",
+  "description": "A serene samurai wearing an illustrious massive sapphire crown, standing in a dungeon, illustration style, highly detailed, perfect lighting",
+  "image": "image_2108.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

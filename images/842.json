@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3364",
+  "description": "A elegant witch wearing an illustrious spiky floral crown, standing in a cosmic space, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_3364.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

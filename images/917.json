@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3664",
+  "description": "A fearsome king wearing an illustrious futuristic ruby crown, standing in a battlefield, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_3664.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

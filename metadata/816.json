@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3260",
+  "description": "A fearsome mermaid wearing an illustrious intricate crystal crown, standing in a desert, anime style, highly detailed, perfect lighting",
+  "image": "image_3260.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

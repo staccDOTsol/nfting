@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9616",
+  "description": "A elegant dwarf wearing an illustrious delicate diamond crown, standing in a void, illustration style, highly detailed, perfect lighting",
+  "image": "image_9616.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

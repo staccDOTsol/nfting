@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6164",
+  "description": "A cunning centaur wearing an illustrious simple emerald crown, standing in a castle, manga style, highly detailed, perfect lighting",
+  "image": "image_6164.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

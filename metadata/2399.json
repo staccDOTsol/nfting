@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9592",
+  "description": "A graceful wizard wearing an illustrious cyberpunk ruby crown, standing in a ocean, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_9592.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

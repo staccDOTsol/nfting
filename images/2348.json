@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9388",
+  "description": "A ethereal samurai wearing an illustrious cyberpunk obsidian crown, standing in a meadow, pixel art style, highly detailed, perfect lighting",
+  "image": "image_9388.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

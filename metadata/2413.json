@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9648",
+  "description": "A noble knight wearing an illustrious steampunk copper crown, standing in a hellscape, manga style, highly detailed, perfect lighting",
+  "image": "image_9648.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

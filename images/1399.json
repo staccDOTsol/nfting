@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5592",
+  "description": "A regal samurai wearing an illustrious elegant bone crown, standing in a cosmic space, concept art style, highly detailed, perfect lighting",
+  "image": "image_5592.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

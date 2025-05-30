@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8148",
+  "description": "A noble prince wearing an illustrious steampunk copper crown, standing in a desert, anime style, highly detailed, perfect lighting",
+  "image": "image_8148.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

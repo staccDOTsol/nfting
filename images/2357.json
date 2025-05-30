@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9424",
+  "description": "A cunning knight wearing an illustrious baroque silver crown, standing in a battlefield, 3D render style, highly detailed, perfect lighting",
+  "image": "image_9424.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

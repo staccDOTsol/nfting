@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1156",
+  "description": "A serene warrior wearing an illustrious minimalist thorny crown, standing in a battlefield, digital art style, highly detailed, perfect lighting",
+  "image": "image_1156.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

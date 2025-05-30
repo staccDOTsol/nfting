@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1228",
+  "description": "A noble dragon wearing an illustrious spiky bronze crown, standing in a void, illustration style, highly detailed, perfect lighting",
+  "image": "image_1228.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

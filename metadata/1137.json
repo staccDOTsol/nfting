@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4544",
+  "description": "A noble wizard wearing an illustrious simple emerald crown, standing in a celestial realm, oil painting style, highly detailed, perfect lighting",
+  "image": "image_4544.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

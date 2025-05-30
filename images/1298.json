@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5188",
+  "description": "A fearsome witch wearing an illustrious gothic silver crown, standing in a castle, illustration style, highly detailed, perfect lighting",
+  "image": "image_5188.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

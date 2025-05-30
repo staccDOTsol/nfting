@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2772",
+  "description": "A graceful sorcerer wearing an illustrious cyberpunk wooden crown, standing in a castle, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_2772.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

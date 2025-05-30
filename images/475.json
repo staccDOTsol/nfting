@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1896",
+  "description": "A elegant dragon wearing an illustrious massive emerald crown, standing in a celestial realm, digital art style, highly detailed, perfect lighting",
+  "image": "image_1896.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

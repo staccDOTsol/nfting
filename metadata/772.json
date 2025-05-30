@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3084",
+  "description": "A fearsome wizard wearing an illustrious elegant floral crown, standing in a desert, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_3084.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

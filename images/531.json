@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2120",
+  "description": "A imposing king wearing an illustrious minimalist emerald crown, standing in a mountain peak, pixel art style, highly detailed, perfect lighting",
+  "image": "image_2120.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4736",
+  "description": "A ancient fairy wearing an illustrious baroque silver crown, standing in a meadow, watercolor style, highly detailed, perfect lighting",
+  "image": "image_4736.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

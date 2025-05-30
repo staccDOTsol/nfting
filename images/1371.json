@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5480",
+  "description": "A regal ranger wearing an illustrious cyberpunk silver crown, standing in a desert, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_5480.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

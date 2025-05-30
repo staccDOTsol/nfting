@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7988",
+  "description": "A graceful ninja wearing an illustrious futuristic wooden crown, standing in a mountain peak, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_7988.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

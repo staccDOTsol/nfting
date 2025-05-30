@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8040",
+  "description": "A graceful assassin wearing an illustrious baroque obsidian crown, standing in a void, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_8040.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

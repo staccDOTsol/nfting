@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1052",
+  "description": "A mysterious paladin wearing an illustrious massive copper crown, standing in a celestial realm, pixel art style, highly detailed, perfect lighting",
+  "image": "image_1052.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4816",
+  "description": "A majestic wizard wearing an illustrious spiky golden crown, standing in a hellscape, illustration style, highly detailed, perfect lighting",
+  "image": "image_4816.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

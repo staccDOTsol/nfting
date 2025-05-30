@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2660",
+  "description": "A ethereal prince wearing an illustrious simple floral crown, standing in a hellscape, comic book style, highly detailed, perfect lighting",
+  "image": "image_2660.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

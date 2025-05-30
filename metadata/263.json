@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1048",
+  "description": "A graceful prince wearing an illustrious renaissance ruby crown, standing in a castle, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_1048.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

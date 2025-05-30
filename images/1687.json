@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6744",
+  "description": "A serene centaur wearing an illustrious renaissance platinum crown, standing in a celestial realm, digital art style, highly detailed, perfect lighting",
+  "image": "image_6744.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

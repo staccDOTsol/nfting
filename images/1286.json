@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5140",
+  "description": "A noble ninja wearing an illustrious elegant copper crown, standing in a desert, pixel art style, highly detailed, perfect lighting",
+  "image": "image_5140.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

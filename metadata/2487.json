@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9944",
+  "description": "A mysterious king wearing an illustrious delicate emerald crown, standing in a mountain peak, illustration style, highly detailed, perfect lighting",
+  "image": "image_9944.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

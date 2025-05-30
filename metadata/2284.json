@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9132",
+  "description": "A mysterious minotaur wearing an illustrious spiky obsidian crown, standing in a ocean, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_9132.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

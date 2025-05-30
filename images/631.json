@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2520",
+  "description": "A noble knight wearing an illustrious minimalist obsidian crown, standing in a mountain peak, anime style, highly detailed, perfect lighting",
+  "image": "image_2520.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

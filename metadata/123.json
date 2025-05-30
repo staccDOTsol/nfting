@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #488",
+  "description": "A regal sorcerer wearing an illustrious medieval golden crown, standing in a cosmic space, 3D render style, highly detailed, perfect lighting",
+  "image": "image_488.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

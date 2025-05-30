@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4196",
+  "description": "A mysterious knight wearing an illustrious renaissance iron crown, standing in a castle, 3D render style, highly detailed, perfect lighting",
+  "image": "image_4196.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

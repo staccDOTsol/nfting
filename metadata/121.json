@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #480",
+  "description": "A mysterious paladin wearing an illustrious steampunk golden crown, standing in a celestial realm, comic book style, highly detailed, perfect lighting",
+  "image": "image_480.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

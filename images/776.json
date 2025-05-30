@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3100",
+  "description": "A regal paladin wearing an illustrious renaissance bronze crown, standing in a ocean, comic book style, highly detailed, perfect lighting",
+  "image": "image_3100.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

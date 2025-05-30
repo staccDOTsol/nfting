@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8660",
+  "description": "A ethereal werewolf wearing an illustrious minimalist golden crown, standing in a castle, 3D render style, highly detailed, perfect lighting",
+  "image": "image_8660.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

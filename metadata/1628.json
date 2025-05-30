@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6508",
+  "description": "A powerful sorcerer wearing an illustrious medieval crystal crown, standing in a celestial realm, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_6508.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

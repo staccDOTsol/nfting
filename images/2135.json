@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8536",
+  "description": "A mysterious dwarf wearing an illustrious renaissance emerald crown, standing in a hellscape, anime style, highly detailed, perfect lighting",
+  "image": "image_8536.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

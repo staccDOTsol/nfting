@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8752",
+  "description": "A serene queen wearing an illustrious futuristic wooden crown, standing in a meadow, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_8752.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

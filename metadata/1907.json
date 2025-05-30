@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7624",
+  "description": "A serene wizard wearing an illustrious intricate floral crown, standing in a castle, concept art style, highly detailed, perfect lighting",
+  "image": "image_7624.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

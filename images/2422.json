@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9684",
+  "description": "A majestic ninja wearing an illustrious simple thorny crown, standing in a throne room, digital art style, highly detailed, perfect lighting",
+  "image": "image_9684.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

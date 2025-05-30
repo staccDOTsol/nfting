@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1016",
+  "description": "A ancient king wearing an illustrious steampunk diamond crown, standing in a castle, concept art style, highly detailed, perfect lighting",
+  "image": "image_1016.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

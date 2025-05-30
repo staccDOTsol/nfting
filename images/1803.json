@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7208",
+  "description": "A fearsome knight wearing an illustrious cyberpunk thorny crown, standing in a hellscape, 3D render style, highly detailed, perfect lighting",
+  "image": "image_7208.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

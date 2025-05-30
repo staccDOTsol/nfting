@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9292",
+  "description": "A elegant paladin wearing an illustrious elegant bronze crown, standing in a cosmic space, manga style, highly detailed, perfect lighting",
+  "image": "image_9292.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

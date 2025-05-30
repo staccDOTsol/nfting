@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4788",
+  "description": "A mysterious dragon wearing an illustrious futuristic crystal crown, standing in a meadow, pixel art style, highly detailed, perfect lighting",
+  "image": "image_4788.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

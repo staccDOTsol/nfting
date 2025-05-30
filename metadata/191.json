@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #760",
+  "description": "A cunning queen wearing an illustrious elegant silver crown, standing in a void, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_760.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

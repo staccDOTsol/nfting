@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9188",
+  "description": "A imposing elf wearing an illustrious simple ruby crown, standing in a void, anime style, highly detailed, perfect lighting",
+  "image": "image_9188.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

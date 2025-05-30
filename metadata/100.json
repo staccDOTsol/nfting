@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #396",
+  "description": "A mysterious elf wearing an illustrious massive sapphire crown, standing in a cosmic space, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_396.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

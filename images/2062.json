@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8244",
+  "description": "A imposing witch wearing an illustrious futuristic bronze crown, standing in a mountain peak, 3D render style, highly detailed, perfect lighting",
+  "image": "image_8244.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

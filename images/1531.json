@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6120",
+  "description": "A cunning vampire wearing an illustrious delicate silver crown, standing in a enchanted forest, pixel art style, highly detailed, perfect lighting",
+  "image": "image_6120.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

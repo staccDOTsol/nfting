@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1512",
+  "description": "A regal wizard wearing an illustrious baroque floral crown, standing in a meadow, comic book style, highly detailed, perfect lighting",
+  "image": "image_1512.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2336",
+  "description": "A fearsome wizard wearing an illustrious intricate silver crown, standing in a cosmic space, manga style, highly detailed, perfect lighting",
+  "image": "image_2336.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3460",
+  "description": "A elegant queen wearing an illustrious elegant ruby crown, standing in a battlefield, pixel art style, highly detailed, perfect lighting",
+  "image": "image_3460.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7148",
+  "description": "A fearsome king wearing an illustrious elegant golden crown, standing in a meadow, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_7148.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

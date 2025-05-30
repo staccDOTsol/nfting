@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7500",
+  "description": "A cunning assassin wearing an illustrious ornate iron crown, standing in a castle, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_7500.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

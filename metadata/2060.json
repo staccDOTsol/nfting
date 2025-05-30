@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8236",
+  "description": "A powerful ninja wearing an illustrious elegant emerald crown, standing in a dungeon, anime style, highly detailed, perfect lighting",
+  "image": "image_8236.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

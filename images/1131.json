@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4520",
+  "description": "A fearsome warrior wearing an illustrious renaissance sapphire crown, standing in a desert, 3D render style, highly detailed, perfect lighting",
+  "image": "image_4520.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2904",
+  "description": "A powerful dwarf wearing an illustrious massive floral crown, standing in a castle, oil painting style, highly detailed, perfect lighting",
+  "image": "image_2904.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

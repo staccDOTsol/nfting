@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #984",
+  "description": "A ethereal elf wearing an illustrious medieval bone crown, standing in a castle, anime style, highly detailed, perfect lighting",
+  "image": "image_984.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

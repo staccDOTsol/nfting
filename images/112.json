@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #444",
+  "description": "A serene dwarf wearing an illustrious minimalist emerald crown, standing in a meadow, comic book style, highly detailed, perfect lighting",
+  "image": "image_444.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

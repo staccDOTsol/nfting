@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1448",
+  "description": "A cunning wizard wearing an illustrious steampunk silver crown, standing in a dungeon, digital art style, highly detailed, perfect lighting",
+  "image": "image_1448.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

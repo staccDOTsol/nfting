@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8384",
+  "description": "A majestic witch wearing an illustrious simple wooden crown, standing in a desert, oil painting style, highly detailed, perfect lighting",
+  "image": "image_8384.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

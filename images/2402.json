@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9604",
+  "description": "A imposing knight wearing an illustrious futuristic floral crown, standing in a ocean, illustration style, highly detailed, perfect lighting",
+  "image": "image_9604.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

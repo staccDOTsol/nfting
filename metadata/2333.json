@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9328",
+  "description": "A majestic werewolf wearing an illustrious gothic golden crown, standing in a battlefield, pixel art style, highly detailed, perfect lighting",
+  "image": "image_9328.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

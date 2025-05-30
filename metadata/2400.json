@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9596",
+  "description": "A ethereal assassin wearing an illustrious steampunk thorny crown, standing in a enchanted forest, anime style, highly detailed, perfect lighting",
+  "image": "image_9596.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

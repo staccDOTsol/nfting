@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1756",
+  "description": "A cunning sorcerer wearing an illustrious massive bronze crown, standing in a throne room, digital art style, highly detailed, perfect lighting",
+  "image": "image_1756.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

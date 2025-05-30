@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9892",
+  "description": "A fearsome vampire wearing an illustrious minimalist golden crown, standing in a castle, pixel art style, highly detailed, perfect lighting",
+  "image": "image_9892.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

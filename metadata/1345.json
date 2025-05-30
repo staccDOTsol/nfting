@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5376",
+  "description": "A elegant warrior wearing an illustrious spiky emerald crown, standing in a throne room, 3D render style, highly detailed, perfect lighting",
+  "image": "image_5376.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

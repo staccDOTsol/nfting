@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1952",
+  "description": "A imposing knight wearing an illustrious baroque diamond crown, standing in a celestial realm, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_1952.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

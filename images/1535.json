@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6136",
+  "description": "A serene sorcerer wearing an illustrious intricate sapphire crown, standing in a mountain peak, 3D render style, highly detailed, perfect lighting",
+  "image": "image_6136.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

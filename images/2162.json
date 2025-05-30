@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8644",
+  "description": "A fearsome wizard wearing an illustrious intricate crystal crown, standing in a void, pixel art style, highly detailed, perfect lighting",
+  "image": "image_8644.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

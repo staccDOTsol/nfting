@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6348",
+  "description": "A ancient samurai wearing an illustrious intricate golden crown, standing in a castle, pixel art style, highly detailed, perfect lighting",
+  "image": "image_6348.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

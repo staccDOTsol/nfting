@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3192",
+  "description": "A graceful centaur wearing an illustrious baroque floral crown, standing in a throne room, pixel art style, highly detailed, perfect lighting",
+  "image": "image_3192.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8056",
+  "description": "A mysterious queen wearing an illustrious futuristic emerald crown, standing in a battlefield, watercolor style, highly detailed, perfect lighting",
+  "image": "image_8056.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

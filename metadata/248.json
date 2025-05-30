@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #988",
+  "description": "A serene sorcerer wearing an illustrious spiky silver crown, standing in a battlefield, anime style, highly detailed, perfect lighting",
+  "image": "image_988.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

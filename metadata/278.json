@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1108",
+  "description": "A majestic king wearing an illustrious futuristic sapphire crown, standing in a void, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_1108.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

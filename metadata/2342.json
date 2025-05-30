@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9364",
+  "description": "A ethereal vampire wearing an illustrious minimalist crystal crown, standing in a castle, concept art style, highly detailed, perfect lighting",
+  "image": "image_9364.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

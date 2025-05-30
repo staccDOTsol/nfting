@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7336",
+  "description": "A elegant vampire wearing an illustrious medieval floral crown, standing in a cosmic space, oil painting style, highly detailed, perfect lighting",
+  "image": "image_7336.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7428",
+  "description": "A mysterious prince wearing an illustrious steampunk silver crown, standing in a throne room, illustration style, highly detailed, perfect lighting",
+  "image": "image_7428.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

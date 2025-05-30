@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7100",
+  "description": "A ancient queen wearing an illustrious spiky wooden crown, standing in a throne room, comic book style, highly detailed, perfect lighting",
+  "image": "image_7100.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

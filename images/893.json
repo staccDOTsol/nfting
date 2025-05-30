@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3568",
+  "description": "A graceful vampire wearing an illustrious ornate golden crown, standing in a celestial realm, illustration style, highly detailed, perfect lighting",
+  "image": "image_3568.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

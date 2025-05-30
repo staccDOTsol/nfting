@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7244",
+  "description": "A cunning dwarf wearing an illustrious intricate crystal crown, standing in a cosmic space, manga style, highly detailed, perfect lighting",
+  "image": "image_7244.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

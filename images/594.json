@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2372",
+  "description": "A powerful dragon wearing an illustrious renaissance crystal crown, standing in a castle, pixel art style, highly detailed, perfect lighting",
+  "image": "image_2372.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7736",
+  "description": "A regal sorcerer wearing an illustrious medieval ruby crown, standing in a cosmic space, anime style, highly detailed, perfect lighting",
+  "image": "image_7736.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

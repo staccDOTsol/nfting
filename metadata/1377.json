@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5504",
+  "description": "A imposing vampire wearing an illustrious baroque ruby crown, standing in a hellscape, comic book style, highly detailed, perfect lighting",
+  "image": "image_5504.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

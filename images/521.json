@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2080",
+  "description": "A elegant mermaid wearing an illustrious cyberpunk thorny crown, standing in a ocean, oil painting style, highly detailed, perfect lighting",
+  "image": "image_2080.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

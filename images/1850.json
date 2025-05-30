@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7396",
+  "description": "A graceful sorcerer wearing an illustrious baroque platinum crown, standing in a dungeon, anime style, highly detailed, perfect lighting",
+  "image": "image_7396.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5056",
+  "description": "A elegant sorcerer wearing an illustrious minimalist ruby crown, standing in a throne room, oil painting style, highly detailed, perfect lighting",
+  "image": "image_5056.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

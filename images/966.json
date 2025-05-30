@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3860",
+  "description": "A serene dragon wearing an illustrious spiky copper crown, standing in a ocean, manga style, highly detailed, perfect lighting",
+  "image": "image_3860.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

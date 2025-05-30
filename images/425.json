@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1696",
+  "description": "A majestic vampire wearing an illustrious simple platinum crown, standing in a ocean, 3D render style, highly detailed, perfect lighting",
+  "image": "image_1696.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

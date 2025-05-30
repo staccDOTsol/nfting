@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3240",
+  "description": "A serene vampire wearing an illustrious spiky wooden crown, standing in a mountain peak, digital art style, highly detailed, perfect lighting",
+  "image": "image_3240.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

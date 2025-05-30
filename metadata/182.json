@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #724",
+  "description": "A majestic witch wearing an illustrious futuristic diamond crown, standing in a desert, watercolor style, highly detailed, perfect lighting",
+  "image": "image_724.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

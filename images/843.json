@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3368",
+  "description": "A majestic king wearing an illustrious baroque golden crown, standing in a dungeon, digital art style, highly detailed, perfect lighting",
+  "image": "image_3368.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

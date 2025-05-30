@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4580",
+  "description": "A regal wizard wearing an illustrious cyberpunk thorny crown, standing in a hellscape, comic book style, highly detailed, perfect lighting",
+  "image": "image_4580.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

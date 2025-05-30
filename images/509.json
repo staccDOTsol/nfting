@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2032",
+  "description": "A fearsome dragon wearing an illustrious massive copper crown, standing in a battlefield, manga style, highly detailed, perfect lighting",
+  "image": "image_2032.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

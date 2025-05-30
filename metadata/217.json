@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #864",
+  "description": "A serene samurai wearing an illustrious simple golden crown, standing in a ocean, watercolor style, highly detailed, perfect lighting",
+  "image": "image_864.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

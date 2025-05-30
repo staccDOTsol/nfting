@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2064",
+  "description": "A serene witch wearing an illustrious simple diamond crown, standing in a dungeon, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2064.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

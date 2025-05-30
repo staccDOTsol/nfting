@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8024",
+  "description": "A serene samurai wearing an illustrious futuristic golden crown, standing in a mountain peak, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_8024.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

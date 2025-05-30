@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9668",
+  "description": "A mysterious fairy wearing an illustrious delicate copper crown, standing in a meadow, pixel art style, highly detailed, perfect lighting",
+  "image": "image_9668.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

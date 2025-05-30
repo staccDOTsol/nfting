@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8216",
+  "description": "A imposing mermaid wearing an illustrious cyberpunk platinum crown, standing in a mountain peak, illustration style, highly detailed, perfect lighting",
+  "image": "image_8216.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

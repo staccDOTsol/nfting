@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1364",
+  "description": "A majestic witch wearing an illustrious delicate bronze crown, standing in a void, 3D render style, highly detailed, perfect lighting",
+  "image": "image_1364.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

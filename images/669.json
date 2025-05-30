@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2672",
+  "description": "A regal elf wearing an illustrious futuristic golden crown, standing in a void, 3D render style, highly detailed, perfect lighting",
+  "image": "image_2672.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

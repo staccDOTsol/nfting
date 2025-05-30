@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #148",
+  "description": "A fearsome sorcerer wearing an illustrious intricate wooden crown, standing in a mountain peak, illustration style, highly detailed, perfect lighting",
+  "image": "image_148.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

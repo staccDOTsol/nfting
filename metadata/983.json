@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3928",
+  "description": "A serene samurai wearing an illustrious cyberpunk bone crown, standing in a cosmic space, illustration style, highly detailed, perfect lighting",
+  "image": "image_3928.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

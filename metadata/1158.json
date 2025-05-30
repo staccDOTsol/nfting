@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4628",
+  "description": "A fearsome assassin wearing an illustrious steampunk ruby crown, standing in a dungeon, oil painting style, highly detailed, perfect lighting",
+  "image": "image_4628.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

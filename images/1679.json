@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6712",
+  "description": "A fearsome ranger wearing an illustrious medieval diamond crown, standing in a cosmic space, comic book style, highly detailed, perfect lighting",
+  "image": "image_6712.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

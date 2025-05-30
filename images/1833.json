@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7328",
+  "description": "A elegant werewolf wearing an illustrious futuristic diamond crown, standing in a desert, anime style, highly detailed, perfect lighting",
+  "image": "image_7328.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

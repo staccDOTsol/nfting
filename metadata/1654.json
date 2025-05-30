@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6612",
+  "description": "A noble ranger wearing an illustrious simple sapphire crown, standing in a enchanted forest, oil painting style, highly detailed, perfect lighting",
+  "image": "image_6612.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

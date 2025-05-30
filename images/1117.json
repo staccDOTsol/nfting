@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4464",
+  "description": "A majestic paladin wearing an illustrious futuristic bone crown, standing in a meadow, anime style, highly detailed, perfect lighting",
+  "image": "image_4464.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

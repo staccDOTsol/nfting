@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5452",
+  "description": "A graceful sorcerer wearing an illustrious intricate sapphire crown, standing in a ocean, anime style, highly detailed, perfect lighting",
+  "image": "image_5452.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

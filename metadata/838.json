@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3348",
+  "description": "A majestic ninja wearing an illustrious renaissance iron crown, standing in a desert, concept art style, highly detailed, perfect lighting",
+  "image": "image_3348.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

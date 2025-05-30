@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9524",
+  "description": "A ancient wizard wearing an illustrious delicate wooden crown, standing in a battlefield, digital art style, highly detailed, perfect lighting",
+  "image": "image_9524.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

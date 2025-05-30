@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7744",
+  "description": "A serene king wearing an illustrious spiky ruby crown, standing in a hellscape, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_7744.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

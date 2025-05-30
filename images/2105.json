@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8416",
+  "description": "A noble mermaid wearing an illustrious futuristic bronze crown, standing in a dungeon, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_8416.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

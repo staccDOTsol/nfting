@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6700",
+  "description": "A ancient minotaur wearing an illustrious gothic golden crown, standing in a hellscape, 3D render style, highly detailed, perfect lighting",
+  "image": "image_6700.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3608",
+  "description": "A powerful werewolf wearing an illustrious massive obsidian crown, standing in a battlefield, 3D render style, highly detailed, perfect lighting",
+  "image": "image_3608.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

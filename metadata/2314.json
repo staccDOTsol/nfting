@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9252",
+  "description": "A powerful werewolf wearing an illustrious delicate thorny crown, standing in a battlefield, concept art style, highly detailed, perfect lighting",
+  "image": "image_9252.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

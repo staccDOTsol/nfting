@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6160",
+  "description": "A noble samurai wearing an illustrious elegant diamond crown, standing in a cosmic space, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_6160.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

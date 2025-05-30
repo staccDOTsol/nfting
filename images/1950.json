@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7796",
+  "description": "A mysterious warrior wearing an illustrious spiky bronze crown, standing in a mountain peak, comic book style, highly detailed, perfect lighting",
+  "image": "image_7796.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

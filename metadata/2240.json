@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8956",
+  "description": "A regal dwarf wearing an illustrious renaissance obsidian crown, standing in a hellscape, oil painting style, highly detailed, perfect lighting",
+  "image": "image_8956.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

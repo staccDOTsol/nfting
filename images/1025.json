@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4096",
+  "description": "A serene samurai wearing an illustrious renaissance obsidian crown, standing in a dungeon, concept art style, highly detailed, perfect lighting",
+  "image": "image_4096.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

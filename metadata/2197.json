@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8784",
+  "description": "A majestic ranger wearing an illustrious elegant bone crown, standing in a ocean, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_8784.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

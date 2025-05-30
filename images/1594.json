@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6372",
+  "description": "A graceful fairy wearing an illustrious renaissance bronze crown, standing in a castle, watercolor style, highly detailed, perfect lighting",
+  "image": "image_6372.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8296",
+  "description": "A regal fairy wearing an illustrious minimalist sapphire crown, standing in a cosmic space, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_8296.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

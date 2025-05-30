@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4784",
+  "description": "A mysterious vampire wearing an illustrious gothic copper crown, standing in a meadow, comic book style, highly detailed, perfect lighting",
+  "image": "image_4784.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

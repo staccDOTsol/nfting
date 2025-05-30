@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5564",
+  "description": "A ethereal assassin wearing an illustrious steampunk platinum crown, standing in a ocean, digital art style, highly detailed, perfect lighting",
+  "image": "image_5564.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

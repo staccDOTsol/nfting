@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4748",
+  "description": "A majestic dragon wearing an illustrious futuristic emerald crown, standing in a meadow, manga style, highly detailed, perfect lighting",
+  "image": "image_4748.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

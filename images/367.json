@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1464",
+  "description": "A serene wizard wearing an illustrious simple thorny crown, standing in a mountain peak, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_1464.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

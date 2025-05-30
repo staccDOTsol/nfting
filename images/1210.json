@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4836",
+  "description": "A noble ninja wearing an illustrious futuristic emerald crown, standing in a castle, anime style, highly detailed, perfect lighting",
+  "image": "image_4836.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

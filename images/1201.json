@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4800",
+  "description": "A majestic king wearing an illustrious simple thorny crown, standing in a dungeon, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_4800.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

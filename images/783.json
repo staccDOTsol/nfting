@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3128",
+  "description": "A graceful knight wearing an illustrious baroque thorny crown, standing in a battlefield, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_3128.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6044",
+  "description": "A elegant warrior wearing an illustrious renaissance floral crown, standing in a castle, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_6044.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4660",
+  "description": "A imposing sorcerer wearing an illustrious simple ruby crown, standing in a castle, comic book style, highly detailed, perfect lighting",
+  "image": "image_4660.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

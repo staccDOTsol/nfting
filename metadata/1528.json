@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6108",
+  "description": "A cunning warrior wearing an illustrious minimalist diamond crown, standing in a meadow, comic book style, highly detailed, perfect lighting",
+  "image": "image_6108.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

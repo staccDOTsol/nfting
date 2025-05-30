@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3380",
+  "description": "A graceful assassin wearing an illustrious futuristic golden crown, standing in a dungeon, concept art style, highly detailed, perfect lighting",
+  "image": "image_3380.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5492",
+  "description": "A graceful mermaid wearing an illustrious spiky floral crown, standing in a dungeon, 3D render style, highly detailed, perfect lighting",
+  "image": "image_5492.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

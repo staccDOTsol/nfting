@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #44",
+  "description": "A graceful minotaur wearing an illustrious steampunk bronze crown, standing in a dungeon, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_44.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

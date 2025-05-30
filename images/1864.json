@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7452",
+  "description": "A majestic witch wearing an illustrious elegant emerald crown, standing in a battlefield, oil painting style, highly detailed, perfect lighting",
+  "image": "image_7452.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

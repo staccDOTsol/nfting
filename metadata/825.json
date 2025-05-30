@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3296",
+  "description": "A serene paladin wearing an illustrious steampunk iron crown, standing in a desert, oil painting style, highly detailed, perfect lighting",
+  "image": "image_3296.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

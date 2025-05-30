@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7728",
+  "description": "A mysterious samurai wearing an illustrious steampunk copper crown, standing in a void, manga style, highly detailed, perfect lighting",
+  "image": "image_7728.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

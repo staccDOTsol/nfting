@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3644",
+  "description": "A elegant dwarf wearing an illustrious delicate emerald crown, standing in a throne room, watercolor style, highly detailed, perfect lighting",
+  "image": "image_3644.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

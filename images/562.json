@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2244",
+  "description": "A imposing mermaid wearing an illustrious futuristic crystal crown, standing in a meadow, comic book style, highly detailed, perfect lighting",
+  "image": "image_2244.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

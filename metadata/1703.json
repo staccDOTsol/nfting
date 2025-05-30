@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6808",
+  "description": "A ethereal king wearing an illustrious steampunk golden crown, standing in a dungeon, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_6808.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

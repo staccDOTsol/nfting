@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #276",
+  "description": "A elegant dragon wearing an illustrious minimalist sapphire crown, standing in a battlefield, digital art style, highly detailed, perfect lighting",
+  "image": "image_276.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

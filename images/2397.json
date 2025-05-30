@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9584",
+  "description": "A noble queen wearing an illustrious medieval emerald crown, standing in a dungeon, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_9584.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

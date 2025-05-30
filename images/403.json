@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1608",
+  "description": "A majestic prince wearing an illustrious massive crystal crown, standing in a meadow, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_1608.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

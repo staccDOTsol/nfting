@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4472",
+  "description": "A serene king wearing an illustrious simple bone crown, standing in a castle, digital art style, highly detailed, perfect lighting",
+  "image": "image_4472.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

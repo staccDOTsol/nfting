@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8252",
+  "description": "A noble witch wearing an illustrious massive emerald crown, standing in a ocean, watercolor style, highly detailed, perfect lighting",
+  "image": "image_8252.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

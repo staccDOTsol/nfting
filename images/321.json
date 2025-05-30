@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1280",
+  "description": "A majestic dwarf wearing an illustrious massive ruby crown, standing in a desert, digital art style, highly detailed, perfect lighting",
+  "image": "image_1280.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6124",
+  "description": "A powerful witch wearing an illustrious intricate thorny crown, standing in a dungeon, concept art style, highly detailed, perfect lighting",
+  "image": "image_6124.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

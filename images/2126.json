@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8500",
+  "description": "A cunning samurai wearing an illustrious simple bronze crown, standing in a dungeon, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_8500.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

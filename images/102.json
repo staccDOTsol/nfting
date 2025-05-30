@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #404",
+  "description": "A majestic dwarf wearing an illustrious simple silver crown, standing in a meadow, oil painting style, highly detailed, perfect lighting",
+  "image": "image_404.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

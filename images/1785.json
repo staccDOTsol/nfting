@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7136",
+  "description": "A ethereal ninja wearing an illustrious steampunk golden crown, standing in a void, illustration style, highly detailed, perfect lighting",
+  "image": "image_7136.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

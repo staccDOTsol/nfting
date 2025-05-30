@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6220",
+  "description": "A cunning knight wearing an illustrious minimalist obsidian crown, standing in a celestial realm, comic book style, highly detailed, perfect lighting",
+  "image": "image_6220.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

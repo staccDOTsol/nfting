@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5756",
+  "description": "A powerful assassin wearing an illustrious massive silver crown, standing in a battlefield, digital art style, highly detailed, perfect lighting",
+  "image": "image_5756.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2744",
+  "description": "A serene king wearing an illustrious spiky floral crown, standing in a mountain peak, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_2744.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

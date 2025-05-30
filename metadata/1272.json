@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5084",
+  "description": "A mysterious centaur wearing an illustrious baroque iron crown, standing in a enchanted forest, illustration style, highly detailed, perfect lighting",
+  "image": "image_5084.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

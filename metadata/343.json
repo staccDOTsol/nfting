@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1368",
+  "description": "A mysterious queen wearing an illustrious cyberpunk sapphire crown, standing in a dungeon, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_1368.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

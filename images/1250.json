@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4996",
+  "description": "A cunning paladin wearing an illustrious futuristic copper crown, standing in a hellscape, watercolor style, highly detailed, perfect lighting",
+  "image": "image_4996.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

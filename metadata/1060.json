@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4236",
+  "description": "A mysterious sorcerer wearing an illustrious intricate copper crown, standing in a void, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_4236.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3180",
+  "description": "A fearsome fairy wearing an illustrious futuristic diamond crown, standing in a desert, oil painting style, highly detailed, perfect lighting",
+  "image": "image_3180.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

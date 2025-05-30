@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2828",
+  "description": "A powerful centaur wearing an illustrious minimalist bronze crown, standing in a cosmic space, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_2828.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

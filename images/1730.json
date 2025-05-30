@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6916",
+  "description": "A regal assassin wearing an illustrious intricate platinum crown, standing in a enchanted forest, comic book style, highly detailed, perfect lighting",
+  "image": "image_6916.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

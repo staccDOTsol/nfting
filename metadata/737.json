@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2944",
+  "description": "A ethereal vampire wearing an illustrious simple golden crown, standing in a hellscape, watercolor style, highly detailed, perfect lighting",
+  "image": "image_2944.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

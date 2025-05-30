@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1528",
+  "description": "A regal witch wearing an illustrious gothic obsidian crown, standing in a hellscape, watercolor style, highly detailed, perfect lighting",
+  "image": "image_1528.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

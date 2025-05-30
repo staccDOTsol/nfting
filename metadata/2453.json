@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9808",
+  "description": "A regal queen wearing an illustrious simple platinum crown, standing in a meadow, oil painting style, highly detailed, perfect lighting",
+  "image": "image_9808.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

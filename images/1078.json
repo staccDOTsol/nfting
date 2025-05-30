@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4308",
+  "description": "A powerful paladin wearing an illustrious gothic silver crown, standing in a dungeon, illustration style, highly detailed, perfect lighting",
+  "image": "image_4308.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

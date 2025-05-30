@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2664",
+  "description": "A graceful wizard wearing an illustrious intricate silver crown, standing in a castle, 3D render style, highly detailed, perfect lighting",
+  "image": "image_2664.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

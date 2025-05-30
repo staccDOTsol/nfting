@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9916",
+  "description": "A elegant assassin wearing an illustrious simple floral crown, standing in a castle, comic book style, highly detailed, perfect lighting",
+  "image": "image_9916.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

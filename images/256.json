@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1020",
+  "description": "A imposing queen wearing an illustrious massive silver crown, standing in a battlefield, watercolor style, highly detailed, perfect lighting",
+  "image": "image_1020.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

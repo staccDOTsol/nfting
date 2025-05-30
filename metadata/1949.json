@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7792",
+  "description": "A majestic king wearing an illustrious medieval diamond crown, standing in a ocean, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_7792.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

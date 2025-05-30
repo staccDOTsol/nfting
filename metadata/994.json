@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3972",
+  "description": "A imposing wizard wearing an illustrious intricate platinum crown, standing in a meadow, illustration style, highly detailed, perfect lighting",
+  "image": "image_3972.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6720",
+  "description": "A majestic witch wearing an illustrious ornate copper crown, standing in a throne room, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_6720.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

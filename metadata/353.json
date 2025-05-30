@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1408",
+  "description": "A majestic fairy wearing an illustrious gothic platinum crown, standing in a dungeon, anime style, highly detailed, perfect lighting",
+  "image": "image_1408.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

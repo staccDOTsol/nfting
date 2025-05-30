@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9840",
+  "description": "A elegant dragon wearing an illustrious futuristic thorny crown, standing in a cosmic space, watercolor style, highly detailed, perfect lighting",
+  "image": "image_9840.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3164",
+  "description": "A fearsome sorcerer wearing an illustrious simple floral crown, standing in a desert, comic book style, highly detailed, perfect lighting",
+  "image": "image_3164.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

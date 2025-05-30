@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8512",
+  "description": "A cunning queen wearing an illustrious intricate floral crown, standing in a battlefield, comic book style, highly detailed, perfect lighting",
+  "image": "image_8512.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

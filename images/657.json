@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2624",
+  "description": "A ancient sorcerer wearing an illustrious massive obsidian crown, standing in a meadow, anime style, highly detailed, perfect lighting",
+  "image": "image_2624.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

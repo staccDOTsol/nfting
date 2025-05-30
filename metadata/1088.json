@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4348",
+  "description": "A ethereal mermaid wearing an illustrious renaissance bone crown, standing in a dungeon, anime style, highly detailed, perfect lighting",
+  "image": "image_4348.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

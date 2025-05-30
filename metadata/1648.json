@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6588",
+  "description": "A elegant dragon wearing an illustrious delicate bronze crown, standing in a mountain peak, pixel art style, highly detailed, perfect lighting",
+  "image": "image_6588.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

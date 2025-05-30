@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9384",
+  "description": "A serene centaur wearing an illustrious steampunk silver crown, standing in a void, pixel art style, highly detailed, perfect lighting",
+  "image": "image_9384.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

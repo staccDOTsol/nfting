@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3452",
+  "description": "A majestic king wearing an illustrious spiky sapphire crown, standing in a celestial realm, anime style, highly detailed, perfect lighting",
+  "image": "image_3452.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

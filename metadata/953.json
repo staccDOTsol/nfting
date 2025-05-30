@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3808",
+  "description": "A ancient werewolf wearing an illustrious baroque silver crown, standing in a enchanted forest, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_3808.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

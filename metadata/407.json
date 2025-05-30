@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1624",
+  "description": "A regal assassin wearing an illustrious renaissance wooden crown, standing in a battlefield, anime style, highly detailed, perfect lighting",
+  "image": "image_1624.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

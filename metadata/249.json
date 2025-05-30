@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #992",
+  "description": "A imposing warrior wearing an illustrious baroque diamond crown, standing in a battlefield, watercolor style, highly detailed, perfect lighting",
+  "image": "image_992.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

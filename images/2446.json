@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9780",
+  "description": "A graceful ranger wearing an illustrious steampunk bronze crown, standing in a celestial realm, watercolor style, highly detailed, perfect lighting",
+  "image": "image_9780.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

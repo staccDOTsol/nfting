@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9420",
+  "description": "A noble witch wearing an illustrious medieval copper crown, standing in a throne room, watercolor style, highly detailed, perfect lighting",
+  "image": "image_9420.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

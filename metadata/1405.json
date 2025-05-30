@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5616",
+  "description": "A serene dragon wearing an illustrious delicate wooden crown, standing in a hellscape, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_5616.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

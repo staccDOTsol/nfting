@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1792",
+  "description": "A serene fairy wearing an illustrious renaissance platinum crown, standing in a castle, concept art style, highly detailed, perfect lighting",
+  "image": "image_1792.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

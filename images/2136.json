@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8540",
+  "description": "A powerful princess wearing an illustrious massive bronze crown, standing in a void, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_8540.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

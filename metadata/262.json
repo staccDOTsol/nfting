@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1044",
+  "description": "A serene assassin wearing an illustrious gothic obsidian crown, standing in a cosmic space, 3D render style, highly detailed, perfect lighting",
+  "image": "image_1044.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3520",
+  "description": "A majestic witch wearing an illustrious cyberpunk iron crown, standing in a dungeon, watercolor style, highly detailed, perfect lighting",
+  "image": "image_3520.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

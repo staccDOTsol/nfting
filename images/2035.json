@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8136",
+  "description": "A ethereal fairy wearing an illustrious massive wooden crown, standing in a throne room, concept art style, highly detailed, perfect lighting",
+  "image": "image_8136.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

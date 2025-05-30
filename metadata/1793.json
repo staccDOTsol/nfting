@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7168",
+  "description": "A imposing samurai wearing an illustrious cyberpunk silver crown, standing in a enchanted forest, concept art style, highly detailed, perfect lighting",
+  "image": "image_7168.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

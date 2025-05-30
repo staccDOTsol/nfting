@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8852",
+  "description": "A serene elf wearing an illustrious gothic thorny crown, standing in a castle, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_8852.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1268",
+  "description": "A imposing paladin wearing an illustrious delicate wooden crown, standing in a throne room, concept art style, highly detailed, perfect lighting",
+  "image": "image_1268.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8132",
+  "description": "A majestic samurai wearing an illustrious baroque platinum crown, standing in a desert, anime style, highly detailed, perfect lighting",
+  "image": "image_8132.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

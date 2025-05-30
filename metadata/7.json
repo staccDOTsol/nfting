@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #24",
+  "description": "A powerful prince wearing an illustrious renaissance diamond crown, standing in a castle, pixel art style, highly detailed, perfect lighting",
+  "image": "image_24.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

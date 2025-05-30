@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3728",
+  "description": "A regal wizard wearing an illustrious massive ruby crown, standing in a meadow, comic book style, highly detailed, perfect lighting",
+  "image": "image_3728.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

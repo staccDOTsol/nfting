@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7436",
+  "description": "A fearsome prince wearing an illustrious minimalist platinum crown, standing in a throne room, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_7436.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

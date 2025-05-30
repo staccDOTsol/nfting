@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5124",
+  "description": "A mysterious elf wearing an illustrious simple iron crown, standing in a desert, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_5124.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

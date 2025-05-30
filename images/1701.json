@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6800",
+  "description": "A imposing elf wearing an illustrious gothic ruby crown, standing in a mountain peak, watercolor style, highly detailed, perfect lighting",
+  "image": "image_6800.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

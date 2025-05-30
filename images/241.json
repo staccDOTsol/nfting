@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #960",
+  "description": "A serene samurai wearing an illustrious baroque emerald crown, standing in a cosmic space, comic book style, highly detailed, perfect lighting",
+  "image": "image_960.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

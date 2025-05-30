@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5736",
+  "description": "A regal warrior wearing an illustrious spiky bone crown, standing in a void, watercolor style, highly detailed, perfect lighting",
+  "image": "image_5736.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

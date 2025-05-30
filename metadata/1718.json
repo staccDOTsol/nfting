@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6868",
+  "description": "A elegant paladin wearing an illustrious massive obsidian crown, standing in a desert, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_6868.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

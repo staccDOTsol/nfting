@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4448",
+  "description": "A serene werewolf wearing an illustrious cyberpunk golden crown, standing in a throne room, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_4448.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

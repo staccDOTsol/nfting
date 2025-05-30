@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5516",
+  "description": "A cunning samurai wearing an illustrious futuristic sapphire crown, standing in a dungeon, comic book style, highly detailed, perfect lighting",
+  "image": "image_5516.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

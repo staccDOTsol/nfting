@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6864",
+  "description": "A fearsome king wearing an illustrious renaissance emerald crown, standing in a cosmic space, anime style, highly detailed, perfect lighting",
+  "image": "image_6864.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6012",
+  "description": "A elegant elf wearing an illustrious intricate platinum crown, standing in a cosmic space, 3D render style, highly detailed, perfect lighting",
+  "image": "image_6012.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

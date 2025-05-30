@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6412",
+  "description": "A powerful samurai wearing an illustrious ornate diamond crown, standing in a battlefield, oil painting style, highly detailed, perfect lighting",
+  "image": "image_6412.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

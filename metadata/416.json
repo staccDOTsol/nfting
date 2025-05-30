@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1660",
+  "description": "A regal minotaur wearing an illustrious ornate ruby crown, standing in a battlefield, illustration style, highly detailed, perfect lighting",
+  "image": "image_1660.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

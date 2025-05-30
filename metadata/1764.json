@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7052",
+  "description": "A fearsome werewolf wearing an illustrious intricate floral crown, standing in a desert, pixel art style, highly detailed, perfect lighting",
+  "image": "image_7052.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

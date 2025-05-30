@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1488",
+  "description": "A fearsome elf wearing an illustrious futuristic silver crown, standing in a desert, anime style, highly detailed, perfect lighting",
+  "image": "image_1488.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

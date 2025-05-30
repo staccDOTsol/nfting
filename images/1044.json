@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4172",
+  "description": "A fearsome samurai wearing an illustrious baroque floral crown, standing in a mountain peak, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_4172.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

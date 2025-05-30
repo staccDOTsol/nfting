@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6668",
+  "description": "A mysterious king wearing an illustrious delicate bone crown, standing in a void, comic book style, highly detailed, perfect lighting",
+  "image": "image_6668.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

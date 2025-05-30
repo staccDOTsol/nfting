@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7440",
+  "description": "A noble werewolf wearing an illustrious baroque copper crown, standing in a ocean, illustration style, highly detailed, perfect lighting",
+  "image": "image_7440.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

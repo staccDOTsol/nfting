@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #896",
+  "description": "A noble queen wearing an illustrious baroque crystal crown, standing in a cosmic space, illustration style, highly detailed, perfect lighting",
+  "image": "image_896.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

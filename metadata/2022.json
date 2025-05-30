@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8084",
+  "description": "A imposing sorcerer wearing an illustrious steampunk thorny crown, standing in a castle, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_8084.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

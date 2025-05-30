@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #60",
+  "description": "A regal king wearing an illustrious gothic golden crown, standing in a battlefield, 3D render style, highly detailed, perfect lighting",
+  "image": "image_60.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

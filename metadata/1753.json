@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7008",
+  "description": "A ethereal queen wearing an illustrious elegant sapphire crown, standing in a castle, concept art style, highly detailed, perfect lighting",
+  "image": "image_7008.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

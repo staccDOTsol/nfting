@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2580",
+  "description": "A majestic prince wearing an illustrious baroque ruby crown, standing in a battlefield, oil painting style, highly detailed, perfect lighting",
+  "image": "image_2580.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

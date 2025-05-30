@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #552",
+  "description": "A cunning werewolf wearing an illustrious gothic sapphire crown, standing in a castle, pixel art style, highly detailed, perfect lighting",
+  "image": "image_552.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1444",
+  "description": "A imposing warrior wearing an illustrious medieval silver crown, standing in a dungeon, comic book style, highly detailed, perfect lighting",
+  "image": "image_1444.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

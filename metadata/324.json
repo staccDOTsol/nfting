@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1292",
+  "description": "A powerful dragon wearing an illustrious intricate iron crown, standing in a cosmic space, digital art style, highly detailed, perfect lighting",
+  "image": "image_1292.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

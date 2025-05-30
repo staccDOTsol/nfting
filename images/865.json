@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3456",
+  "description": "A noble knight wearing an illustrious delicate iron crown, standing in a battlefield, concept art style, highly detailed, perfect lighting",
+  "image": "image_3456.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

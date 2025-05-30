@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6480",
+  "description": "A noble samurai wearing an illustrious delicate silver crown, standing in a ocean, watercolor style, highly detailed, perfect lighting",
+  "image": "image_6480.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

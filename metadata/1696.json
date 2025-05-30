@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6780",
+  "description": "A graceful dragon wearing an illustrious cyberpunk sapphire crown, standing in a ocean, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_6780.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

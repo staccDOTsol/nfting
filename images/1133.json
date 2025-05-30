@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4528",
+  "description": "A imposing ranger wearing an illustrious futuristic thorny crown, standing in a battlefield, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_4528.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

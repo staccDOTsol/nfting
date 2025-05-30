@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5456",
+  "description": "A majestic dwarf wearing an illustrious ornate bronze crown, standing in a meadow, anime style, highly detailed, perfect lighting",
+  "image": "image_5456.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

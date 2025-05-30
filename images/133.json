@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #528",
+  "description": "A fearsome prince wearing an illustrious gothic floral crown, standing in a mountain peak, oil painting style, highly detailed, perfect lighting",
+  "image": "image_528.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

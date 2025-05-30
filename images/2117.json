@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8464",
+  "description": "A ethereal knight wearing an illustrious massive wooden crown, standing in a dungeon, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_8464.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

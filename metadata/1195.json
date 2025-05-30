@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4776",
+  "description": "A ancient wizard wearing an illustrious intricate ruby crown, standing in a enchanted forest, illustration style, highly detailed, perfect lighting",
+  "image": "image_4776.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

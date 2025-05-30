@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3564",
+  "description": "A regal prince wearing an illustrious ornate iron crown, standing in a cosmic space, oil painting style, highly detailed, perfect lighting",
+  "image": "image_3564.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

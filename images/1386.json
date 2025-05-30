@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5540",
+  "description": "A regal dwarf wearing an illustrious spiky emerald crown, standing in a throne room, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_5540.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

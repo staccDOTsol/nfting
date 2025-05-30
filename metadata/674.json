@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2692",
+  "description": "A ethereal centaur wearing an illustrious elegant iron crown, standing in a castle, 3D render style, highly detailed, perfect lighting",
+  "image": "image_2692.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

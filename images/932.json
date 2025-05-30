@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3724",
+  "description": "A majestic dragon wearing an illustrious delicate emerald crown, standing in a castle, oil painting style, highly detailed, perfect lighting",
+  "image": "image_3724.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

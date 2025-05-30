@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7684",
+  "description": "A fearsome assassin wearing an illustrious baroque obsidian crown, standing in a throne room, watercolor style, highly detailed, perfect lighting",
+  "image": "image_7684.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

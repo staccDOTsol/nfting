@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6404",
+  "description": "A ancient dragon wearing an illustrious renaissance diamond crown, standing in a hellscape, comic book style, highly detailed, perfect lighting",
+  "image": "image_6404.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

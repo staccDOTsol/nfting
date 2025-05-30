@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1956",
+  "description": "A cunning warrior wearing an illustrious gothic floral crown, standing in a ocean, illustration style, highly detailed, perfect lighting",
+  "image": "image_1956.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

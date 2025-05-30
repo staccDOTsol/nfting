@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6972",
+  "description": "A fearsome king wearing an illustrious baroque copper crown, standing in a cosmic space, 3D render style, highly detailed, perfect lighting",
+  "image": "image_6972.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

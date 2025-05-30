@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3060",
+  "description": "A ancient king wearing an illustrious futuristic wooden crown, standing in a desert, concept art style, highly detailed, perfect lighting",
+  "image": "image_3060.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

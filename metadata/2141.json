@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8560",
+  "description": "A imposing ranger wearing an illustrious futuristic silver crown, standing in a dungeon, manga style, highly detailed, perfect lighting",
+  "image": "image_8560.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7088",
+  "description": "A fearsome assassin wearing an illustrious minimalist sapphire crown, standing in a battlefield, pixel art style, highly detailed, perfect lighting",
+  "image": "image_7088.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

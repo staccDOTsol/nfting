@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4820",
+  "description": "A cunning warrior wearing an illustrious spiky golden crown, standing in a desert, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_4820.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

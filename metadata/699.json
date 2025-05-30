@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2792",
+  "description": "A imposing paladin wearing an illustrious steampunk emerald crown, standing in a ocean, manga style, highly detailed, perfect lighting",
+  "image": "image_2792.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

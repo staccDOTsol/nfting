@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3736",
+  "description": "A noble king wearing an illustrious minimalist wooden crown, standing in a enchanted forest, illustration style, highly detailed, perfect lighting",
+  "image": "image_3736.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

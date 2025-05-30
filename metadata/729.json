@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2912",
+  "description": "A elegant assassin wearing an illustrious baroque silver crown, standing in a void, oil painting style, highly detailed, perfect lighting",
+  "image": "image_2912.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

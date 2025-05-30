@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9412",
+  "description": "A noble samurai wearing an illustrious gothic silver crown, standing in a enchanted forest, comic book style, highly detailed, perfect lighting",
+  "image": "image_9412.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

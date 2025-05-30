@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7388",
+  "description": "A cunning dragon wearing an illustrious baroque thorny crown, standing in a throne room, digital art style, highly detailed, perfect lighting",
+  "image": "image_7388.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

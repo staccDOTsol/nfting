@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3512",
+  "description": "A serene warrior wearing an illustrious ornate copper crown, standing in a ocean, pixel art style, highly detailed, perfect lighting",
+  "image": "image_3512.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

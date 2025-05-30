@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2888",
+  "description": "A noble prince wearing an illustrious massive wooden crown, standing in a hellscape, digital art style, highly detailed, perfect lighting",
+  "image": "image_2888.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

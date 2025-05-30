@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1516",
+  "description": "A ancient queen wearing an illustrious cyberpunk bronze crown, standing in a enchanted forest, comic book style, highly detailed, perfect lighting",
+  "image": "image_1516.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

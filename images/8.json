@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #28",
+  "description": "A graceful dwarf wearing an illustrious gothic bone crown, standing in a battlefield, pixel art style, highly detailed, perfect lighting",
+  "image": "image_28.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

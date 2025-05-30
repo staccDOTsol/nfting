@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2892",
+  "description": "A powerful samurai wearing an illustrious minimalist iron crown, standing in a battlefield, anime style, highly detailed, perfect lighting",
+  "image": "image_2892.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

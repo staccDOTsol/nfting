@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6564",
+  "description": "A fearsome princess wearing an illustrious ornate copper crown, standing in a cosmic space, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_6564.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

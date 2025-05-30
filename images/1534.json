@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6132",
+  "description": "A ethereal paladin wearing an illustrious minimalist ruby crown, standing in a mountain peak, concept art style, highly detailed, perfect lighting",
+  "image": "image_6132.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

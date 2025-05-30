@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1220",
+  "description": "A majestic witch wearing an illustrious delicate copper crown, standing in a desert, comic book style, highly detailed, perfect lighting",
+  "image": "image_1220.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9560",
+  "description": "A ancient samurai wearing an illustrious ornate copper crown, standing in a void, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_9560.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

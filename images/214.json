@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #852",
+  "description": "A graceful fairy wearing an illustrious massive silver crown, standing in a battlefield, anime style, highly detailed, perfect lighting",
+  "image": "image_852.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

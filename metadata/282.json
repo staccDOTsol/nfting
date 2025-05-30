@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1124",
+  "description": "A majestic princess wearing an illustrious medieval floral crown, standing in a dungeon, illustration style, highly detailed, perfect lighting",
+  "image": "image_1124.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4316",
+  "description": "A ancient wizard wearing an illustrious ornate copper crown, standing in a mountain peak, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_4316.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

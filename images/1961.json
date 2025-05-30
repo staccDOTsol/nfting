@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7840",
+  "description": "A imposing mermaid wearing an illustrious minimalist ruby crown, standing in a desert, watercolor style, highly detailed, perfect lighting",
+  "image": "image_7840.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5640",
+  "description": "A mysterious werewolf wearing an illustrious simple bone crown, standing in a cosmic space, manga style, highly detailed, perfect lighting",
+  "image": "image_5640.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

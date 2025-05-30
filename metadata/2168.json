@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8668",
+  "description": "A serene dwarf wearing an illustrious ornate diamond crown, standing in a hellscape, oil painting style, highly detailed, perfect lighting",
+  "image": "image_8668.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

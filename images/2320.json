@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9276",
+  "description": "A cunning elf wearing an illustrious ornate diamond crown, standing in a dungeon, watercolor style, highly detailed, perfect lighting",
+  "image": "image_9276.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

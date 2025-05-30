@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7184",
+  "description": "A powerful dragon wearing an illustrious simple iron crown, standing in a enchanted forest, pixel art style, highly detailed, perfect lighting",
+  "image": "image_7184.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

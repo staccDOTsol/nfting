@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5508",
+  "description": "A fearsome ranger wearing an illustrious medieval sapphire crown, standing in a void, 3D render style, highly detailed, perfect lighting",
+  "image": "image_5508.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

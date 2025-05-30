@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6380",
+  "description": "A imposing vampire wearing an illustrious cyberpunk diamond crown, standing in a cosmic space, oil painting style, highly detailed, perfect lighting",
+  "image": "image_6380.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

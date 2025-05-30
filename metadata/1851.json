@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7400",
+  "description": "A regal queen wearing an illustrious intricate copper crown, standing in a dungeon, anime style, highly detailed, perfect lighting",
+  "image": "image_7400.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

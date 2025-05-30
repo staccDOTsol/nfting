@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #620",
+  "description": "A majestic fairy wearing an illustrious cyberpunk ruby crown, standing in a cosmic space, illustration style, highly detailed, perfect lighting",
+  "image": "image_620.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

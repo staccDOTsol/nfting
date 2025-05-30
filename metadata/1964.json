@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7852",
+  "description": "A graceful dragon wearing an illustrious minimalist crystal crown, standing in a dungeon, illustration style, highly detailed, perfect lighting",
+  "image": "image_7852.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

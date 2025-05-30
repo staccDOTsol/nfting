@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2468",
+  "description": "A fearsome king wearing an illustrious spiky wooden crown, standing in a enchanted forest, oil painting style, highly detailed, perfect lighting",
+  "image": "image_2468.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

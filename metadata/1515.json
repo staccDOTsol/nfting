@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6056",
+  "description": "A powerful prince wearing an illustrious minimalist diamond crown, standing in a meadow, oil painting style, highly detailed, perfect lighting",
+  "image": "image_6056.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

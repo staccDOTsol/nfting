@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1832",
+  "description": "A powerful warrior wearing an illustrious baroque golden crown, standing in a void, pixel art style, highly detailed, perfect lighting",
+  "image": "image_1832.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

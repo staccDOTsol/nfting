@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4416",
+  "description": "A graceful vampire wearing an illustrious delicate iron crown, standing in a throne room, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_4416.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

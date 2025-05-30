@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3196",
+  "description": "A mysterious ranger wearing an illustrious gothic crystal crown, standing in a ocean, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_3196.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

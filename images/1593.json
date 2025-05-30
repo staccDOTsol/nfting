@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6368",
+  "description": "A graceful assassin wearing an illustrious elegant golden crown, standing in a meadow, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_6368.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5924",
+  "description": "A regal knight wearing an illustrious minimalist wooden crown, standing in a meadow, pixel art style, highly detailed, perfect lighting",
+  "image": "image_5924.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

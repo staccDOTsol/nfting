@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #484",
+  "description": "A ethereal sorcerer wearing an illustrious steampunk wooden crown, standing in a castle, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_484.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1828",
+  "description": "A cunning sorcerer wearing an illustrious simple platinum crown, standing in a throne room, oil painting style, highly detailed, perfect lighting",
+  "image": "image_1828.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

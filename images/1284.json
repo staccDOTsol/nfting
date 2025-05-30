@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5132",
+  "description": "A imposing ranger wearing an illustrious intricate copper crown, standing in a castle, anime style, highly detailed, perfect lighting",
+  "image": "image_5132.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

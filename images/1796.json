@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7180",
+  "description": "A fearsome ninja wearing an illustrious baroque crystal crown, standing in a throne room, digital art style, highly detailed, perfect lighting",
+  "image": "image_7180.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

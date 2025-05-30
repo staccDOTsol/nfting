@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4888",
+  "description": "A serene minotaur wearing an illustrious intricate diamond crown, standing in a hellscape, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_4888.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

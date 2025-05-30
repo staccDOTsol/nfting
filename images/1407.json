@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5624",
+  "description": "A elegant samurai wearing an illustrious massive thorny crown, standing in a desert, oil painting style, highly detailed, perfect lighting",
+  "image": "image_5624.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

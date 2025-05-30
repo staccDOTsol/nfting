@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4456",
+  "description": "A graceful assassin wearing an illustrious steampunk bone crown, standing in a throne room, oil painting style, highly detailed, perfect lighting",
+  "image": "image_4456.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

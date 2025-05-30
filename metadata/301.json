@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1200",
+  "description": "A noble centaur wearing an illustrious minimalist bone crown, standing in a mountain peak, manga style, highly detailed, perfect lighting",
+  "image": "image_1200.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

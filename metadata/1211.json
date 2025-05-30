@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4840",
+  "description": "A elegant dragon wearing an illustrious delicate silver crown, standing in a throne room, anime style, highly detailed, perfect lighting",
+  "image": "image_4840.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

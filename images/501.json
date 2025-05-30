@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2000",
+  "description": "A graceful ranger wearing an illustrious medieval ruby crown, standing in a void, concept art style, highly detailed, perfect lighting",
+  "image": "image_2000.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

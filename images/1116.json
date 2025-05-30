@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4460",
+  "description": "A mysterious ranger wearing an illustrious massive sapphire crown, standing in a cosmic space, oil painting style, highly detailed, perfect lighting",
+  "image": "image_4460.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

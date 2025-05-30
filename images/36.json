@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #140",
+  "description": "A graceful minotaur wearing an illustrious elegant diamond crown, standing in a ocean, oil painting style, highly detailed, perfect lighting",
+  "image": "image_140.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

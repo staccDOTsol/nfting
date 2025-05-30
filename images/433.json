@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1728",
+  "description": "A regal fairy wearing an illustrious baroque iron crown, standing in a celestial realm, digital art style, highly detailed, perfect lighting",
+  "image": "image_1728.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

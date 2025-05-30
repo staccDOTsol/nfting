@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3636",
+  "description": "A mysterious minotaur wearing an illustrious gothic platinum crown, standing in a dungeon, digital art style, highly detailed, perfect lighting",
+  "image": "image_3636.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

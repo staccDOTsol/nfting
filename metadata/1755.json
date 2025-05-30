@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7016",
+  "description": "A graceful wizard wearing an illustrious spiky silver crown, standing in a meadow, anime style, highly detailed, perfect lighting",
+  "image": "image_7016.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

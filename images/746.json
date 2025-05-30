@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2980",
+  "description": "A powerful assassin wearing an illustrious delicate wooden crown, standing in a throne room, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_2980.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

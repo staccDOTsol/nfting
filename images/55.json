@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #216",
+  "description": "A cunning king wearing an illustrious minimalist crystal crown, standing in a desert, anime style, highly detailed, perfect lighting",
+  "image": "image_216.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

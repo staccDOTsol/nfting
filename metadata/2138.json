@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8548",
+  "description": "A imposing samurai wearing an illustrious futuristic bone crown, standing in a meadow, watercolor style, highly detailed, perfect lighting",
+  "image": "image_8548.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

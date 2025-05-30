@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #384",
+  "description": "A cunning ninja wearing an illustrious steampunk silver crown, standing in a cosmic space, comic book style, highly detailed, perfect lighting",
+  "image": "image_384.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

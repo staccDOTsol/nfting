@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1152",
+  "description": "A fearsome centaur wearing an illustrious renaissance iron crown, standing in a void, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_1152.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

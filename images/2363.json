@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9448",
+  "description": "A majestic dwarf wearing an illustrious futuristic obsidian crown, standing in a desert, digital art style, highly detailed, perfect lighting",
+  "image": "image_9448.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

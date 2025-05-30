@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8696",
+  "description": "A powerful assassin wearing an illustrious baroque silver crown, standing in a enchanted forest, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_8696.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

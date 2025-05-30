@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #624",
+  "description": "A ethereal knight wearing an illustrious spiky silver crown, standing in a desert, pixel art style, highly detailed, perfect lighting",
+  "image": "image_624.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5544",
+  "description": "A fearsome werewolf wearing an illustrious gothic wooden crown, standing in a dungeon, digital art style, highly detailed, perfect lighting",
+  "image": "image_5544.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

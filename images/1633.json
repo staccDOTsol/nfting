@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6528",
+  "description": "A mysterious fairy wearing an illustrious ornate golden crown, standing in a desert, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_6528.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

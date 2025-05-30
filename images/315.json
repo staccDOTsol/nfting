@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1256",
+  "description": "A graceful witch wearing an illustrious steampunk emerald crown, standing in a mountain peak, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_1256.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3528",
+  "description": "A noble paladin wearing an illustrious massive diamond crown, standing in a void, oil painting style, highly detailed, perfect lighting",
+  "image": "image_3528.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

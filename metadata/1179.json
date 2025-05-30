@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4712",
+  "description": "A serene paladin wearing an illustrious medieval iron crown, standing in a mountain peak, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_4712.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

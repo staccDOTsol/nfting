@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2816",
+  "description": "A cunning paladin wearing an illustrious baroque crystal crown, standing in a castle, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2816.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

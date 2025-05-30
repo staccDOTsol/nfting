@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6604",
+  "description": "A cunning centaur wearing an illustrious simple crystal crown, standing in a meadow, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_6604.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4640",
+  "description": "A ancient paladin wearing an illustrious spiky wooden crown, standing in a throne room, illustration style, highly detailed, perfect lighting",
+  "image": "image_4640.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

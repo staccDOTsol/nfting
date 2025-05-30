@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5272",
+  "description": "A serene centaur wearing an illustrious elegant ruby crown, standing in a desert, concept art style, highly detailed, perfect lighting",
+  "image": "image_5272.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

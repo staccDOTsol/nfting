@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2076",
+  "description": "A graceful fairy wearing an illustrious gothic silver crown, standing in a battlefield, 3D render style, highly detailed, perfect lighting",
+  "image": "image_2076.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

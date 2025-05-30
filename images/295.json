@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1176",
+  "description": "A elegant dragon wearing an illustrious renaissance bone crown, standing in a battlefield, illustration style, highly detailed, perfect lighting",
+  "image": "image_1176.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

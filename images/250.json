@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #996",
+  "description": "A ethereal knight wearing an illustrious simple floral crown, standing in a meadow, concept art style, highly detailed, perfect lighting",
+  "image": "image_996.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1432",
+  "description": "A serene knight wearing an illustrious intricate diamond crown, standing in a throne room, digital art style, highly detailed, perfect lighting",
+  "image": "image_1432.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

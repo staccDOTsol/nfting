@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1836",
+  "description": "A regal minotaur wearing an illustrious futuristic obsidian crown, standing in a battlefield, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_1836.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

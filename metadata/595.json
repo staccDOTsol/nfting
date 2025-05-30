@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2376",
+  "description": "A majestic sorcerer wearing an illustrious intricate platinum crown, standing in a mountain peak, watercolor style, highly detailed, perfect lighting",
+  "image": "image_2376.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

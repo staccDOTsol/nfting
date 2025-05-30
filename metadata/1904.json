@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7612",
+  "description": "A imposing dwarf wearing an illustrious renaissance iron crown, standing in a castle, concept art style, highly detailed, perfect lighting",
+  "image": "image_7612.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

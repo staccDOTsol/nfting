@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8864",
+  "description": "A noble warrior wearing an illustrious intricate sapphire crown, standing in a castle, illustration style, highly detailed, perfect lighting",
+  "image": "image_8864.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

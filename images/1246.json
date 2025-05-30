@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4980",
+  "description": "A noble witch wearing an illustrious cyberpunk diamond crown, standing in a void, digital art style, highly detailed, perfect lighting",
+  "image": "image_4980.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

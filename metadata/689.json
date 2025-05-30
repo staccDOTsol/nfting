@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2752",
+  "description": "A imposing sorcerer wearing an illustrious minimalist wooden crown, standing in a desert, 3D render style, highly detailed, perfect lighting",
+  "image": "image_2752.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

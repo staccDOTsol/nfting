@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #776",
+  "description": "A powerful dwarf wearing an illustrious spiky copper crown, standing in a void, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_776.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

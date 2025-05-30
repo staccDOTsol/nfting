@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3500",
+  "description": "A serene mermaid wearing an illustrious steampunk diamond crown, standing in a castle, pixel art style, highly detailed, perfect lighting",
+  "image": "image_3500.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

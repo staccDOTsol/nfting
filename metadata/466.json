@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1860",
+  "description": "A cunning samurai wearing an illustrious intricate iron crown, standing in a celestial realm, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_1860.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

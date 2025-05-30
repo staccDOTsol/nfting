@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1452",
+  "description": "A ethereal assassin wearing an illustrious futuristic floral crown, standing in a hellscape, anime style, highly detailed, perfect lighting",
+  "image": "image_1452.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

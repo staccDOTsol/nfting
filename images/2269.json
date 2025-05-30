@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9072",
+  "description": "A ethereal ninja wearing an illustrious futuristic platinum crown, standing in a battlefield, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_9072.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

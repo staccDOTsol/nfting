@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5764",
+  "description": "A cunning wizard wearing an illustrious renaissance obsidian crown, standing in a cosmic space, concept art style, highly detailed, perfect lighting",
+  "image": "image_5764.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

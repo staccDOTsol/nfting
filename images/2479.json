@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9912",
+  "description": "A cunning warrior wearing an illustrious elegant silver crown, standing in a throne room, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_9912.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

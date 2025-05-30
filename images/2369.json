@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9472",
+  "description": "A noble elf wearing an illustrious gothic wooden crown, standing in a mountain peak, pixel art style, highly detailed, perfect lighting",
+  "image": "image_9472.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

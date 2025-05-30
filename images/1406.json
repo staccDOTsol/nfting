@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5620",
+  "description": "A fearsome paladin wearing an illustrious steampunk iron crown, standing in a dungeon, manga style, highly detailed, perfect lighting",
+  "image": "image_5620.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4076",
+  "description": "A cunning samurai wearing an illustrious minimalist copper crown, standing in a cosmic space, concept art style, highly detailed, perfect lighting",
+  "image": "image_4076.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

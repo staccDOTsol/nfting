@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4120",
+  "description": "A regal knight wearing an illustrious spiky golden crown, standing in a cosmic space, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_4120.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

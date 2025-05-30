@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3820",
+  "description": "A ancient samurai wearing an illustrious ornate obsidian crown, standing in a battlefield, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_3820.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5560",
+  "description": "A graceful vampire wearing an illustrious spiky diamond crown, standing in a mountain peak, watercolor style, highly detailed, perfect lighting",
+  "image": "image_5560.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

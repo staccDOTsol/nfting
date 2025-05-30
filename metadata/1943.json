@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7768",
+  "description": "A graceful queen wearing an illustrious steampunk diamond crown, standing in a meadow, digital art style, highly detailed, perfect lighting",
+  "image": "image_7768.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

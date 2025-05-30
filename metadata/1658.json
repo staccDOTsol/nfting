@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6628",
+  "description": "A imposing prince wearing an illustrious ornate obsidian crown, standing in a mountain peak, pixel art style, highly detailed, perfect lighting",
+  "image": "image_6628.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7964",
+  "description": "A regal dwarf wearing an illustrious ornate silver crown, standing in a enchanted forest, 3D render style, highly detailed, perfect lighting",
+  "image": "image_7964.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5232",
+  "description": "A ethereal samurai wearing an illustrious elegant floral crown, standing in a meadow, illustration style, highly detailed, perfect lighting",
+  "image": "image_5232.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

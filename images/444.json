@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1772",
+  "description": "A majestic mermaid wearing an illustrious renaissance bone crown, standing in a enchanted forest, manga style, highly detailed, perfect lighting",
+  "image": "image_1772.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

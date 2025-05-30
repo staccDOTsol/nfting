@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5784",
+  "description": "A noble mermaid wearing an illustrious ornate bone crown, standing in a enchanted forest, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_5784.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

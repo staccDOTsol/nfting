@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6176",
+  "description": "A elegant mermaid wearing an illustrious elegant iron crown, standing in a mountain peak, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_6176.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

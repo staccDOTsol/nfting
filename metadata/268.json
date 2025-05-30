@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1068",
+  "description": "A mysterious queen wearing an illustrious ornate iron crown, standing in a meadow, comic book style, highly detailed, perfect lighting",
+  "image": "image_1068.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

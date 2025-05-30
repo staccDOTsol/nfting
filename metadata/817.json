@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3264",
+  "description": "A cunning centaur wearing an illustrious minimalist silver crown, standing in a castle, oil painting style, highly detailed, perfect lighting",
+  "image": "image_3264.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

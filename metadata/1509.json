@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6032",
+  "description": "A noble king wearing an illustrious cyberpunk floral crown, standing in a throne room, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_6032.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

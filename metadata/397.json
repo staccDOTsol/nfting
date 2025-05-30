@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1584",
+  "description": "A ethereal samurai wearing an illustrious simple wooden crown, standing in a battlefield, manga style, highly detailed, perfect lighting",
+  "image": "image_1584.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

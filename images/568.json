@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2268",
+  "description": "A serene dwarf wearing an illustrious cyberpunk bone crown, standing in a void, 3D render style, highly detailed, perfect lighting",
+  "image": "image_2268.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

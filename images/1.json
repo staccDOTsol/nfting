@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4",
+  "description": "A serene queen wearing an illustrious cyberpunk platinum crown, standing in a hellscape, anime style, highly detailed, perfect lighting",
+  "image": "image_4.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

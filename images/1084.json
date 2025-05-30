@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4332",
+  "description": "A noble vampire wearing an illustrious elegant obsidian crown, standing in a throne room, comic book style, highly detailed, perfect lighting",
+  "image": "image_4332.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

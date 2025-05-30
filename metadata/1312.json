@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5244",
+  "description": "A graceful king wearing an illustrious medieval bronze crown, standing in a void, digital art style, highly detailed, perfect lighting",
+  "image": "image_5244.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

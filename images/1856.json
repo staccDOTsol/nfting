@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7420",
+  "description": "A noble minotaur wearing an illustrious steampunk emerald crown, standing in a ocean, comic book style, highly detailed, perfect lighting",
+  "image": "image_7420.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

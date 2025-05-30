@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2516",
+  "description": "A ancient witch wearing an illustrious cyberpunk wooden crown, standing in a desert, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_2516.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

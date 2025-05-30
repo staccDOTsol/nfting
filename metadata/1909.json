@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7632",
+  "description": "A fearsome dwarf wearing an illustrious ornate copper crown, standing in a cosmic space, illustration style, highly detailed, perfect lighting",
+  "image": "image_7632.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7544",
+  "description": "A fearsome queen wearing an illustrious simple ruby crown, standing in a enchanted forest, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_7544.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

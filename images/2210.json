@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8836",
+  "description": "A ancient mermaid wearing an illustrious simple crystal crown, standing in a ocean, watercolor style, highly detailed, perfect lighting",
+  "image": "image_8836.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

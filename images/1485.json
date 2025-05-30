@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5936",
+  "description": "A ethereal dragon wearing an illustrious ornate obsidian crown, standing in a ocean, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_5936.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

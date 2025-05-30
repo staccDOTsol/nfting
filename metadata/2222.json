@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8884",
+  "description": "A mysterious paladin wearing an illustrious ornate iron crown, standing in a throne room, pixel art style, highly detailed, perfect lighting",
+  "image": "image_8884.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

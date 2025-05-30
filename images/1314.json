@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5252",
+  "description": "A elegant ranger wearing an illustrious massive silver crown, standing in a cosmic space, oil painting style, highly detailed, perfect lighting",
+  "image": "image_5252.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

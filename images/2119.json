@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8472",
+  "description": "A ancient witch wearing an illustrious intricate bronze crown, standing in a cosmic space, watercolor style, highly detailed, perfect lighting",
+  "image": "image_8472.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

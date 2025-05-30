@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7296",
+  "description": "A majestic knight wearing an illustrious simple golden crown, standing in a throne room, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_7296.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

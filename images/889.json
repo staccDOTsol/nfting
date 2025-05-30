@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3552",
+  "description": "A ethereal prince wearing an illustrious cyberpunk silver crown, standing in a desert, oil painting style, highly detailed, perfect lighting",
+  "image": "image_3552.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

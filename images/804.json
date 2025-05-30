@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3212",
+  "description": "A serene vampire wearing an illustrious minimalist emerald crown, standing in a void, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_3212.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #728",
+  "description": "A powerful mermaid wearing an illustrious ornate diamond crown, standing in a mountain peak, comic book style, highly detailed, perfect lighting",
+  "image": "image_728.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

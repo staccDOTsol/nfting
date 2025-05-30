@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #536",
+  "description": "A noble witch wearing an illustrious medieval thorny crown, standing in a ocean, 3D render style, highly detailed, perfect lighting",
+  "image": "image_536.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

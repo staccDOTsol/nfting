@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4720",
+  "description": "A regal mermaid wearing an illustrious intricate iron crown, standing in a meadow, 3D render style, highly detailed, perfect lighting",
+  "image": "image_4720.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

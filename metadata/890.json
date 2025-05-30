@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3556",
+  "description": "A powerful witch wearing an illustrious gothic diamond crown, standing in a celestial realm, watercolor style, highly detailed, perfect lighting",
+  "image": "image_3556.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4148",
+  "description": "A elegant wizard wearing an illustrious gothic floral crown, standing in a cosmic space, pixel art style, highly detailed, perfect lighting",
+  "image": "image_4148.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5432",
+  "description": "A powerful werewolf wearing an illustrious cyberpunk copper crown, standing in a desert, concept art style, highly detailed, perfect lighting",
+  "image": "image_5432.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

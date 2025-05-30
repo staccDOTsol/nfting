@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7292",
+  "description": "A fearsome minotaur wearing an illustrious massive crystal crown, standing in a castle, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_7292.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

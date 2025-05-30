@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6140",
+  "description": "A cunning vampire wearing an illustrious massive wooden crown, standing in a ocean, illustration style, highly detailed, perfect lighting",
+  "image": "image_6140.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

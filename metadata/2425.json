@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9696",
+  "description": "A powerful wizard wearing an illustrious gothic copper crown, standing in a mountain peak, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_9696.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

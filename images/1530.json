@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6116",
+  "description": "A elegant elf wearing an illustrious elegant golden crown, standing in a hellscape, anime style, highly detailed, perfect lighting",
+  "image": "image_6116.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

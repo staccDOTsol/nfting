@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1548",
+  "description": "A imposing elf wearing an illustrious cyberpunk iron crown, standing in a castle, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_1548.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

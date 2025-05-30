@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3832",
+  "description": "A fearsome sorcerer wearing an illustrious spiky bone crown, standing in a cosmic space, oil painting style, highly detailed, perfect lighting",
+  "image": "image_3832.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

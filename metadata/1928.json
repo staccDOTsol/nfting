@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7708",
+  "description": "A ethereal queen wearing an illustrious cyberpunk ruby crown, standing in a desert, manga style, highly detailed, perfect lighting",
+  "image": "image_7708.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

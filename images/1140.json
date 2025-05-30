@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4556",
+  "description": "A powerful paladin wearing an illustrious ornate thorny crown, standing in a void, oil painting style, highly detailed, perfect lighting",
+  "image": "image_4556.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

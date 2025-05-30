@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4872",
+  "description": "A majestic wizard wearing an illustrious minimalist sapphire crown, standing in a mountain peak, 3D render style, highly detailed, perfect lighting",
+  "image": "image_4872.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

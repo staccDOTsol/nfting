@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8924",
+  "description": "A cunning ranger wearing an illustrious elegant sapphire crown, standing in a void, oil painting style, highly detailed, perfect lighting",
+  "image": "image_8924.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

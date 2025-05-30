@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #440",
+  "description": "A graceful witch wearing an illustrious simple wooden crown, standing in a mountain peak, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_440.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

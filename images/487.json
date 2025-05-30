@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1944",
+  "description": "A ancient wizard wearing an illustrious gothic bone crown, standing in a battlefield, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_1944.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5524",
+  "description": "A regal dragon wearing an illustrious gothic ruby crown, standing in a castle, anime style, highly detailed, perfect lighting",
+  "image": "image_5524.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

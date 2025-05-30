@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4404",
+  "description": "A powerful minotaur wearing an illustrious elegant emerald crown, standing in a castle, concept art style, highly detailed, perfect lighting",
+  "image": "image_4404.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

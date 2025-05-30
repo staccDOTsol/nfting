@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5588",
+  "description": "A ethereal queen wearing an illustrious minimalist crystal crown, standing in a cosmic space, 3D render style, highly detailed, perfect lighting",
+  "image": "image_5588.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5732",
+  "description": "A fearsome werewolf wearing an illustrious medieval golden crown, standing in a cosmic space, oil painting style, highly detailed, perfect lighting",
+  "image": "image_5732.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

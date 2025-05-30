@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #224",
+  "description": "A elegant queen wearing an illustrious futuristic bone crown, standing in a desert, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_224.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

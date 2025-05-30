@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2488",
+  "description": "A ethereal warrior wearing an illustrious cyberpunk iron crown, standing in a ocean, manga style, highly detailed, perfect lighting",
+  "image": "image_2488.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

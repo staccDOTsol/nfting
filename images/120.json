@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #476",
+  "description": "A serene prince wearing an illustrious intricate crystal crown, standing in a castle, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_476.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

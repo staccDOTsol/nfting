@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1060",
+  "description": "A ancient samurai wearing an illustrious cyberpunk diamond crown, standing in a cosmic space, pixel art style, highly detailed, perfect lighting",
+  "image": "image_1060.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

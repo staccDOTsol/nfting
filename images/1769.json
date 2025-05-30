@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7072",
+  "description": "A regal samurai wearing an illustrious baroque sapphire crown, standing in a mountain peak, concept art style, highly detailed, perfect lighting",
+  "image": "image_7072.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

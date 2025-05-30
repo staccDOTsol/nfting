@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7984",
+  "description": "A mysterious knight wearing an illustrious renaissance crystal crown, standing in a battlefield, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_7984.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

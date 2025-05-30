@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7520",
+  "description": "A mysterious prince wearing an illustrious futuristic bronze crown, standing in a throne room, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_7520.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6188",
+  "description": "A ancient werewolf wearing an illustrious baroque bone crown, standing in a ocean, anime style, highly detailed, perfect lighting",
+  "image": "image_6188.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

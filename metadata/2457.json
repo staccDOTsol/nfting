@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9824",
+  "description": "A cunning fairy wearing an illustrious elegant bronze crown, standing in a mountain peak, illustration style, highly detailed, perfect lighting",
+  "image": "image_9824.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

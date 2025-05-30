@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1168",
+  "description": "A majestic mermaid wearing an illustrious gothic crystal crown, standing in a throne room, illustration style, highly detailed, perfect lighting",
+  "image": "image_1168.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

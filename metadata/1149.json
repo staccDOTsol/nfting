@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4592",
+  "description": "A ethereal witch wearing an illustrious simple bronze crown, standing in a mountain peak, 3D render style, highly detailed, perfect lighting",
+  "image": "image_4592.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

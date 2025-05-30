@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5268",
+  "description": "A imposing sorcerer wearing an illustrious simple golden crown, standing in a castle, watercolor style, highly detailed, perfect lighting",
+  "image": "image_5268.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

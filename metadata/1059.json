@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4232",
+  "description": "A serene princess wearing an illustrious massive crystal crown, standing in a ocean, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_4232.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

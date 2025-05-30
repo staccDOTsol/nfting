@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1172",
+  "description": "A noble fairy wearing an illustrious ornate wooden crown, standing in a enchanted forest, pixel art style, highly detailed, perfect lighting",
+  "image": "image_1172.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

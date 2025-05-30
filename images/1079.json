@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4312",
+  "description": "A mysterious minotaur wearing an illustrious cyberpunk diamond crown, standing in a desert, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_4312.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

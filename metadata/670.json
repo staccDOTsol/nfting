@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2676",
+  "description": "A mysterious werewolf wearing an illustrious renaissance iron crown, standing in a meadow, illustration style, highly detailed, perfect lighting",
+  "image": "image_2676.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

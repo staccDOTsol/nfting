@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #12",
+  "description": "A majestic queen wearing an illustrious massive floral crown, standing in a meadow, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_12.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

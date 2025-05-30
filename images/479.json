@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1912",
+  "description": "A mysterious fairy wearing an illustrious gothic iron crown, standing in a desert, illustration style, highly detailed, perfect lighting",
+  "image": "image_1912.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

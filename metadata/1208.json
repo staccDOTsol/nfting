@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4828",
+  "description": "A ancient wizard wearing an illustrious elegant iron crown, standing in a castle, pixel art style, highly detailed, perfect lighting",
+  "image": "image_4828.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

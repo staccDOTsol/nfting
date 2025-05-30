@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2924",
+  "description": "A imposing mermaid wearing an illustrious minimalist emerald crown, standing in a mountain peak, pixel art style, highly detailed, perfect lighting",
+  "image": "image_2924.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

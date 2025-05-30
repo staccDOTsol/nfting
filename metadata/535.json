@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2136",
+  "description": "A regal queen wearing an illustrious steampunk floral crown, standing in a dungeon, digital art style, highly detailed, perfect lighting",
+  "image": "image_2136.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

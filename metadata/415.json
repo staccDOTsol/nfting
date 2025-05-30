@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1656",
+  "description": "A mysterious ninja wearing an illustrious elegant diamond crown, standing in a ocean, 3D render style, highly detailed, perfect lighting",
+  "image": "image_1656.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

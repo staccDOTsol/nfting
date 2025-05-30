@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7172",
+  "description": "A imposing werewolf wearing an illustrious intricate platinum crown, standing in a enchanted forest, illustration style, highly detailed, perfect lighting",
+  "image": "image_7172.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

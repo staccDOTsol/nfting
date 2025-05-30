@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2068",
+  "description": "A ancient witch wearing an illustrious cyberpunk floral crown, standing in a dungeon, concept art style, highly detailed, perfect lighting",
+  "image": "image_2068.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1112",
+  "description": "A elegant vampire wearing an illustrious gothic copper crown, standing in a throne room, digital art style, highly detailed, perfect lighting",
+  "image": "image_1112.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

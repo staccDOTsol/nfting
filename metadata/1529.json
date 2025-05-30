@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6112",
+  "description": "A ancient ranger wearing an illustrious minimalist floral crown, standing in a mountain peak, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_6112.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

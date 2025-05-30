@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9760",
+  "description": "A ethereal ranger wearing an illustrious minimalist floral crown, standing in a mountain peak, pixel art style, highly detailed, perfect lighting",
+  "image": "image_9760.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

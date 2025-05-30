@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #220",
+  "description": "A majestic sorcerer wearing an illustrious gothic iron crown, standing in a castle, anime style, highly detailed, perfect lighting",
+  "image": "image_220.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

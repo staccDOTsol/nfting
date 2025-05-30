@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2476",
+  "description": "A elegant prince wearing an illustrious renaissance iron crown, standing in a throne room, oil painting style, highly detailed, perfect lighting",
+  "image": "image_2476.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4964",
+  "description": "A imposing dwarf wearing an illustrious minimalist emerald crown, standing in a enchanted forest, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_4964.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

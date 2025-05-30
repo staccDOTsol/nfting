@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1556",
+  "description": "A ancient fairy wearing an illustrious simple sapphire crown, standing in a hellscape, comic book style, highly detailed, perfect lighting",
+  "image": "image_1556.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

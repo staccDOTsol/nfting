@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6100",
+  "description": "A elegant dwarf wearing an illustrious ornate ruby crown, standing in a ocean, digital art style, highly detailed, perfect lighting",
+  "image": "image_6100.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5248",
+  "description": "A ethereal knight wearing an illustrious baroque copper crown, standing in a castle, illustration style, highly detailed, perfect lighting",
+  "image": "image_5248.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

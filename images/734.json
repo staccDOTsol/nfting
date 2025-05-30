@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2932",
+  "description": "A ethereal queen wearing an illustrious baroque obsidian crown, standing in a desert, digital art style, highly detailed, perfect lighting",
+  "image": "image_2932.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2044",
+  "description": "A majestic ninja wearing an illustrious futuristic iron crown, standing in a desert, comic book style, highly detailed, perfect lighting",
+  "image": "image_2044.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8256",
+  "description": "A ethereal queen wearing an illustrious medieval floral crown, standing in a mountain peak, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_8256.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

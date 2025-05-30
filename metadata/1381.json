@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5520",
+  "description": "A majestic queen wearing an illustrious steampunk obsidian crown, standing in a void, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_5520.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

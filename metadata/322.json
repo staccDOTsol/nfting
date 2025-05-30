@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1284",
+  "description": "A regal sorcerer wearing an illustrious cyberpunk platinum crown, standing in a hellscape, illustration style, highly detailed, perfect lighting",
+  "image": "image_1284.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

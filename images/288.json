@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1148",
+  "description": "A ancient queen wearing an illustrious minimalist crystal crown, standing in a enchanted forest, pixel art style, highly detailed, perfect lighting",
+  "image": "image_1148.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

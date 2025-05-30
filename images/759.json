@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3032",
+  "description": "A cunning paladin wearing an illustrious delicate obsidian crown, standing in a castle, 3D render style, highly detailed, perfect lighting",
+  "image": "image_3032.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

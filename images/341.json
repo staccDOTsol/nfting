@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1360",
+  "description": "A serene mermaid wearing an illustrious renaissance crystal crown, standing in a meadow, 3D render style, highly detailed, perfect lighting",
+  "image": "image_1360.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

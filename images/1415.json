@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5656",
+  "description": "A fearsome princess wearing an illustrious renaissance diamond crown, standing in a enchanted forest, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_5656.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

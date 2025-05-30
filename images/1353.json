@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5408",
+  "description": "A powerful assassin wearing an illustrious futuristic ruby crown, standing in a void, watercolor style, highly detailed, perfect lighting",
+  "image": "image_5408.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1456",
+  "description": "A ancient queen wearing an illustrious baroque golden crown, standing in a ocean, anime style, highly detailed, perfect lighting",
+  "image": "image_1456.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

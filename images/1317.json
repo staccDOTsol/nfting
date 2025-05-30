@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5264",
+  "description": "A imposing assassin wearing an illustrious medieval wooden crown, standing in a void, concept art style, highly detailed, perfect lighting",
+  "image": "image_5264.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7248",
+  "description": "A elegant dragon wearing an illustrious intricate bronze crown, standing in a dungeon, anime style, highly detailed, perfect lighting",
+  "image": "image_7248.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

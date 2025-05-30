@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9432",
+  "description": "A ancient paladin wearing an illustrious massive platinum crown, standing in a void, watercolor style, highly detailed, perfect lighting",
+  "image": "image_9432.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

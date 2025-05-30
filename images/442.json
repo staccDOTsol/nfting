@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1764",
+  "description": "A majestic assassin wearing an illustrious futuristic crystal crown, standing in a ocean, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_1764.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3776",
+  "description": "A ancient queen wearing an illustrious spiky floral crown, standing in a ocean, anime style, highly detailed, perfect lighting",
+  "image": "image_3776.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

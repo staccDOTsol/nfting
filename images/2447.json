@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9784",
+  "description": "A fearsome king wearing an illustrious medieval copper crown, standing in a desert, comic book style, highly detailed, perfect lighting",
+  "image": "image_9784.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5780",
+  "description": "A majestic sorcerer wearing an illustrious baroque floral crown, standing in a desert, anime style, highly detailed, perfect lighting",
+  "image": "image_5780.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7872",
+  "description": "A regal elf wearing an illustrious minimalist silver crown, standing in a enchanted forest, manga style, highly detailed, perfect lighting",
+  "image": "image_7872.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1904",
+  "description": "A elegant warrior wearing an illustrious gothic bronze crown, standing in a ocean, 3D render style, highly detailed, perfect lighting",
+  "image": "image_1904.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5208",
+  "description": "A powerful knight wearing an illustrious intricate platinum crown, standing in a void, oil painting style, highly detailed, perfect lighting",
+  "image": "image_5208.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

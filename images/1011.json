@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4040",
+  "description": "A powerful dragon wearing an illustrious futuristic ruby crown, standing in a mountain peak, pixel art style, highly detailed, perfect lighting",
+  "image": "image_4040.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

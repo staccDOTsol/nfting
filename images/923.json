@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3688",
+  "description": "A cunning wizard wearing an illustrious ornate floral crown, standing in a meadow, 3D render style, highly detailed, perfect lighting",
+  "image": "image_3688.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

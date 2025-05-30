@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7848",
+  "description": "A mysterious witch wearing an illustrious minimalist sapphire crown, standing in a desert, pixel art style, highly detailed, perfect lighting",
+  "image": "image_7848.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

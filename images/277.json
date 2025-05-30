@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1104",
+  "description": "A majestic vampire wearing an illustrious gothic wooden crown, standing in a void, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_1104.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

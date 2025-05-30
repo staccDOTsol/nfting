@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8640",
+  "description": "A regal mermaid wearing an illustrious cyberpunk ruby crown, standing in a cosmic space, manga style, highly detailed, perfect lighting",
+  "image": "image_8640.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

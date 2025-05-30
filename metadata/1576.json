@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6300",
+  "description": "A majestic dwarf wearing an illustrious simple bone crown, standing in a hellscape, watercolor style, highly detailed, perfect lighting",
+  "image": "image_6300.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

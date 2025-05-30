@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7144",
+  "description": "A noble minotaur wearing an illustrious ornate emerald crown, standing in a hellscape, anime style, highly detailed, perfect lighting",
+  "image": "image_7144.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

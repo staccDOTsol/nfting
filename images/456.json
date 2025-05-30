@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1820",
+  "description": "A fearsome witch wearing an illustrious renaissance emerald crown, standing in a ocean, comic book style, highly detailed, perfect lighting",
+  "image": "image_1820.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

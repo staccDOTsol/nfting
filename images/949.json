@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3792",
+  "description": "A regal paladin wearing an illustrious steampunk obsidian crown, standing in a castle, watercolor style, highly detailed, perfect lighting",
+  "image": "image_3792.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

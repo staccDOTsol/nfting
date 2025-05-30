@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5552",
+  "description": "A ethereal assassin wearing an illustrious spiky thorny crown, standing in a void, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_5552.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

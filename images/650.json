@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2596",
+  "description": "A serene dwarf wearing an illustrious cyberpunk wooden crown, standing in a castle, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2596.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

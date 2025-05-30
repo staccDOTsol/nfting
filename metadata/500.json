@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1996",
+  "description": "A serene dwarf wearing an illustrious intricate wooden crown, standing in a dungeon, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_1996.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

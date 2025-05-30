@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5672",
+  "description": "A elegant dragon wearing an illustrious massive crystal crown, standing in a throne room, comic book style, highly detailed, perfect lighting",
+  "image": "image_5672.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

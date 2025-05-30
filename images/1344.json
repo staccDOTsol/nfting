@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5372",
+  "description": "A majestic elf wearing an illustrious minimalist iron crown, standing in a meadow, manga style, highly detailed, perfect lighting",
+  "image": "image_5372.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

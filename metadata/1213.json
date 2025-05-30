@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4848",
+  "description": "A imposing dwarf wearing an illustrious cyberpunk platinum crown, standing in a battlefield, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_4848.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

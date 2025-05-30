@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4708",
+  "description": "A noble king wearing an illustrious renaissance platinum crown, standing in a enchanted forest, anime style, highly detailed, perfect lighting",
+  "image": "image_4708.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

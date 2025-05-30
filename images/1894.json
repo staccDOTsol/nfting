@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7572",
+  "description": "A ancient wizard wearing an illustrious baroque obsidian crown, standing in a mountain peak, anime style, highly detailed, perfect lighting",
+  "image": "image_7572.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

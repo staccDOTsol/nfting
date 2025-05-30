@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2844",
+  "description": "A serene dragon wearing an illustrious simple thorny crown, standing in a dungeon, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_2844.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9736",
+  "description": "A majestic elf wearing an illustrious medieval iron crown, standing in a hellscape, concept art style, highly detailed, perfect lighting",
+  "image": "image_9736.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

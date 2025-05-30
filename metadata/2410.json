@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9636",
+  "description": "A powerful assassin wearing an illustrious futuristic platinum crown, standing in a celestial realm, digital art style, highly detailed, perfect lighting",
+  "image": "image_9636.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

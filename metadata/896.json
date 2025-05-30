@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3580",
+  "description": "A ancient sorcerer wearing an illustrious futuristic sapphire crown, standing in a void, oil painting style, highly detailed, perfect lighting",
+  "image": "image_3580.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

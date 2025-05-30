@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #412",
+  "description": "A imposing dwarf wearing an illustrious elegant floral crown, standing in a void, concept art style, highly detailed, perfect lighting",
+  "image": "image_412.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

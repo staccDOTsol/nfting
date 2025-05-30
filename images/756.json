@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3020",
+  "description": "A regal fairy wearing an illustrious steampunk iron crown, standing in a cosmic space, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_3020.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2056",
+  "description": "A graceful elf wearing an illustrious cyberpunk emerald crown, standing in a battlefield, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_2056.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9872",
+  "description": "A cunning witch wearing an illustrious futuristic thorny crown, standing in a mountain peak, watercolor style, highly detailed, perfect lighting",
+  "image": "image_9872.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

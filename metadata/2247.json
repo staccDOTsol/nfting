@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8984",
+  "description": "A ancient assassin wearing an illustrious futuristic diamond crown, standing in a ocean, pixel art style, highly detailed, perfect lighting",
+  "image": "image_8984.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

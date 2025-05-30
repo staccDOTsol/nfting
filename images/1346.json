@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5380",
+  "description": "A ethereal paladin wearing an illustrious delicate bronze crown, standing in a void, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_5380.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

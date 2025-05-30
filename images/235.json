@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #936",
+  "description": "A noble elf wearing an illustrious delicate golden crown, standing in a battlefield, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_936.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9220",
+  "description": "A noble prince wearing an illustrious minimalist copper crown, standing in a dungeon, watercolor style, highly detailed, perfect lighting",
+  "image": "image_9220.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

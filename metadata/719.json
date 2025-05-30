@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2872",
+  "description": "A ancient queen wearing an illustrious medieval ruby crown, standing in a castle, watercolor style, highly detailed, perfect lighting",
+  "image": "image_2872.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

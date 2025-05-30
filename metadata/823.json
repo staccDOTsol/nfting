@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3288",
+  "description": "A graceful werewolf wearing an illustrious intricate crystal crown, standing in a battlefield, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_3288.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

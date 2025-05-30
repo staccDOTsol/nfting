@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6848",
+  "description": "A elegant mermaid wearing an illustrious spiky thorny crown, standing in a void, illustration style, highly detailed, perfect lighting",
+  "image": "image_6848.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5468",
+  "description": "A imposing centaur wearing an illustrious massive silver crown, standing in a mountain peak, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_5468.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1372",
+  "description": "A majestic warrior wearing an illustrious massive obsidian crown, standing in a cosmic space, illustration style, highly detailed, perfect lighting",
+  "image": "image_1372.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

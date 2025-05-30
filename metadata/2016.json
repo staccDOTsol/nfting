@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8060",
+  "description": "A graceful paladin wearing an illustrious gothic sapphire crown, standing in a hellscape, concept art style, highly detailed, perfect lighting",
+  "image": "image_8060.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

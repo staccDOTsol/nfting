@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8672",
+  "description": "A ancient king wearing an illustrious cyberpunk silver crown, standing in a mountain peak, watercolor style, highly detailed, perfect lighting",
+  "image": "image_8672.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

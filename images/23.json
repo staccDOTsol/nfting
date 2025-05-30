@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #88",
+  "description": "A regal dwarf wearing an illustrious renaissance iron crown, standing in a castle, concept art style, highly detailed, perfect lighting",
+  "image": "image_88.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

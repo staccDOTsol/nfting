@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3676",
+  "description": "A powerful centaur wearing an illustrious gothic wooden crown, standing in a hellscape, concept art style, highly detailed, perfect lighting",
+  "image": "image_3676.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

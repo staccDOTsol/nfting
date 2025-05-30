@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #636",
+  "description": "A ancient fairy wearing an illustrious medieval diamond crown, standing in a desert, manga style, highly detailed, perfect lighting",
+  "image": "image_636.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

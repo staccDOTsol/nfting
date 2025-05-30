@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3324",
+  "description": "A cunning warrior wearing an illustrious spiky iron crown, standing in a battlefield, watercolor style, highly detailed, perfect lighting",
+  "image": "image_3324.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

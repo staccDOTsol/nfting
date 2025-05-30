@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1652",
+  "description": "A ethereal centaur wearing an illustrious massive platinum crown, standing in a cosmic space, watercolor style, highly detailed, perfect lighting",
+  "image": "image_1652.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

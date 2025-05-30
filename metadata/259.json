@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1032",
+  "description": "A graceful centaur wearing an illustrious cyberpunk thorny crown, standing in a castle, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_1032.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

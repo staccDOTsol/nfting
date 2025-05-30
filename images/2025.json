@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8096",
+  "description": "A graceful queen wearing an illustrious cyberpunk iron crown, standing in a castle, pixel art style, highly detailed, perfect lighting",
+  "image": "image_8096.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

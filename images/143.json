@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #568",
+  "description": "A graceful werewolf wearing an illustrious cyberpunk wooden crown, standing in a dungeon, illustration style, highly detailed, perfect lighting",
+  "image": "image_568.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

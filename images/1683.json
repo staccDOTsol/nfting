@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6728",
+  "description": "A regal werewolf wearing an illustrious renaissance iron crown, standing in a dungeon, pixel art style, highly detailed, perfect lighting",
+  "image": "image_6728.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

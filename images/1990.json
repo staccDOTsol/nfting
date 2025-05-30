@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7956",
+  "description": "A cunning ninja wearing an illustrious spiky iron crown, standing in a throne room, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_7956.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

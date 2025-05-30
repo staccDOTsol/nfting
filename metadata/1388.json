@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5548",
+  "description": "A ethereal assassin wearing an illustrious spiky platinum crown, standing in a cosmic space, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_5548.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

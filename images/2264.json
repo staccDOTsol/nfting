@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9052",
+  "description": "A noble queen wearing an illustrious gothic thorny crown, standing in a battlefield, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_9052.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

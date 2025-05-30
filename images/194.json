@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #772",
+  "description": "A mysterious mermaid wearing an illustrious delicate crystal crown, standing in a battlefield, manga style, highly detailed, perfect lighting",
+  "image": "image_772.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

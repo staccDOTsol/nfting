@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6344",
+  "description": "A cunning elf wearing an illustrious massive thorny crown, standing in a dungeon, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_6344.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

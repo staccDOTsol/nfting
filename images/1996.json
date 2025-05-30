@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7980",
+  "description": "A cunning dwarf wearing an illustrious intricate obsidian crown, standing in a throne room, 3D render style, highly detailed, perfect lighting",
+  "image": "image_7980.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7228",
+  "description": "A majestic ninja wearing an illustrious intricate silver crown, standing in a dungeon, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_7228.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

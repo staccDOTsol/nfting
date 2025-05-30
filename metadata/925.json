@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3696",
+  "description": "A majestic fairy wearing an illustrious delicate wooden crown, standing in a celestial realm, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_3696.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

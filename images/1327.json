@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5304",
+  "description": "A graceful prince wearing an illustrious futuristic obsidian crown, standing in a cosmic space, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_5304.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

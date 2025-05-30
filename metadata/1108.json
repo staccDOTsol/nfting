@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4428",
+  "description": "A mysterious queen wearing an illustrious simple crystal crown, standing in a desert, 3D render style, highly detailed, perfect lighting",
+  "image": "image_4428.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

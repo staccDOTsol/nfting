@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2884",
+  "description": "A imposing werewolf wearing an illustrious intricate bone crown, standing in a ocean, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2884.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

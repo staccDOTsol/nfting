@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #32",
+  "description": "A majestic vampire wearing an illustrious intricate emerald crown, standing in a cosmic space, oil painting style, highly detailed, perfect lighting",
+  "image": "image_32.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1844",
+  "description": "A ethereal elf wearing an illustrious medieval bone crown, standing in a mountain peak, digital art style, highly detailed, perfect lighting",
+  "image": "image_1844.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

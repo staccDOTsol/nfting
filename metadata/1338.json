@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5348",
+  "description": "A regal prince wearing an illustrious cyberpunk bone crown, standing in a cosmic space, digital art style, highly detailed, perfect lighting",
+  "image": "image_5348.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6896",
+  "description": "A imposing minotaur wearing an illustrious steampunk silver crown, standing in a throne room, oil painting style, highly detailed, perfect lighting",
+  "image": "image_6896.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

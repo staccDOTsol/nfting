@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1224",
+  "description": "A mysterious sorcerer wearing an illustrious massive floral crown, standing in a mountain peak, anime style, highly detailed, perfect lighting",
+  "image": "image_1224.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

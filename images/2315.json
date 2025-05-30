@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9256",
+  "description": "A noble centaur wearing an illustrious delicate iron crown, standing in a meadow, pixel art style, highly detailed, perfect lighting",
+  "image": "image_9256.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

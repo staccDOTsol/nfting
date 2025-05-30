@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #308",
+  "description": "A regal witch wearing an illustrious gothic iron crown, standing in a castle, concept art style, highly detailed, perfect lighting",
+  "image": "image_308.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

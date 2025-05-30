@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7816",
+  "description": "A elegant assassin wearing an illustrious massive copper crown, standing in a battlefield, concept art style, highly detailed, perfect lighting",
+  "image": "image_7816.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

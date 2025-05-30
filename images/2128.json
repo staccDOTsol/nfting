@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8508",
+  "description": "A majestic knight wearing an illustrious ornate wooden crown, standing in a castle, comic book style, highly detailed, perfect lighting",
+  "image": "image_8508.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

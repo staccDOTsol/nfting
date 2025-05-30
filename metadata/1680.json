@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6716",
+  "description": "A elegant paladin wearing an illustrious ornate emerald crown, standing in a dungeon, concept art style, highly detailed, perfect lighting",
+  "image": "image_6716.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

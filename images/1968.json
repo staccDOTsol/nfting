@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7868",
+  "description": "A graceful dwarf wearing an illustrious delicate golden crown, standing in a enchanted forest, illustration style, highly detailed, perfect lighting",
+  "image": "image_7868.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

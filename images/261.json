@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1040",
+  "description": "A fearsome knight wearing an illustrious ornate crystal crown, standing in a ocean, digital art style, highly detailed, perfect lighting",
+  "image": "image_1040.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

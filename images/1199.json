@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4792",
+  "description": "A ancient werewolf wearing an illustrious simple iron crown, standing in a castle, watercolor style, highly detailed, perfect lighting",
+  "image": "image_4792.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

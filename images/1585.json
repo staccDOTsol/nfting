@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6336",
+  "description": "A ancient centaur wearing an illustrious ornate copper crown, standing in a throne room, anime style, highly detailed, perfect lighting",
+  "image": "image_6336.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

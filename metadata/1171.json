@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4680",
+  "description": "A ethereal king wearing an illustrious massive ruby crown, standing in a desert, manga style, highly detailed, perfect lighting",
+  "image": "image_4680.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

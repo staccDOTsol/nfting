@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7996",
+  "description": "A mysterious king wearing an illustrious cyberpunk wooden crown, standing in a desert, illustration style, highly detailed, perfect lighting",
+  "image": "image_7996.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

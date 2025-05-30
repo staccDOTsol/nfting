@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3276",
+  "description": "A ancient king wearing an illustrious minimalist iron crown, standing in a dungeon, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_3276.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

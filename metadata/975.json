@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3896",
+  "description": "A fearsome assassin wearing an illustrious medieval sapphire crown, standing in a cosmic space, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_3896.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7348",
+  "description": "A graceful minotaur wearing an illustrious futuristic ruby crown, standing in a throne room, pixel art style, highly detailed, perfect lighting",
+  "image": "image_7348.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6104",
+  "description": "A powerful prince wearing an illustrious minimalist golden crown, standing in a meadow, watercolor style, highly detailed, perfect lighting",
+  "image": "image_6104.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

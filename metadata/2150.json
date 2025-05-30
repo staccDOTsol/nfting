@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8596",
+  "description": "A imposing assassin wearing an illustrious baroque thorny crown, standing in a castle, comic book style, highly detailed, perfect lighting",
+  "image": "image_8596.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

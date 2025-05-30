@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6224",
+  "description": "A ethereal ninja wearing an illustrious futuristic ruby crown, standing in a hellscape, anime style, highly detailed, perfect lighting",
+  "image": "image_6224.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

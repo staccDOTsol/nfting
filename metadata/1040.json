@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4156",
+  "description": "A noble vampire wearing an illustrious intricate silver crown, standing in a celestial realm, digital art style, highly detailed, perfect lighting",
+  "image": "image_4156.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

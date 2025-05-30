@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9588",
+  "description": "A powerful samurai wearing an illustrious ornate golden crown, standing in a mountain peak, pixel art style, highly detailed, perfect lighting",
+  "image": "image_9588.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

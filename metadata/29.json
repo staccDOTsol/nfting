@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #112",
+  "description": "A elegant werewolf wearing an illustrious futuristic bone crown, standing in a void, illustration style, highly detailed, perfect lighting",
+  "image": "image_112.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3352",
+  "description": "A elegant elf wearing an illustrious simple bone crown, standing in a dungeon, comic book style, highly detailed, perfect lighting",
+  "image": "image_3352.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

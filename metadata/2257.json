@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9024",
+  "description": "A noble werewolf wearing an illustrious intricate platinum crown, standing in a hellscape, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_9024.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7976",
+  "description": "A ethereal knight wearing an illustrious baroque floral crown, standing in a ocean, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_7976.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

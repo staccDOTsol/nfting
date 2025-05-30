@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3140",
+  "description": "A mysterious samurai wearing an illustrious delicate golden crown, standing in a void, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_3140.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

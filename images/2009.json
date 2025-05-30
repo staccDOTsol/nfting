@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8032",
+  "description": "A fearsome minotaur wearing an illustrious renaissance sapphire crown, standing in a throne room, concept art style, highly detailed, perfect lighting",
+  "image": "image_8032.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

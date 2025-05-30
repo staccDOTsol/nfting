@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8704",
+  "description": "A ethereal paladin wearing an illustrious spiky diamond crown, standing in a meadow, manga style, highly detailed, perfect lighting",
+  "image": "image_8704.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

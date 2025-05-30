@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2156",
+  "description": "A regal dragon wearing an illustrious medieval sapphire crown, standing in a battlefield, watercolor style, highly detailed, perfect lighting",
+  "image": "image_2156.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

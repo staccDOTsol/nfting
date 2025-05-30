@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2164",
+  "description": "A powerful elf wearing an illustrious gothic diamond crown, standing in a battlefield, anime style, highly detailed, perfect lighting",
+  "image": "image_2164.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

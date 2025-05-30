@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7444",
+  "description": "A cunning werewolf wearing an illustrious elegant sapphire crown, standing in a celestial realm, illustration style, highly detailed, perfect lighting",
+  "image": "image_7444.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

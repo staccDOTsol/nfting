@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9228",
+  "description": "A ethereal assassin wearing an illustrious ornate iron crown, standing in a hellscape, pixel art style, highly detailed, perfect lighting",
+  "image": "image_9228.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

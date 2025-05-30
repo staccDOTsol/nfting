@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1260",
+  "description": "A powerful ninja wearing an illustrious gothic bone crown, standing in a castle, concept art style, highly detailed, perfect lighting",
+  "image": "image_1260.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

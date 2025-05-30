@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7416",
+  "description": "A ethereal princess wearing an illustrious delicate thorny crown, standing in a void, digital art style, highly detailed, perfect lighting",
+  "image": "image_7416.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

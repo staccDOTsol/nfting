@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5044",
+  "description": "A regal assassin wearing an illustrious spiky silver crown, standing in a void, illustration style, highly detailed, perfect lighting",
+  "image": "image_5044.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

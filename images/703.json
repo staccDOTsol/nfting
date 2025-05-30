@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2808",
+  "description": "A graceful queen wearing an illustrious medieval sapphire crown, standing in a ocean, comic book style, highly detailed, perfect lighting",
+  "image": "image_2808.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

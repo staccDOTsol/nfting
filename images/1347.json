@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5384",
+  "description": "A fearsome elf wearing an illustrious minimalist ruby crown, standing in a hellscape, illustration style, highly detailed, perfect lighting",
+  "image": "image_5384.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

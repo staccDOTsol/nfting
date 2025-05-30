@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9716",
+  "description": "A ancient queen wearing an illustrious massive iron crown, standing in a desert, comic book style, highly detailed, perfect lighting",
+  "image": "image_9716.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

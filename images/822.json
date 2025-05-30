@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3284",
+  "description": "A imposing dwarf wearing an illustrious gothic silver crown, standing in a battlefield, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_3284.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

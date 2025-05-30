@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1312",
+  "description": "A noble princess wearing an illustrious baroque thorny crown, standing in a battlefield, digital art style, highly detailed, perfect lighting",
+  "image": "image_1312.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

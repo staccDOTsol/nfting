@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3948",
+  "description": "A mysterious mermaid wearing an illustrious futuristic golden crown, standing in a void, illustration style, highly detailed, perfect lighting",
+  "image": "image_3948.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

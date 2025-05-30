@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4900",
+  "description": "A ethereal king wearing an illustrious elegant golden crown, standing in a cosmic space, oil painting style, highly detailed, perfect lighting",
+  "image": "image_4900.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

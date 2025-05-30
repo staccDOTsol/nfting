@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5108",
+  "description": "A ethereal mermaid wearing an illustrious ornate wooden crown, standing in a ocean, 3D render style, highly detailed, perfect lighting",
+  "image": "image_5108.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

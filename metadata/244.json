@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #972",
+  "description": "A serene mermaid wearing an illustrious intricate bronze crown, standing in a enchanted forest, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_972.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

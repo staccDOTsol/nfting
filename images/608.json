@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2428",
+  "description": "A elegant werewolf wearing an illustrious minimalist ruby crown, standing in a desert, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2428.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

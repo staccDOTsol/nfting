@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9488",
+  "description": "A imposing ranger wearing an illustrious minimalist diamond crown, standing in a enchanted forest, pixel art style, highly detailed, perfect lighting",
+  "image": "image_9488.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

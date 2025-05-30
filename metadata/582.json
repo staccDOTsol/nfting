@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2324",
+  "description": "A regal king wearing an illustrious simple sapphire crown, standing in a castle, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2324.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

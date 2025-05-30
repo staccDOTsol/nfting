@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7928",
+  "description": "A majestic assassin wearing an illustrious massive golden crown, standing in a ocean, illustration style, highly detailed, perfect lighting",
+  "image": "image_7928.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

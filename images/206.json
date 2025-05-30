@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #820",
+  "description": "A elegant samurai wearing an illustrious delicate iron crown, standing in a void, illustration style, highly detailed, perfect lighting",
+  "image": "image_820.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

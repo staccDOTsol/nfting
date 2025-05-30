@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2404",
+  "description": "A ethereal king wearing an illustrious baroque ruby crown, standing in a enchanted forest, pixel art style, highly detailed, perfect lighting",
+  "image": "image_2404.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

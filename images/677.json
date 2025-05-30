@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2704",
+  "description": "A regal queen wearing an illustrious spiky silver crown, standing in a cosmic space, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_2704.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

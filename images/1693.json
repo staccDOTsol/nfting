@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6768",
+  "description": "A graceful samurai wearing an illustrious futuristic obsidian crown, standing in a castle, comic book style, highly detailed, perfect lighting",
+  "image": "image_6768.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

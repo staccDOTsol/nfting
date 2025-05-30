@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3360",
+  "description": "A serene werewolf wearing an illustrious baroque crystal crown, standing in a hellscape, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_3360.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

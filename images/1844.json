@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7372",
+  "description": "A ethereal ninja wearing an illustrious delicate platinum crown, standing in a castle, digital art style, highly detailed, perfect lighting",
+  "image": "image_7372.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

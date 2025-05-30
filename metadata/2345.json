@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9376",
+  "description": "A imposing ninja wearing an illustrious massive emerald crown, standing in a celestial realm, anime style, highly detailed, perfect lighting",
+  "image": "image_9376.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

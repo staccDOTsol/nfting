@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2972",
+  "description": "A noble ranger wearing an illustrious cyberpunk diamond crown, standing in a dungeon, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_2972.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

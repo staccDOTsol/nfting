@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5164",
+  "description": "A cunning centaur wearing an illustrious minimalist obsidian crown, standing in a enchanted forest, pixel art style, highly detailed, perfect lighting",
+  "image": "image_5164.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

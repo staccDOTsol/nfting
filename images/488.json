@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1948",
+  "description": "A regal assassin wearing an illustrious elegant silver crown, standing in a celestial realm, digital art style, highly detailed, perfect lighting",
+  "image": "image_1948.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

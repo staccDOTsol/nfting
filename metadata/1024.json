@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4092",
+  "description": "A majestic elf wearing an illustrious minimalist platinum crown, standing in a mountain peak, illustration style, highly detailed, perfect lighting",
+  "image": "image_4092.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1724",
+  "description": "A ancient sorcerer wearing an illustrious minimalist emerald crown, standing in a hellscape, manga style, highly detailed, perfect lighting",
+  "image": "image_1724.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

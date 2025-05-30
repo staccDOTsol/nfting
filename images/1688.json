@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6748",
+  "description": "A fearsome queen wearing an illustrious renaissance bronze crown, standing in a throne room, concept art style, highly detailed, perfect lighting",
+  "image": "image_6748.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8304",
+  "description": "A powerful fairy wearing an illustrious cyberpunk floral crown, standing in a throne room, manga style, highly detailed, perfect lighting",
+  "image": "image_8304.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

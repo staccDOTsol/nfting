@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8144",
+  "description": "A powerful dwarf wearing an illustrious gothic crystal crown, standing in a battlefield, manga style, highly detailed, perfect lighting",
+  "image": "image_8144.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3092",
+  "description": "A noble samurai wearing an illustrious elegant copper crown, standing in a enchanted forest, anime style, highly detailed, perfect lighting",
+  "image": "image_3092.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

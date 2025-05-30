@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9820",
+  "description": "A majestic dwarf wearing an illustrious renaissance floral crown, standing in a dungeon, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_9820.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

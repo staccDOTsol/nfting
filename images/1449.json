@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5792",
+  "description": "A noble elf wearing an illustrious futuristic ruby crown, standing in a battlefield, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_5792.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8072",
+  "description": "A elegant fairy wearing an illustrious minimalist ruby crown, standing in a mountain peak, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_8072.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

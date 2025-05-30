@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7280",
+  "description": "A noble king wearing an illustrious futuristic bronze crown, standing in a void, 3D render style, highly detailed, perfect lighting",
+  "image": "image_7280.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

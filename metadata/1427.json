@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5704",
+  "description": "A regal knight wearing an illustrious intricate platinum crown, standing in a void, anime style, highly detailed, perfect lighting",
+  "image": "image_5704.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

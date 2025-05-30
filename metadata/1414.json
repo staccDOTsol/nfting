@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5652",
+  "description": "A noble mermaid wearing an illustrious cyberpunk emerald crown, standing in a enchanted forest, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_5652.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

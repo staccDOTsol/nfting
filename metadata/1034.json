@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4132",
+  "description": "A elegant ninja wearing an illustrious massive floral crown, standing in a ocean, concept art style, highly detailed, perfect lighting",
+  "image": "image_4132.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

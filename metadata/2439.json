@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9752",
+  "description": "A ancient elf wearing an illustrious cyberpunk iron crown, standing in a mountain peak, manga style, highly detailed, perfect lighting",
+  "image": "image_9752.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

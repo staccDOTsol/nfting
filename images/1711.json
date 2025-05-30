@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6840",
+  "description": "A mysterious knight wearing an illustrious cyberpunk crystal crown, standing in a mountain peak, oil painting style, highly detailed, perfect lighting",
+  "image": "image_6840.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

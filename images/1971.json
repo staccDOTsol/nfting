@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7880",
+  "description": "A majestic fairy wearing an illustrious intricate thorny crown, standing in a hellscape, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_7880.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

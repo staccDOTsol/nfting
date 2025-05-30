@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9464",
+  "description": "A majestic sorcerer wearing an illustrious renaissance golden crown, standing in a celestial realm, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_9464.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

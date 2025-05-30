@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6276",
+  "description": "A serene sorcerer wearing an illustrious simple ruby crown, standing in a celestial realm, comic book style, highly detailed, perfect lighting",
+  "image": "image_6276.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

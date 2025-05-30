@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2304",
+  "description": "A cunning centaur wearing an illustrious gothic bone crown, standing in a battlefield, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2304.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

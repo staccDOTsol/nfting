@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6876",
+  "description": "A elegant wizard wearing an illustrious futuristic diamond crown, standing in a cosmic space, anime style, highly detailed, perfect lighting",
+  "image": "image_6876.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

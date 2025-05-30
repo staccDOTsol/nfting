@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1648",
+  "description": "A elegant warrior wearing an illustrious gothic ruby crown, standing in a meadow, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_1648.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

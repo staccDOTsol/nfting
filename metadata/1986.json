@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7940",
+  "description": "A ethereal dwarf wearing an illustrious futuristic platinum crown, standing in a celestial realm, comic book style, highly detailed, perfect lighting",
+  "image": "image_7940.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

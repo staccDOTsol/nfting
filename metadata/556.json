@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2220",
+  "description": "A noble vampire wearing an illustrious delicate diamond crown, standing in a meadow, concept art style, highly detailed, perfect lighting",
+  "image": "image_2220.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5136",
+  "description": "A fearsome sorcerer wearing an illustrious massive obsidian crown, standing in a throne room, concept art style, highly detailed, perfect lighting",
+  "image": "image_5136.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

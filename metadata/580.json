@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2316",
+  "description": "A elegant elf wearing an illustrious massive iron crown, standing in a dungeon, pixel art style, highly detailed, perfect lighting",
+  "image": "image_2316.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

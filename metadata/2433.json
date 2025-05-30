@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9728",
+  "description": "A elegant ranger wearing an illustrious simple ruby crown, standing in a void, comic book style, highly detailed, perfect lighting",
+  "image": "image_9728.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

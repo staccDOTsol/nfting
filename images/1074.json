@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4292",
+  "description": "A cunning ninja wearing an illustrious futuristic sapphire crown, standing in a mountain peak, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_4292.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3176",
+  "description": "A regal sorcerer wearing an illustrious renaissance bone crown, standing in a void, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_3176.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

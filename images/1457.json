@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5824",
+  "description": "A elegant knight wearing an illustrious steampunk crystal crown, standing in a ocean, pixel art style, highly detailed, perfect lighting",
+  "image": "image_5824.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

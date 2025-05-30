@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6036",
+  "description": "A fearsome ranger wearing an illustrious elegant golden crown, standing in a mountain peak, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_6036.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

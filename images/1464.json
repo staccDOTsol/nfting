@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5852",
+  "description": "A imposing elf wearing an illustrious simple crystal crown, standing in a enchanted forest, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_5852.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

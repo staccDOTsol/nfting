@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2152",
+  "description": "A mysterious ranger wearing an illustrious cyberpunk floral crown, standing in a mountain peak, manga style, highly detailed, perfect lighting",
+  "image": "image_2152.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

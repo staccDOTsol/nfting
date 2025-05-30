@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3208",
+  "description": "A mysterious dwarf wearing an illustrious ornate iron crown, standing in a meadow, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_3208.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

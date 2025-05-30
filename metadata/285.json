@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1136",
+  "description": "A cunning fairy wearing an illustrious intricate diamond crown, standing in a ocean, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_1136.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

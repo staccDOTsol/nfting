@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7580",
+  "description": "A noble sorcerer wearing an illustrious medieval golden crown, standing in a ocean, concept art style, highly detailed, perfect lighting",
+  "image": "image_7580.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

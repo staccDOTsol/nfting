@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7828",
+  "description": "A cunning queen wearing an illustrious spiky copper crown, standing in a hellscape, watercolor style, highly detailed, perfect lighting",
+  "image": "image_7828.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

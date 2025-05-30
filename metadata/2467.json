@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9864",
+  "description": "A imposing witch wearing an illustrious intricate golden crown, standing in a mountain peak, 3D render style, highly detailed, perfect lighting",
+  "image": "image_9864.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

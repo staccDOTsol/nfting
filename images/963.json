@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3848",
+  "description": "A ethereal dragon wearing an illustrious delicate emerald crown, standing in a battlefield, pixel art style, highly detailed, perfect lighting",
+  "image": "image_3848.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4504",
+  "description": "A ethereal queen wearing an illustrious futuristic bone crown, standing in a cosmic space, watercolor style, highly detailed, perfect lighting",
+  "image": "image_4504.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1872",
+  "description": "A graceful vampire wearing an illustrious futuristic thorny crown, standing in a castle, illustration style, highly detailed, perfect lighting",
+  "image": "image_1872.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

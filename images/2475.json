@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9896",
+  "description": "A majestic assassin wearing an illustrious steampunk copper crown, standing in a hellscape, illustration style, highly detailed, perfect lighting",
+  "image": "image_9896.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

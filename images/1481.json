@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5920",
+  "description": "A imposing elf wearing an illustrious steampunk bronze crown, standing in a desert, watercolor style, highly detailed, perfect lighting",
+  "image": "image_5920.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5832",
+  "description": "A ancient king wearing an illustrious elegant floral crown, standing in a meadow, watercolor style, highly detailed, perfect lighting",
+  "image": "image_5832.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

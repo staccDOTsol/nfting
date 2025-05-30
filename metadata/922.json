@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3684",
+  "description": "A serene assassin wearing an illustrious baroque iron crown, standing in a dungeon, manga style, highly detailed, perfect lighting",
+  "image": "image_3684.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4744",
+  "description": "A cunning ninja wearing an illustrious massive copper crown, standing in a ocean, anime style, highly detailed, perfect lighting",
+  "image": "image_4744.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

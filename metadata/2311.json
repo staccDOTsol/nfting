@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9240",
+  "description": "A regal queen wearing an illustrious delicate platinum crown, standing in a castle, pixel art style, highly detailed, perfect lighting",
+  "image": "image_9240.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

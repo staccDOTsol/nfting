@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9112",
+  "description": "A majestic ninja wearing an illustrious delicate thorny crown, standing in a enchanted forest, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_9112.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

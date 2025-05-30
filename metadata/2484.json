@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9932",
+  "description": "A ethereal knight wearing an illustrious massive ruby crown, standing in a meadow, illustration style, highly detailed, perfect lighting",
+  "image": "image_9932.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

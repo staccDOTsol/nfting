@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2952",
+  "description": "A serene knight wearing an illustrious spiky emerald crown, standing in a celestial realm, oil painting style, highly detailed, perfect lighting",
+  "image": "image_2952.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

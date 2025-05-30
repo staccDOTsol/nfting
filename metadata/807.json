@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3224",
+  "description": "A powerful vampire wearing an illustrious delicate wooden crown, standing in a battlefield, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_3224.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

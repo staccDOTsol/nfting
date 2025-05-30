@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #632",
+  "description": "A regal ranger wearing an illustrious cyberpunk emerald crown, standing in a hellscape, comic book style, highly detailed, perfect lighting",
+  "image": "image_632.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

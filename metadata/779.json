@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3112",
+  "description": "A graceful vampire wearing an illustrious minimalist silver crown, standing in a castle, watercolor style, highly detailed, perfect lighting",
+  "image": "image_3112.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3408",
+  "description": "A regal samurai wearing an illustrious gothic obsidian crown, standing in a mountain peak, concept art style, highly detailed, perfect lighting",
+  "image": "image_3408.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

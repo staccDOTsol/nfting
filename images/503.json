@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2008",
+  "description": "A majestic prince wearing an illustrious futuristic wooden crown, standing in a mountain peak, 3D render style, highly detailed, perfect lighting",
+  "image": "image_2008.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3772",
+  "description": "A elegant samurai wearing an illustrious baroque iron crown, standing in a meadow, manga style, highly detailed, perfect lighting",
+  "image": "image_3772.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

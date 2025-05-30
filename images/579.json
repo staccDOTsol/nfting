@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2312",
+  "description": "A fearsome witch wearing an illustrious futuristic bone crown, standing in a ocean, 3D render style, highly detailed, perfect lighting",
+  "image": "image_2312.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

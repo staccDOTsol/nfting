@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9124",
+  "description": "A fearsome wizard wearing an illustrious renaissance iron crown, standing in a battlefield, pixel art style, highly detailed, perfect lighting",
+  "image": "image_9124.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

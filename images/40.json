@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #156",
+  "description": "A elegant fairy wearing an illustrious simple platinum crown, standing in a meadow, comic book style, highly detailed, perfect lighting",
+  "image": "image_156.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

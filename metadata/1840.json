@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7356",
+  "description": "A ethereal sorcerer wearing an illustrious elegant thorny crown, standing in a ocean, digital art style, highly detailed, perfect lighting",
+  "image": "image_7356.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

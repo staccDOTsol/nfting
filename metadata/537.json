@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2144",
+  "description": "A ethereal samurai wearing an illustrious gothic silver crown, standing in a celestial realm, oil painting style, highly detailed, perfect lighting",
+  "image": "image_2144.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

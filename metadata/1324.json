@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5292",
+  "description": "A majestic minotaur wearing an illustrious medieval diamond crown, standing in a void, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_5292.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

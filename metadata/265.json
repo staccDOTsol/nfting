@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1056",
+  "description": "A majestic assassin wearing an illustrious intricate iron crown, standing in a battlefield, 3D render style, highly detailed, perfect lighting",
+  "image": "image_1056.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

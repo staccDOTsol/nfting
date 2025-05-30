@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #664",
+  "description": "A graceful centaur wearing an illustrious cyberpunk silver crown, standing in a ocean, anime style, highly detailed, perfect lighting",
+  "image": "image_664.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

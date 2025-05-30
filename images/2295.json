@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9176",
+  "description": "A graceful wizard wearing an illustrious baroque iron crown, standing in a celestial realm, oil painting style, highly detailed, perfect lighting",
+  "image": "image_9176.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

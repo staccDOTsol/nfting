@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7896",
+  "description": "A cunning dragon wearing an illustrious baroque floral crown, standing in a enchanted forest, pixel art style, highly detailed, perfect lighting",
+  "image": "image_7896.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

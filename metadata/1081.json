@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4320",
+  "description": "A powerful samurai wearing an illustrious intricate emerald crown, standing in a cosmic space, digital art style, highly detailed, perfect lighting",
+  "image": "image_4320.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

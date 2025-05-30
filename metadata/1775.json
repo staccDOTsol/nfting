@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7096",
+  "description": "A majestic knight wearing an illustrious gothic sapphire crown, standing in a throne room, 3D render style, highly detailed, perfect lighting",
+  "image": "image_7096.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

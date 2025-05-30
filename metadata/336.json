@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1340",
+  "description": "A regal centaur wearing an illustrious renaissance floral crown, standing in a cosmic space, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_1340.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

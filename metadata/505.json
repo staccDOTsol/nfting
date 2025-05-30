@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2016",
+  "description": "A powerful werewolf wearing an illustrious simple sapphire crown, standing in a throne room, digital art style, highly detailed, perfect lighting",
+  "image": "image_2016.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

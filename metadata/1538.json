@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6148",
+  "description": "A ethereal mermaid wearing an illustrious baroque diamond crown, standing in a dungeon, manga style, highly detailed, perfect lighting",
+  "image": "image_6148.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "manga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

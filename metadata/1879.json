@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7512",
+  "description": "A serene paladin wearing an illustrious intricate sapphire crown, standing in a meadow, 3D render style, highly detailed, perfect lighting",
+  "image": "image_7512.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "paladin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "sapphire"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

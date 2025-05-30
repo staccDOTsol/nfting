@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3596",
+  "description": "A noble werewolf wearing an illustrious steampunk obsidian crown, standing in a dungeon, 3D render style, highly detailed, perfect lighting",
+  "image": "image_3596.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

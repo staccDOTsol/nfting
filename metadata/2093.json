@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8368",
+  "description": "A imposing dwarf wearing an illustrious delicate silver crown, standing in a enchanted forest, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_8368.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

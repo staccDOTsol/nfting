@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4144",
+  "description": "A ancient prince wearing an illustrious massive golden crown, standing in a meadow, oil painting style, highly detailed, perfect lighting",
+  "image": "image_4144.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "prince"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

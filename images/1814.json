@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7252",
+  "description": "A ethereal centaur wearing an illustrious simple iron crown, standing in a battlefield, anime style, highly detailed, perfect lighting",
+  "image": "image_7252.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

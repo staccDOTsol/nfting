@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2300",
+  "description": "A majestic elf wearing an illustrious minimalist crystal crown, standing in a celestial realm, concept art style, highly detailed, perfect lighting",
+  "image": "image_2300.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

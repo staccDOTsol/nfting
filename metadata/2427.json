@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9704",
+  "description": "A ethereal vampire wearing an illustrious medieval bone crown, standing in a ocean, anime style, highly detailed, perfect lighting",
+  "image": "image_9704.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

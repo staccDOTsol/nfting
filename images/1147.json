@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4584",
+  "description": "A serene dwarf wearing an illustrious minimalist platinum crown, standing in a ocean, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_4584.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

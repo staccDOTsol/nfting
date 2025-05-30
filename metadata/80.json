@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #316",
+  "description": "A regal samurai wearing an illustrious massive diamond crown, standing in a hellscape, anime style, highly detailed, perfect lighting",
+  "image": "image_316.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

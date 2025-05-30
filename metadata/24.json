@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #92",
+  "description": "A graceful ninja wearing an illustrious simple bone crown, standing in a ocean, oil painting style, highly detailed, perfect lighting",
+  "image": "image_92.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

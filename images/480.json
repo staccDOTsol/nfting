@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1916",
+  "description": "A noble werewolf wearing an illustrious renaissance floral crown, standing in a void, comic book style, highly detailed, perfect lighting",
+  "image": "image_1916.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

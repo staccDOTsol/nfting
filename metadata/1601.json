@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6400",
+  "description": "A regal sorcerer wearing an illustrious steampunk obsidian crown, standing in a mountain peak, digital art style, highly detailed, perfect lighting",
+  "image": "image_6400.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #448",
+  "description": "A mysterious dwarf wearing an illustrious medieval crystal crown, standing in a battlefield, digital art style, highly detailed, perfect lighting",
+  "image": "image_448.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

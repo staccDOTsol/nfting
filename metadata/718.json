@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2868",
+  "description": "A elegant queen wearing an illustrious minimalist platinum crown, standing in a desert, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_2868.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

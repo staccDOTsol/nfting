@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8",
+  "description": "A elegant ninja wearing an illustrious simple silver crown, standing in a castle, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_8.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

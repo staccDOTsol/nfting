@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7316",
+  "description": "A regal ranger wearing an illustrious ornate obsidian crown, standing in a desert, digital art style, highly detailed, perfect lighting",
+  "image": "image_7316.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6760",
+  "description": "A regal vampire wearing an illustrious intricate emerald crown, standing in a hellscape, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_6760.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

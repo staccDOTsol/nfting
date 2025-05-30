@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7340",
+  "description": "A serene minotaur wearing an illustrious futuristic crystal crown, standing in a battlefield, 3D render style, highly detailed, perfect lighting",
+  "image": "image_7340.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "crystal"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

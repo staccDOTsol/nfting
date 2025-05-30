@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2296",
+  "description": "A majestic dragon wearing an illustrious gothic emerald crown, standing in a meadow, comic book style, highly detailed, perfect lighting",
+  "image": "image_2296.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

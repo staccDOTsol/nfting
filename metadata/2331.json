@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9320",
+  "description": "A elegant dragon wearing an illustrious gothic silver crown, standing in a void, 3D render style, highly detailed, perfect lighting",
+  "image": "image_9320.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8656",
+  "description": "A powerful knight wearing an illustrious steampunk floral crown, standing in a castle, pixel art style, highly detailed, perfect lighting",
+  "image": "image_8656.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

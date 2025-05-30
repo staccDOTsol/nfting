@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2040",
+  "description": "A cunning warrior wearing an illustrious gothic silver crown, standing in a throne room, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_2040.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

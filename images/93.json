@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #368",
+  "description": "A noble minotaur wearing an illustrious gothic diamond crown, standing in a castle, oil painting style, highly detailed, perfect lighting",
+  "image": "image_368.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "diamond"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "castle"
+    }
+  ]
+}

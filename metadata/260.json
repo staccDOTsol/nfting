@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1036",
+  "description": "A imposing ninja wearing an illustrious simple copper crown, standing in a mountain peak, comic book style, highly detailed, perfect lighting",
+  "image": "image_1036.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

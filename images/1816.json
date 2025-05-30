@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7260",
+  "description": "A regal witch wearing an illustrious baroque thorny crown, standing in a ocean, concept art style, highly detailed, perfect lighting",
+  "image": "image_7260.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8520",
+  "description": "A regal wizard wearing an illustrious massive iron crown, standing in a mountain peak, illustration style, highly detailed, perfect lighting",
+  "image": "image_8520.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

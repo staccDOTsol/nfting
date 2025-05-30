@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8156",
+  "description": "A noble ninja wearing an illustrious massive ruby crown, standing in a hellscape, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_8156.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

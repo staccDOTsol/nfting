@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2876",
+  "description": "A ancient princess wearing an illustrious renaissance copper crown, standing in a cosmic space, watercolor style, highly detailed, perfect lighting",
+  "image": "image_2876.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "princess"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

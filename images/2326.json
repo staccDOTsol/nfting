@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9300",
+  "description": "A powerful elf wearing an illustrious delicate golden crown, standing in a mountain peak, concept art style, highly detailed, perfect lighting",
+  "image": "image_9300.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

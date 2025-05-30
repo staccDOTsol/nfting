@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6676",
+  "description": "A ethereal centaur wearing an illustrious gothic copper crown, standing in a ocean, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_6676.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

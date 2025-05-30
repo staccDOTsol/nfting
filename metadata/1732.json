@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6924",
+  "description": "A elegant knight wearing an illustrious ornate silver crown, standing in a battlefield, anime style, highly detailed, perfect lighting",
+  "image": "image_6924.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

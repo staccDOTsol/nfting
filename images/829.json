@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3312",
+  "description": "A imposing vampire wearing an illustrious intricate emerald crown, standing in a ocean, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_3312.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

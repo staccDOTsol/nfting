@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1440",
+  "description": "A noble king wearing an illustrious elegant bronze crown, standing in a desert, pixel art style, highly detailed, perfect lighting",
+  "image": "image_1440.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

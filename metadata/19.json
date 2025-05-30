@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #72",
+  "description": "A regal vampire wearing an illustrious baroque platinum crown, standing in a cosmic space, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_72.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

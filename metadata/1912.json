@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7644",
+  "description": "A regal centaur wearing an illustrious massive platinum crown, standing in a dungeon, comic book style, highly detailed, perfect lighting",
+  "image": "image_7644.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "centaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

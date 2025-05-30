@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1552",
+  "description": "A serene ninja wearing an illustrious gothic platinum crown, standing in a cosmic space, concept art style, highly detailed, perfect lighting",
+  "image": "image_1552.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

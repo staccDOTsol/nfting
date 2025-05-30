@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7844",
+  "description": "A serene sorcerer wearing an illustrious minimalist platinum crown, standing in a mountain peak, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_7844.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "sorcerer"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

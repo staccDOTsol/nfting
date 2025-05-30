@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5984",
+  "description": "A regal witch wearing an illustrious gothic golden crown, standing in a throne room, digital art style, highly detailed, perfect lighting",
+  "image": "image_5984.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "digital art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

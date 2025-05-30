@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3904",
+  "description": "A majestic minotaur wearing an illustrious medieval iron crown, standing in a cosmic space, concept art style, highly detailed, perfect lighting",
+  "image": "image_3904.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

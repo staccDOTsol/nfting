@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9884",
+  "description": "A fearsome king wearing an illustrious cyberpunk golden crown, standing in a mountain peak, illustration style, highly detailed, perfect lighting",
+  "image": "image_9884.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

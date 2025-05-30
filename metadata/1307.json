@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #5224",
+  "description": "A noble king wearing an illustrious renaissance copper crown, standing in a throne room, oil painting style, highly detailed, perfect lighting",
+  "image": "image_5224.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

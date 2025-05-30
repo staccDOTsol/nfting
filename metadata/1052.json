@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4204",
+  "description": "A cunning werewolf wearing an illustrious renaissance emerald crown, standing in a meadow, oil painting style, highly detailed, perfect lighting",
+  "image": "image_4204.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #7084",
+  "description": "A fearsome fairy wearing an illustrious renaissance iron crown, standing in a ocean, anime style, highly detailed, perfect lighting",
+  "image": "image_7084.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

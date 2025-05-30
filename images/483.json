@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1928",
+  "description": "A mysterious ninja wearing an illustrious futuristic golden crown, standing in a desert, pixel art style, highly detailed, perfect lighting",
+  "image": "image_1928.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

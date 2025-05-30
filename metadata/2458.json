@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9828",
+  "description": "A powerful dwarf wearing an illustrious ornate bone crown, standing in a cosmic space, photorealistic style, highly detailed, perfect lighting",
+  "image": "image_9828.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "photorealistic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

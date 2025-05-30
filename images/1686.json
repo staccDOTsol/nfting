@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6740",
+  "description": "A powerful minotaur wearing an illustrious gothic obsidian crown, standing in a enchanted forest, illustration style, highly detailed, perfect lighting",
+  "image": "image_6740.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "minotaur"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

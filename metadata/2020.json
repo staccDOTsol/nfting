@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8076",
+  "description": "A mysterious vampire wearing an illustrious baroque floral crown, standing in a enchanted forest, oil painting style, highly detailed, perfect lighting",
+  "image": "image_8076.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

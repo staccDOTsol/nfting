@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9476",
+  "description": "A majestic dragon wearing an illustrious massive obsidian crown, standing in a ocean, illustration style, highly detailed, perfect lighting",
+  "image": "image_9476.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4644",
+  "description": "A mysterious vampire wearing an illustrious simple thorny crown, standing in a cosmic space, anime style, highly detailed, perfect lighting",
+  "image": "image_4644.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "thorny"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

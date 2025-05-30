@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8116",
+  "description": "A serene ranger wearing an illustrious steampunk wooden crown, standing in a battlefield, oil painting style, highly detailed, perfect lighting",
+  "image": "image_8116.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

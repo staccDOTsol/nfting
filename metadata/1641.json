@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6560",
+  "description": "A elegant ninja wearing an illustrious simple golden crown, standing in a enchanted forest, oil painting style, highly detailed, perfect lighting",
+  "image": "image_6560.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ninja"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

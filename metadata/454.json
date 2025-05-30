@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1812",
+  "description": "A imposing ranger wearing an illustrious delicate wooden crown, standing in a celestial realm, comic book style, highly detailed, perfect lighting",
+  "image": "image_1812.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "ranger"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

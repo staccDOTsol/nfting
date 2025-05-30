@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #1100",
+  "description": "A ancient dragon wearing an illustrious ornate floral crown, standing in a throne room, 3D render style, highly detailed, perfect lighting",
+  "image": "image_1100.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "throne room"
+    }
+  ]
+}

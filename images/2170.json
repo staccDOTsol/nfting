@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8676",
+  "description": "A ethereal king wearing an illustrious medieval silver crown, standing in a ocean, oil painting style, highly detailed, perfect lighting",
+  "image": "image_8676.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "king"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "oil painting"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

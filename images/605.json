@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2416",
+  "description": "A powerful fairy wearing an illustrious delicate wooden crown, standing in a hellscape, watercolor style, highly detailed, perfect lighting",
+  "image": "image_2416.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "watercolor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

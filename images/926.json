@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3700",
+  "description": "A noble werewolf wearing an illustrious medieval golden crown, standing in a ocean, comic book style, highly detailed, perfect lighting",
+  "image": "image_3700.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "golden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

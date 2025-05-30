@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4932",
+  "description": "A fearsome dwarf wearing an illustrious ornate emerald crown, standing in a hellscape, concept art style, highly detailed, perfect lighting",
+  "image": "image_4932.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dwarf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "emerald"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

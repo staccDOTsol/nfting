@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6960",
+  "description": "A ancient dragon wearing an illustrious delicate wooden crown, standing in a cosmic space, illustration style, highly detailed, perfect lighting",
+  "image": "image_6960.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "dragon"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

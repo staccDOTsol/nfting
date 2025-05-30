@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6552",
+  "description": "A regal elf wearing an illustrious spiky bronze crown, standing in a dungeon, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_6552.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "elf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

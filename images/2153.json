@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #8608",
+  "description": "A serene witch wearing an illustrious gothic ruby crown, standing in a desert, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_8608.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "witch"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

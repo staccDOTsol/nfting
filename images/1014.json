@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4052",
+  "description": "A imposing knight wearing an illustrious massive platinum crown, standing in a celestial realm, concept art style, highly detailed, perfect lighting",
+  "image": "image_4052.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "knight"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "concept art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "celestial realm"
+    }
+  ]
+}

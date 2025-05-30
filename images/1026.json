@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4100",
+  "description": "A mysterious werewolf wearing an illustrious medieval iron crown, standing in a cosmic space, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_4100.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "werewolf"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "cosmic space"
+    }
+  ]
+}

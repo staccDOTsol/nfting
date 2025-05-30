@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6664",
+  "description": "A serene fairy wearing an illustrious simple bone crown, standing in a ocean, comic book style, highly detailed, perfect lighting",
+  "image": "image_6664.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bone"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ocean"
+    }
+  ]
+}

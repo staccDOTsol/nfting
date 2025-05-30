@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #884",
+  "description": "A fearsome queen wearing an illustrious gothic wooden crown, standing in a enchanted forest, anime style, highly detailed, perfect lighting",
+  "image": "image_884.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "wooden"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "enchanted forest"
+    }
+  ]
+}

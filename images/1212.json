@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #4844",
+  "description": "A graceful vampire wearing an illustrious ornate ruby crown, standing in a void, pixel art style, highly detailed, perfect lighting",
+  "image": "image_4844.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "vampire"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "ruby"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "pixel art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

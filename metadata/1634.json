@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #6532",
+  "description": "A ethereal assassin wearing an illustrious gothic iron crown, standing in a void, anime style, highly detailed, perfect lighting",
+  "image": "image_6532.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "assassin"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Background",
+      "value": "void"
+    }
+  ]
+}

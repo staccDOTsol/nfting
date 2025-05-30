@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2960",
+  "description": "A majestic warrior wearing an illustrious minimalist iron crown, standing in a mountain peak, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_2960.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "iron"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mountain peak"
+    }
+  ]
+}

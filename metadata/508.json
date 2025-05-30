@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2028",
+  "description": "A mysterious mermaid wearing an illustrious renaissance platinum crown, standing in a dungeon, ink drawing style, highly detailed, perfect lighting",
+  "image": "image_2028.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "mermaid"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink drawing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "dungeon"
+    }
+  ]
+}

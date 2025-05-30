@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3004",
+  "description": "A elegant warrior wearing an illustrious medieval obsidian crown, standing in a hellscape, comic book style, highly detailed, perfect lighting",
+  "image": "image_3004.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "warrior"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "obsidian"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "comic book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hellscape"
+    }
+  ]
+}

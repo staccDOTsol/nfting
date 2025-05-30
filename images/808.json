@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #3228",
+  "description": "A ethereal fairy wearing an illustrious simple floral crown, standing in a battlefield, 3D render style, highly detailed, perfect lighting",
+  "image": "image_3228.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "fairy"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "battlefield"
+    }
+  ]
+}

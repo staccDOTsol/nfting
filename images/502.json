@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #2004",
+  "description": "A serene queen wearing an illustrious futuristic bronze crown, standing in a desert, illustration style, highly detailed, perfect lighting",
+  "image": "image_2004.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "bronze"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "illustration"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    }
+  ]
+}

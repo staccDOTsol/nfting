@@ -1,0 +1,23 @@
+{
+  "name": "Crowned Character #9984",
+  "description": "A noble queen wearing an illustrious steampunk platinum crown, standing in a meadow, fantasy art style, highly detailed, perfect lighting",
+  "image": "image_9984.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "queen"
+    },
+    {
+      "trait_type": "Crown Type",
+      "value": "platinum"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "fantasy art"
+    },
+    {
+      "trait_type": "Background",
+      "value": "meadow"
+    }
+  ]
+}
